@@ -1,0 +1,60 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/old/town/mj/coffee copy.png",
+                "type": "image",
+                "key": "coffee copy"
+            },
+            {
+                "url": "assets/media/rooms/old/town/mj/coffee.png",
+                "type": "image",
+                "key": "coffeemj"
+            },
+            {
+                "url": "assets/media/rooms/old/town/mj/mjtown-anims.json",
+                "type": "animation",
+                "key": "mjtown-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/town/mj/mountain2.png",
+                "type": "image",
+                "key": "mountain2"
+            },
+            {
+                "url": "assets/media/rooms/old/town/mj/roof.png",
+                "type": "image",
+                "key": "roof"
+            },
+            {
+                "url": "assets/media/rooms/old/town/mj/stadium6.png",
+                "type": "image",
+                "key": "stadium6"
+            },
+            {
+                "url": "assets/media/rooms/old/town/mj/town-physics.json",
+                "type": "json",
+                "key": "town-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/town/mj/town1.json",
+                "path": "assets/media/rooms/old/town/mj",
+                "key": "town1"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/town/mj/town.json",
+                "path": "assets/media/rooms/old/town/mj",
+                "key": "town2"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

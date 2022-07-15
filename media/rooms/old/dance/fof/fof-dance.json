@@ -1,0 +1,8101 @@
+{
+	"textures": [
+		{
+			"image": "fof-dance-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 1998
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fofbg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1596,
+						"h": 1001
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1596,
+						"h": 1001
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1596,
+						"h": 1001
+					}
+				},
+				{
+					"filename": "wall0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1612,
+						"h": 857
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 5,
+						"w": 1597,
+						"h": 852
+					},
+					"frame": {
+						"x": 1,
+						"y": 1004,
+						"w": 1597,
+						"h": 852
+					}
+				},
+				{
+					"filename": "bottomspeakerclouds0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 287,
+						"h": 344
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 287,
+						"h": 344
+					},
+					"frame": {
+						"x": 1599,
+						"y": 1,
+						"w": 287,
+						"h": 344
+					}
+				},
+				{
+					"filename": "floordayanim0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 874,
+						"y": 86,
+						"w": 386,
+						"h": 137
+					},
+					"frame": {
+						"x": 1,
+						"y": 1858,
+						"w": 386,
+						"h": 137
+					}
+				},
+				{
+					"filename": "floordayanim0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 876,
+						"y": 85,
+						"w": 381,
+						"h": 136
+					},
+					"frame": {
+						"x": 389,
+						"y": 1858,
+						"w": 381,
+						"h": 136
+					}
+				},
+				{
+					"filename": "floordayanim0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 878,
+						"y": 84,
+						"w": 377,
+						"h": 135
+					},
+					"frame": {
+						"x": 772,
+						"y": 1858,
+						"w": 377,
+						"h": 135
+					}
+				},
+				{
+					"filename": "floordayanim0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 880,
+						"y": 83,
+						"w": 372,
+						"h": 133
+					},
+					"frame": {
+						"x": 1151,
+						"y": 1858,
+						"w": 372,
+						"h": 133
+					}
+				},
+				{
+					"filename": "light",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 111,
+						"h": 340
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 111,
+						"h": 340
+					},
+					"frame": {
+						"x": 1599,
+						"y": 347,
+						"w": 111,
+						"h": 340
+					}
+				},
+				{
+					"filename": "lightclouds0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 139,
+						"h": 195
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 139,
+						"h": 195
+					},
+					"frame": {
+						"x": 1888,
+						"y": 1,
+						"w": 139,
+						"h": 195
+					}
+				},
+				{
+					"filename": "floordayanim0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 912,
+						"y": 59,
+						"w": 292,
+						"h": 117
+					},
+					"frame": {
+						"x": 1712,
+						"y": 347,
+						"w": 292,
+						"h": 117
+					}
+				},
+				{
+					"filename": "floordayanim0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 914,
+						"y": 58,
+						"w": 287,
+						"h": 116
+					},
+					"frame": {
+						"x": 1712,
+						"y": 466,
+						"w": 287,
+						"h": 116
+					}
+				},
+				{
+					"filename": "floordayanim0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 915,
+						"y": 56,
+						"w": 284,
+						"h": 115
+					},
+					"frame": {
+						"x": 1712,
+						"y": 584,
+						"w": 284,
+						"h": 115
+					}
+				},
+				{
+					"filename": "floordayanim0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 881,
+						"y": 81,
+						"w": 369,
+						"h": 133
+					},
+					"frame": {
+						"x": 1599,
+						"y": 701,
+						"w": 369,
+						"h": 133
+					}
+				},
+				{
+					"filename": "floordayanim0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 883,
+						"y": 80,
+						"w": 364,
+						"h": 132
+					},
+					"frame": {
+						"x": 1599,
+						"y": 836,
+						"w": 364,
+						"h": 132
+					}
+				},
+				{
+					"filename": "floordayanim0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 885,
+						"y": 79,
+						"w": 359,
+						"h": 130
+					},
+					"frame": {
+						"x": 1600,
+						"y": 970,
+						"w": 359,
+						"h": 130
+					}
+				},
+				{
+					"filename": "floordayanim0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 887,
+						"y": 77,
+						"w": 355,
+						"h": 130
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1102,
+						"w": 355,
+						"h": 130
+					}
+				},
+				{
+					"filename": "floordayanim0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 917,
+						"y": 54,
+						"w": 279,
+						"h": 115
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1234,
+						"w": 279,
+						"h": 115
+					}
+				},
+				{
+					"filename": "floordayanim0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 919,
+						"y": 52,
+						"w": 274,
+						"h": 115
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1351,
+						"w": 274,
+						"h": 115
+					}
+				},
+				{
+					"filename": "floordayanim0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 921,
+						"y": 50,
+						"w": 270,
+						"h": 115
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1468,
+						"w": 270,
+						"h": 115
+					}
+				},
+				{
+					"filename": "floordayanim0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 923,
+						"y": 49,
+						"w": 265,
+						"h": 114
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1585,
+						"w": 265,
+						"h": 114
+					}
+				},
+				{
+					"filename": "floordayanim0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 924,
+						"y": 47,
+						"w": 261,
+						"h": 113
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1701,
+						"w": 261,
+						"h": 113
+					}
+				},
+				{
+					"filename": "floordayanim0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 966,
+						"y": 6,
+						"w": 158,
+						"h": 103
+					},
+					"frame": {
+						"x": 1888,
+						"y": 198,
+						"w": 158,
+						"h": 103
+					}
+				},
+				{
+					"filename": "floordayanim0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 962,
+						"y": 10,
+						"w": 167,
+						"h": 103
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1816,
+						"w": 167,
+						"h": 103
+					}
+				},
+				{
+					"filename": "floordayanim0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 969,
+						"y": 3,
+						"w": 149,
+						"h": 101
+					},
+					"frame": {
+						"x": 1769,
+						"y": 1816,
+						"w": 149,
+						"h": 101
+					}
+				},
+				{
+					"filename": "floordayanim0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 971,
+						"y": 1,
+						"w": 144,
+						"h": 101
+					},
+					"frame": {
+						"x": 1881,
+						"y": 1234,
+						"w": 144,
+						"h": 101
+					}
+				},
+				{
+					"filename": "floordayanim0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 973,
+						"y": 0,
+						"w": 140,
+						"h": 100
+					},
+					"frame": {
+						"x": 1881,
+						"y": 1337,
+						"w": 140,
+						"h": 100
+					}
+				},
+				{
+					"filename": "floordayanim0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 987,
+						"y": 16,
+						"w": 123,
+						"h": 82
+					},
+					"frame": {
+						"x": 1876,
+						"y": 1439,
+						"w": 123,
+						"h": 82
+					}
+				},
+				{
+					"filename": "floordayanim0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 986,
+						"y": 15,
+						"w": 122,
+						"h": 80
+					},
+					"frame": {
+						"x": 1872,
+						"y": 1523,
+						"w": 122,
+						"h": 80
+					}
+				},
+				{
+					"filename": "floordayanim0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 984,
+						"y": 14,
+						"w": 121,
+						"h": 79
+					},
+					"frame": {
+						"x": 1867,
+						"y": 1605,
+						"w": 121,
+						"h": 79
+					}
+				},
+				{
+					"filename": "floordayanim0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 983,
+						"y": 12,
+						"w": 119,
+						"h": 79
+					},
+					"frame": {
+						"x": 1867,
+						"y": 1686,
+						"w": 119,
+						"h": 79
+					}
+				},
+				{
+					"filename": "floordayanim0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 982,
+						"y": 11,
+						"w": 118,
+						"h": 78
+					},
+					"frame": {
+						"x": 1769,
+						"y": 1919,
+						"w": 118,
+						"h": 78
+					}
+				},
+				{
+					"filename": "floordayanim0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 981,
+						"y": 10,
+						"w": 116,
+						"h": 76
+					},
+					"frame": {
+						"x": 1525,
+						"y": 1921,
+						"w": 116,
+						"h": 76
+					}
+				},
+				{
+					"filename": "floordayanim0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 979,
+						"y": 8,
+						"w": 115,
+						"h": 76
+					},
+					"frame": {
+						"x": 1643,
+						"y": 1921,
+						"w": 115,
+						"h": 76
+					}
+				},
+				{
+					"filename": "floordayanim0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 978,
+						"y": 7,
+						"w": 113,
+						"h": 75
+					},
+					"frame": {
+						"x": 1889,
+						"y": 1919,
+						"w": 113,
+						"h": 75
+					}
+				},
+				{
+					"filename": "floordayanim0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 977,
+						"y": 6,
+						"w": 112,
+						"h": 74
+					},
+					"frame": {
+						"x": 1920,
+						"y": 1767,
+						"w": 112,
+						"h": 74
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2011,
+				"h": 2004
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0316",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 291,
+						"w": 1914,
+						"h": 500
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1914,
+						"h": 500
+					}
+				},
+				{
+					"filename": "floordayanim0315",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 290,
+						"w": 1909,
+						"h": 500
+					},
+					"frame": {
+						"x": 1,
+						"y": 503,
+						"w": 1909,
+						"h": 500
+					}
+				},
+				{
+					"filename": "floordayanim0314",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 289,
+						"w": 1903,
+						"h": 498
+					},
+					"frame": {
+						"x": 1,
+						"y": 1005,
+						"w": 1903,
+						"h": 498
+					}
+				},
+				{
+					"filename": "floordayanim0313",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 287,
+						"w": 1897,
+						"h": 498
+					},
+					"frame": {
+						"x": 1,
+						"y": 1505,
+						"w": 1897,
+						"h": 498
+					}
+				},
+				{
+					"filename": "floordayanim0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 976,
+						"y": 5,
+						"w": 110,
+						"h": 73
+					},
+					"frame": {
+						"x": 1900,
+						"y": 1505,
+						"w": 110,
+						"h": 73
+					}
+				},
+				{
+					"filename": "floordayanim0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 975,
+						"y": 4,
+						"w": 108,
+						"h": 71
+					},
+					"frame": {
+						"x": 1900,
+						"y": 1580,
+						"w": 108,
+						"h": 71
+					}
+				},
+				{
+					"filename": "floordayanim0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 974,
+						"y": 2,
+						"w": 107,
+						"h": 71
+					},
+					"frame": {
+						"x": 1900,
+						"y": 1653,
+						"w": 107,
+						"h": 71
+					}
+				},
+				{
+					"filename": "floordayanim0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 972,
+						"y": 1,
+						"w": 106,
+						"h": 70
+					},
+					"frame": {
+						"x": 1900,
+						"y": 1726,
+						"w": 106,
+						"h": 70
+					}
+				},
+				{
+					"filename": "floordayanim0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 971,
+						"y": 0,
+						"w": 104,
+						"h": 68
+					},
+					"frame": {
+						"x": 1900,
+						"y": 1798,
+						"w": 104,
+						"h": 68
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 1969
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0318",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 293,
+						"w": 1923,
+						"h": 485
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1923,
+						"h": 485
+					}
+				},
+				{
+					"filename": "floordayanim0317",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 292,
+						"w": 1920,
+						"h": 484
+					},
+					"frame": {
+						"x": 1,
+						"y": 488,
+						"w": 1920,
+						"h": 484
+					}
+				},
+				{
+					"filename": "floordayanim0312",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 286,
+						"w": 1891,
+						"h": 497
+					},
+					"frame": {
+						"x": 1,
+						"y": 974,
+						"w": 1891,
+						"h": 497
+					}
+				},
+				{
+					"filename": "floordayanim0311",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 285,
+						"w": 1886,
+						"h": 495
+					},
+					"frame": {
+						"x": 1,
+						"y": 1473,
+						"w": 1886,
+						"h": 495
+					}
+				},
+				{
+					"filename": "floordayanim0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 967,
+						"y": 4,
+						"w": 154,
+						"h": 103
+					},
+					"frame": {
+						"x": 1889,
+						"y": 1473,
+						"w": 154,
+						"h": 103
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 1974
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0310",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 284,
+						"w": 1880,
+						"h": 494
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1880,
+						"h": 494
+					}
+				},
+				{
+					"filename": "floordayanim0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 964,
+						"y": 8,
+						"w": 163,
+						"h": 103
+					},
+					"frame": {
+						"x": 1883,
+						"y": 1,
+						"w": 163,
+						"h": 103
+					}
+				},
+				{
+					"filename": "floordayanim0309",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 283,
+						"w": 1874,
+						"h": 492
+					},
+					"frame": {
+						"x": 1,
+						"y": 497,
+						"w": 1874,
+						"h": 492
+					}
+				},
+				{
+					"filename": "floordayanim0308",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 282,
+						"w": 1869,
+						"h": 491
+					},
+					"frame": {
+						"x": 1,
+						"y": 991,
+						"w": 1869,
+						"h": 491
+					}
+				},
+				{
+					"filename": "floordayanim0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 960,
+						"y": 11,
+						"w": 172,
+						"h": 105
+					},
+					"frame": {
+						"x": 1872,
+						"y": 991,
+						"w": 172,
+						"h": 105
+					}
+				},
+				{
+					"filename": "floordayanim0307",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 281,
+						"w": 1863,
+						"h": 489
+					},
+					"frame": {
+						"x": 1,
+						"y": 1484,
+						"w": 1863,
+						"h": 489
+					}
+				},
+				{
+					"filename": "floordayanim0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 957,
+						"y": 15,
+						"w": 180,
+						"h": 105
+					},
+					"frame": {
+						"x": 1866,
+						"y": 1484,
+						"w": 180,
+						"h": 105
+					}
+				},
+				{
+					"filename": "floordayanim0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 958,
+						"y": 13,
+						"w": 176,
+						"h": 105
+					},
+					"frame": {
+						"x": 1866,
+						"y": 1591,
+						"w": 176,
+						"h": 105
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 1956
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0306",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 279,
+						"w": 1857,
+						"h": 489
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1857,
+						"h": 489
+					}
+				},
+				{
+					"filename": "floordayanim0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 955,
+						"y": 17,
+						"w": 185,
+						"h": 105
+					},
+					"frame": {
+						"x": 1860,
+						"y": 1,
+						"w": 185,
+						"h": 105
+					}
+				},
+				{
+					"filename": "floordayanim0305",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 278,
+						"w": 1852,
+						"h": 488
+					},
+					"frame": {
+						"x": 1,
+						"y": 492,
+						"w": 1852,
+						"h": 488
+					}
+				},
+				{
+					"filename": "floordayanim0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 953,
+						"y": 19,
+						"w": 190,
+						"h": 105
+					},
+					"frame": {
+						"x": 1855,
+						"y": 492,
+						"w": 190,
+						"h": 105
+					}
+				},
+				{
+					"filename": "floordayanim0304",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 277,
+						"w": 1846,
+						"h": 486
+					},
+					"frame": {
+						"x": 1,
+						"y": 982,
+						"w": 1846,
+						"h": 486
+					}
+				},
+				{
+					"filename": "floordayanim0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 951,
+						"y": 20,
+						"w": 194,
+						"h": 107
+					},
+					"frame": {
+						"x": 1849,
+						"y": 982,
+						"w": 194,
+						"h": 107
+					}
+				},
+				{
+					"filename": "floordayanim0303",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 276,
+						"w": 1841,
+						"h": 485
+					},
+					"frame": {
+						"x": 1,
+						"y": 1470,
+						"w": 1841,
+						"h": 485
+					}
+				},
+				{
+					"filename": "floordayanim0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 948,
+						"y": 24,
+						"w": 202,
+						"h": 107
+					},
+					"frame": {
+						"x": 1844,
+						"y": 1470,
+						"w": 202,
+						"h": 107
+					}
+				},
+				{
+					"filename": "floordayanim0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 949,
+						"y": 22,
+						"w": 199,
+						"h": 107
+					},
+					"frame": {
+						"x": 1844,
+						"y": 1579,
+						"w": 199,
+						"h": 107
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2042,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0302",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 275,
+						"w": 1834,
+						"h": 483
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1834,
+						"h": 483
+					}
+				},
+				{
+					"filename": "floordayanim0301",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 274,
+						"w": 1829,
+						"h": 482
+					},
+					"frame": {
+						"x": 1,
+						"y": 486,
+						"w": 1829,
+						"h": 482
+					}
+				},
+				{
+					"filename": "floordayanim0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 946,
+						"y": 26,
+						"w": 207,
+						"h": 107
+					},
+					"frame": {
+						"x": 1832,
+						"y": 486,
+						"w": 207,
+						"h": 107
+					}
+				},
+				{
+					"filename": "floordayanim0300",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 273,
+						"w": 1823,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 970,
+						"w": 1823,
+						"h": 480
+					}
+				},
+				{
+					"filename": "floordayanim0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 944,
+						"y": 28,
+						"w": 212,
+						"h": 108
+					},
+					"frame": {
+						"x": 1826,
+						"y": 970,
+						"w": 212,
+						"h": 108
+					}
+				},
+				{
+					"filename": "floordayanim0299",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 271,
+						"w": 1817,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 1452,
+						"w": 1817,
+						"h": 480
+					}
+				},
+				{
+					"filename": "floordayanim0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 940,
+						"y": 31,
+						"w": 221,
+						"h": 109
+					},
+					"frame": {
+						"x": 1820,
+						"y": 1452,
+						"w": 221,
+						"h": 109
+					}
+				},
+				{
+					"filename": "floordayanim0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 926,
+						"y": 45,
+						"w": 256,
+						"h": 113
+					},
+					"frame": {
+						"x": 1,
+						"y": 1934,
+						"w": 256,
+						"h": 113
+					}
+				},
+				{
+					"filename": "floordayanim0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 928,
+						"y": 43,
+						"w": 252,
+						"h": 113
+					},
+					"frame": {
+						"x": 259,
+						"y": 1934,
+						"w": 252,
+						"h": 113
+					}
+				},
+				{
+					"filename": "floordayanim0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 930,
+						"y": 41,
+						"w": 247,
+						"h": 113
+					},
+					"frame": {
+						"x": 513,
+						"y": 1934,
+						"w": 247,
+						"h": 113
+					}
+				},
+				{
+					"filename": "floordayanim0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 932,
+						"y": 40,
+						"w": 243,
+						"h": 111
+					},
+					"frame": {
+						"x": 762,
+						"y": 1934,
+						"w": 243,
+						"h": 111
+					}
+				},
+				{
+					"filename": "floordayanim0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 933,
+						"y": 38,
+						"w": 239,
+						"h": 111
+					},
+					"frame": {
+						"x": 1007,
+						"y": 1934,
+						"w": 239,
+						"h": 111
+					}
+				},
+				{
+					"filename": "floordayanim0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 935,
+						"y": 36,
+						"w": 234,
+						"h": 111
+					},
+					"frame": {
+						"x": 1248,
+						"y": 1934,
+						"w": 234,
+						"h": 111
+					}
+				},
+				{
+					"filename": "floordayanim0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 937,
+						"y": 34,
+						"w": 230,
+						"h": 110
+					},
+					"frame": {
+						"x": 1484,
+						"y": 1934,
+						"w": 230,
+						"h": 110
+					}
+				},
+				{
+					"filename": "floordayanim0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 938,
+						"y": 33,
+						"w": 226,
+						"h": 109
+					},
+					"frame": {
+						"x": 1716,
+						"y": 1934,
+						"w": 226,
+						"h": 109
+					}
+				},
+				{
+					"filename": "floordayanim0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 942,
+						"y": 29,
+						"w": 216,
+						"h": 109
+					},
+					"frame": {
+						"x": 1820,
+						"y": 1563,
+						"w": 216,
+						"h": 109
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2046,
+				"h": 2044
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0298",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 270,
+						"w": 1812,
+						"h": 478
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1812,
+						"h": 478
+					}
+				},
+				{
+					"filename": "floordayanim0297",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 269,
+						"w": 1806,
+						"h": 477
+					},
+					"frame": {
+						"x": 1,
+						"y": 481,
+						"w": 1806,
+						"h": 477
+					}
+				},
+				{
+					"filename": "floordayanim0296",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 268,
+						"w": 1799,
+						"h": 476
+					},
+					"frame": {
+						"x": 1,
+						"y": 960,
+						"w": 1799,
+						"h": 476
+					}
+				},
+				{
+					"filename": "floordayanim0295",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 267,
+						"w": 1794,
+						"h": 474
+					},
+					"frame": {
+						"x": 1,
+						"y": 1438,
+						"w": 1794,
+						"h": 474
+					}
+				},
+				{
+					"filename": "floordayanim0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 889,
+						"y": 76,
+						"w": 350,
+						"h": 129
+					},
+					"frame": {
+						"x": 1,
+						"y": 1914,
+						"w": 350,
+						"h": 129
+					}
+				},
+				{
+					"filename": "floordayanim0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 891,
+						"y": 75,
+						"w": 345,
+						"h": 128
+					},
+					"frame": {
+						"x": 353,
+						"y": 1914,
+						"w": 345,
+						"h": 128
+					}
+				},
+				{
+					"filename": "floordayanim0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 892,
+						"y": 73,
+						"w": 342,
+						"h": 127
+					},
+					"frame": {
+						"x": 700,
+						"y": 1914,
+						"w": 342,
+						"h": 127
+					}
+				},
+				{
+					"filename": "floordayanim0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 894,
+						"y": 72,
+						"w": 337,
+						"h": 126
+					},
+					"frame": {
+						"x": 1044,
+						"y": 1914,
+						"w": 337,
+						"h": 126
+					}
+				},
+				{
+					"filename": "floordayanim0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 896,
+						"y": 71,
+						"w": 332,
+						"h": 125
+					},
+					"frame": {
+						"x": 1383,
+						"y": 1914,
+						"w": 332,
+						"h": 125
+					}
+				},
+				{
+					"filename": "floordayanim0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 898,
+						"y": 70,
+						"w": 328,
+						"h": 124
+					},
+					"frame": {
+						"x": 1717,
+						"y": 1914,
+						"w": 328,
+						"h": 124
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1887,
+				"h": 2016
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0294",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 266,
+						"w": 1788,
+						"h": 473
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1788,
+						"h": 473
+					}
+				},
+				{
+					"filename": "floordayanim0293",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 265,
+						"w": 1783,
+						"h": 471
+					},
+					"frame": {
+						"x": 1,
+						"y": 476,
+						"w": 1783,
+						"h": 471
+					}
+				},
+				{
+					"filename": "floordayanim0292",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 264,
+						"w": 1777,
+						"h": 470
+					},
+					"frame": {
+						"x": 1,
+						"y": 949,
+						"w": 1777,
+						"h": 470
+					}
+				},
+				{
+					"filename": "floordayanim0291",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 262,
+						"w": 1771,
+						"h": 469
+					},
+					"frame": {
+						"x": 1,
+						"y": 1421,
+						"w": 1771,
+						"h": 469
+					}
+				},
+				{
+					"filename": "floordayanim0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 900,
+						"y": 69,
+						"w": 323,
+						"h": 123
+					},
+					"frame": {
+						"x": 1,
+						"y": 1892,
+						"w": 323,
+						"h": 123
+					}
+				},
+				{
+					"filename": "floordayanim0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 901,
+						"y": 68,
+						"w": 319,
+						"h": 121
+					},
+					"frame": {
+						"x": 326,
+						"y": 1892,
+						"w": 319,
+						"h": 121
+					}
+				},
+				{
+					"filename": "floordayanim0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 903,
+						"y": 66,
+						"w": 315,
+						"h": 121
+					},
+					"frame": {
+						"x": 647,
+						"y": 1892,
+						"w": 315,
+						"h": 121
+					}
+				},
+				{
+					"filename": "floordayanim0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 905,
+						"y": 65,
+						"w": 310,
+						"h": 120
+					},
+					"frame": {
+						"x": 964,
+						"y": 1892,
+						"w": 310,
+						"h": 120
+					}
+				},
+				{
+					"filename": "floordayanim0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 906,
+						"y": 64,
+						"w": 306,
+						"h": 119
+					},
+					"frame": {
+						"x": 1276,
+						"y": 1892,
+						"w": 306,
+						"h": 119
+					}
+				},
+				{
+					"filename": "floordayanim0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 908,
+						"y": 63,
+						"w": 302,
+						"h": 118
+					},
+					"frame": {
+						"x": 1584,
+						"y": 1892,
+						"w": 302,
+						"h": 118
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1768,
+				"h": 1991
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0290",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 261,
+						"w": 1766,
+						"h": 468
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1766,
+						"h": 468
+					}
+				},
+				{
+					"filename": "floordayanim0289",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 260,
+						"w": 1760,
+						"h": 467
+					},
+					"frame": {
+						"x": 1,
+						"y": 471,
+						"w": 1760,
+						"h": 467
+					}
+				},
+				{
+					"filename": "floordayanim0288",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 259,
+						"w": 1754,
+						"h": 465
+					},
+					"frame": {
+						"x": 1,
+						"y": 940,
+						"w": 1754,
+						"h": 465
+					}
+				},
+				{
+					"filename": "floordayanim0287",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 93,
+						"y": 258,
+						"w": 1748,
+						"h": 464
+					},
+					"frame": {
+						"x": 1,
+						"y": 1407,
+						"w": 1748,
+						"h": 464
+					}
+				},
+				{
+					"filename": "floordayanim0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 910,
+						"y": 61,
+						"w": 297,
+						"h": 117
+					},
+					"frame": {
+						"x": 1,
+						"y": 1873,
+						"w": 297,
+						"h": 117
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1745,
+				"h": 1848
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0286",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 257,
+						"w": 1743,
+						"h": 462
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1743,
+						"h": 462
+					}
+				},
+				{
+					"filename": "floordayanim0285",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 256,
+						"w": 1737,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 465,
+						"w": 1737,
+						"h": 461
+					}
+				},
+				{
+					"filename": "floordayanim0284",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 255,
+						"w": 1732,
+						"h": 459
+					},
+					"frame": {
+						"x": 1,
+						"y": 928,
+						"w": 1732,
+						"h": 459
+					}
+				},
+				{
+					"filename": "floordayanim0283",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 254,
+						"w": 1726,
+						"h": 458
+					},
+					"frame": {
+						"x": 1,
+						"y": 1389,
+						"w": 1726,
+						"h": 458
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1722,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0282",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 252,
+						"w": 1720,
+						"h": 458
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1720,
+						"h": 458
+					}
+				},
+				{
+					"filename": "floordayanim0281",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 251,
+						"w": 1714,
+						"h": 456
+					},
+					"frame": {
+						"x": 1,
+						"y": 461,
+						"w": 1714,
+						"h": 456
+					}
+				},
+				{
+					"filename": "floordayanim0280",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 250,
+						"w": 1709,
+						"h": 455
+					},
+					"frame": {
+						"x": 1,
+						"y": 919,
+						"w": 1709,
+						"h": 455
+					}
+				},
+				{
+					"filename": "floordayanim0279",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 249,
+						"w": 1703,
+						"h": 453
+					},
+					"frame": {
+						"x": 1,
+						"y": 1376,
+						"w": 1703,
+						"h": 453
+					}
+				},
+				{
+					"filename": "floordayanim0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 738,
+						"y": 18,
+						"w": 536,
+						"h": 216
+					},
+					"frame": {
+						"x": 1,
+						"y": 1831,
+						"w": 536,
+						"h": 216
+					}
+				},
+				{
+					"filename": "floordayanim0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 740,
+						"y": 17,
+						"w": 531,
+						"h": 215
+					},
+					"frame": {
+						"x": 539,
+						"y": 1831,
+						"w": 531,
+						"h": 215
+					}
+				},
+				{
+					"filename": "floordayanim0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 744,
+						"y": 15,
+						"w": 524,
+						"h": 215
+					},
+					"frame": {
+						"x": 1072,
+						"y": 1831,
+						"w": 524,
+						"h": 215
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1906,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0278",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 248,
+						"w": 1698,
+						"h": 452
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1698,
+						"h": 452
+					}
+				},
+				{
+					"filename": "floordayanim0277",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 246,
+						"w": 1692,
+						"h": 451
+					},
+					"frame": {
+						"x": 1,
+						"y": 455,
+						"w": 1692,
+						"h": 451
+					}
+				},
+				{
+					"filename": "floordayanim0276",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 245,
+						"w": 1686,
+						"h": 450
+					},
+					"frame": {
+						"x": 1,
+						"y": 908,
+						"w": 1686,
+						"h": 450
+					}
+				},
+				{
+					"filename": "floordayanim0275",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 244,
+						"w": 1680,
+						"h": 449
+					},
+					"frame": {
+						"x": 1,
+						"y": 1360,
+						"w": 1680,
+						"h": 449
+					}
+				},
+				{
+					"filename": "floordayanim0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 683,
+						"y": 38,
+						"w": 639,
+						"h": 236
+					},
+					"frame": {
+						"x": 1,
+						"y": 1811,
+						"w": 639,
+						"h": 236
+					}
+				},
+				{
+					"filename": "floordayanim0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 686,
+						"y": 37,
+						"w": 633,
+						"h": 235
+					},
+					"frame": {
+						"x": 642,
+						"y": 1811,
+						"w": 633,
+						"h": 235
+					}
+				},
+				{
+					"filename": "floordayanim0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 689,
+						"y": 36,
+						"w": 628,
+						"h": 234
+					},
+					"frame": {
+						"x": 1277,
+						"y": 1811,
+						"w": 628,
+						"h": 234
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2027,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0274",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 243,
+						"w": 1674,
+						"h": 447
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1674,
+						"h": 447
+					}
+				},
+				{
+					"filename": "floordayanim0273",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 242,
+						"w": 1669,
+						"h": 446
+					},
+					"frame": {
+						"x": 1,
+						"y": 450,
+						"w": 1669,
+						"h": 446
+					}
+				},
+				{
+					"filename": "floordayanim0272",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 138,
+						"y": 241,
+						"w": 1663,
+						"h": 444
+					},
+					"frame": {
+						"x": 1,
+						"y": 898,
+						"w": 1663,
+						"h": 444
+					}
+				},
+				{
+					"filename": "floordayanim0271",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 142,
+						"y": 240,
+						"w": 1657,
+						"h": 443
+					},
+					"frame": {
+						"x": 1,
+						"y": 1344,
+						"w": 1657,
+						"h": 443
+					}
+				},
+				{
+					"filename": "floordayanim0113",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 622,
+						"y": 61,
+						"w": 754,
+						"h": 258
+					},
+					"frame": {
+						"x": 1,
+						"y": 1789,
+						"w": 754,
+						"h": 258
+					}
+				},
+				{
+					"filename": "floordayanim0112",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 625,
+						"y": 60,
+						"w": 748,
+						"h": 257
+					},
+					"frame": {
+						"x": 757,
+						"y": 1789,
+						"w": 748,
+						"h": 257
+					}
+				},
+				{
+					"filename": "floordayanim0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 747,
+						"y": 14,
+						"w": 519,
+						"h": 213
+					},
+					"frame": {
+						"x": 1507,
+						"y": 1789,
+						"w": 519,
+						"h": 213
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1746,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0270",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 144,
+						"y": 239,
+						"w": 1652,
+						"h": 441
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1652,
+						"h": 441
+					}
+				},
+				{
+					"filename": "floordayanim0269",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 148,
+						"y": 238,
+						"w": 1645,
+						"h": 440
+					},
+					"frame": {
+						"x": 1,
+						"y": 444,
+						"w": 1645,
+						"h": 440
+					}
+				},
+				{
+					"filename": "floordayanim0268",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 151,
+						"y": 237,
+						"w": 1639,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 886,
+						"w": 1639,
+						"h": 438
+					}
+				},
+				{
+					"filename": "floordayanim0267",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 235,
+						"w": 1635,
+						"h": 438
+					},
+					"frame": {
+						"x": 1,
+						"y": 1326,
+						"w": 1635,
+						"h": 438
+					}
+				},
+				{
+					"filename": "floordayanim0134",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 558,
+						"y": 85,
+						"w": 874,
+						"h": 281
+					},
+					"frame": {
+						"x": 1,
+						"y": 1766,
+						"w": 874,
+						"h": 281
+					}
+				},
+				{
+					"filename": "floordayanim0133",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 561,
+						"y": 83,
+						"w": 868,
+						"h": 281
+					},
+					"frame": {
+						"x": 877,
+						"y": 1766,
+						"w": 868,
+						"h": 281
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1942,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0266",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 157,
+						"y": 234,
+						"w": 1628,
+						"h": 437
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1628,
+						"h": 437
+					}
+				},
+				{
+					"filename": "floordayanim0265",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 160,
+						"y": 233,
+						"w": 1623,
+						"h": 435
+					},
+					"frame": {
+						"x": 1,
+						"y": 440,
+						"w": 1623,
+						"h": 435
+					}
+				},
+				{
+					"filename": "floordayanim0264",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 232,
+						"w": 1617,
+						"h": 434
+					},
+					"frame": {
+						"x": 1,
+						"y": 877,
+						"w": 1617,
+						"h": 434
+					}
+				},
+				{
+					"filename": "floordayanim0263",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 166,
+						"y": 231,
+						"w": 1612,
+						"h": 432
+					},
+					"frame": {
+						"x": 1,
+						"y": 1313,
+						"w": 1612,
+						"h": 432
+					}
+				},
+				{
+					"filename": "floordayanim0151",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 506,
+						"y": 104,
+						"w": 972,
+						"h": 300
+					},
+					"frame": {
+						"x": 1,
+						"y": 1747,
+						"w": 972,
+						"h": 300
+					}
+				},
+				{
+					"filename": "floordayanim0150",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 509,
+						"y": 103,
+						"w": 966,
+						"h": 299
+					},
+					"frame": {
+						"x": 975,
+						"y": 1747,
+						"w": 966,
+						"h": 299
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2045,
+				"h": 2039
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0262",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 169,
+						"y": 230,
+						"w": 1605,
+						"h": 431
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1605,
+						"h": 431
+					}
+				},
+				{
+					"filename": "floordayanim0261",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 172,
+						"y": 229,
+						"w": 1600,
+						"h": 429
+					},
+					"frame": {
+						"x": 1,
+						"y": 434,
+						"w": 1600,
+						"h": 429
+					}
+				},
+				{
+					"filename": "floordayanim0260",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 175,
+						"y": 227,
+						"w": 1594,
+						"h": 429
+					},
+					"frame": {
+						"x": 1,
+						"y": 865,
+						"w": 1594,
+						"h": 429
+					}
+				},
+				{
+					"filename": "floordayanim0259",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 226,
+						"w": 1588,
+						"h": 428
+					},
+					"frame": {
+						"x": 1,
+						"y": 1296,
+						"w": 1588,
+						"h": 428
+					}
+				},
+				{
+					"filename": "speakerclouds0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1224,
+						"h": 581
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 269,
+						"w": 1224,
+						"h": 312
+					},
+					"frame": {
+						"x": 1,
+						"y": 1726,
+						"w": 1224,
+						"h": 312
+					}
+				},
+				{
+					"filename": "floordayanim0124",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 588,
+						"y": 73,
+						"w": 817,
+						"h": 271
+					},
+					"frame": {
+						"x": 1227,
+						"y": 1726,
+						"w": 817,
+						"h": 271
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-16.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0258",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 181,
+						"y": 225,
+						"w": 1583,
+						"h": 426
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1583,
+						"h": 426
+					}
+				},
+				{
+					"filename": "floordayanim0257",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 184,
+						"y": 224,
+						"w": 1577,
+						"h": 425
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 1577,
+						"h": 425
+					}
+				},
+				{
+					"filename": "floordayanim0256",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 223,
+						"w": 1572,
+						"h": 423
+					},
+					"frame": {
+						"x": 1,
+						"y": 856,
+						"w": 1572,
+						"h": 423
+					}
+				},
+				{
+					"filename": "floordayanim0255",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 190,
+						"y": 222,
+						"w": 1566,
+						"h": 422
+					},
+					"frame": {
+						"x": 1,
+						"y": 1281,
+						"w": 1566,
+						"h": 422
+					}
+				},
+				{
+					"filename": "floordayanim0189",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 390,
+						"y": 147,
+						"w": 1189,
+						"h": 342
+					},
+					"frame": {
+						"x": 1,
+						"y": 1705,
+						"w": 1189,
+						"h": 342
+					}
+				},
+				{
+					"filename": "floordayanim0130",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 570,
+						"y": 80,
+						"w": 851,
+						"h": 277
+					},
+					"frame": {
+						"x": 1192,
+						"y": 1705,
+						"w": 851,
+						"h": 277
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-17.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2032,
+				"h": 2047
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0254",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 193,
+						"y": 221,
+						"w": 1560,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1560,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floordayanim0253",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 196,
+						"y": 219,
+						"w": 1555,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 1555,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floordayanim0252",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 199,
+						"y": 218,
+						"w": 1549,
+						"h": 419
+					},
+					"frame": {
+						"x": 1,
+						"y": 845,
+						"w": 1549,
+						"h": 419
+					}
+				},
+				{
+					"filename": "floordayanim0251",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 217,
+						"w": 1543,
+						"h": 417
+					},
+					"frame": {
+						"x": 1,
+						"y": 1266,
+						"w": 1543,
+						"h": 417
+					}
+				},
+				{
+					"filename": "floordayanim0206",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 339,
+						"y": 166,
+						"w": 1286,
+						"h": 361
+					},
+					"frame": {
+						"x": 1,
+						"y": 1685,
+						"w": 1286,
+						"h": 361
+					}
+				},
+				{
+					"filename": "floordayanim0111",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 628,
+						"y": 59,
+						"w": 742,
+						"h": 256
+					},
+					"frame": {
+						"x": 1289,
+						"y": 1685,
+						"w": 742,
+						"h": 256
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-18.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2037,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0250",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 205,
+						"y": 216,
+						"w": 1537,
+						"h": 416
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1537,
+						"h": 416
+					}
+				},
+				{
+					"filename": "floordayanim0249",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 208,
+						"y": 215,
+						"w": 1532,
+						"h": 414
+					},
+					"frame": {
+						"x": 1,
+						"y": 419,
+						"w": 1532,
+						"h": 414
+					}
+				},
+				{
+					"filename": "floordayanim0248",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 211,
+						"y": 214,
+						"w": 1526,
+						"h": 413
+					},
+					"frame": {
+						"x": 1,
+						"y": 835,
+						"w": 1526,
+						"h": 413
+					}
+				},
+				{
+					"filename": "floordayanim0247",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 215,
+						"y": 213,
+						"w": 1520,
+						"h": 411
+					},
+					"frame": {
+						"x": 1,
+						"y": 1250,
+						"w": 1520,
+						"h": 411
+					}
+				},
+				{
+					"filename": "floordayanim0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 750,
+						"y": 13,
+						"w": 513,
+						"h": 212
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1250,
+						"w": 513,
+						"h": 212
+					}
+				},
+				{
+					"filename": "floordayanim0226",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 278,
+						"y": 189,
+						"w": 1400,
+						"h": 384
+					},
+					"frame": {
+						"x": 1,
+						"y": 1663,
+						"w": 1400,
+						"h": 384
+					}
+				},
+				{
+					"filename": "floordayanim0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 692,
+						"y": 35,
+						"w": 622,
+						"h": 233
+					},
+					"frame": {
+						"x": 1403,
+						"y": 1663,
+						"w": 622,
+						"h": 233
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-19.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0246",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 217,
+						"y": 211,
+						"w": 1515,
+						"h": 411
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1515,
+						"h": 411
+					}
+				},
+				{
+					"filename": "floordayanim0245",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 221,
+						"y": 210,
+						"w": 1508,
+						"h": 410
+					},
+					"frame": {
+						"x": 1,
+						"y": 414,
+						"w": 1508,
+						"h": 410
+					}
+				},
+				{
+					"filename": "floordayanim0244",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 224,
+						"y": 209,
+						"w": 1502,
+						"h": 408
+					},
+					"frame": {
+						"x": 1,
+						"y": 826,
+						"w": 1502,
+						"h": 408
+					}
+				},
+				{
+					"filename": "floordayanim0243",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 227,
+						"y": 208,
+						"w": 1497,
+						"h": 407
+					},
+					"frame": {
+						"x": 1,
+						"y": 1236,
+						"w": 1497,
+						"h": 407
+					}
+				},
+				{
+					"filename": "floordayanim0239",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 203,
+						"w": 1474,
+						"h": 402
+					},
+					"frame": {
+						"x": 1,
+						"y": 1645,
+						"w": 1474,
+						"h": 402
+					}
+				},
+				{
+					"filename": "floordayanim0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 734,
+						"y": 19,
+						"w": 543,
+						"h": 217
+					},
+					"frame": {
+						"x": 1500,
+						"y": 1236,
+						"w": 543,
+						"h": 217
+					}
+				},
+				{
+					"filename": "floordayanim0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 722,
+						"y": 23,
+						"w": 565,
+						"h": 222
+					},
+					"frame": {
+						"x": 1477,
+						"y": 1645,
+						"w": 565,
+						"h": 222
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-20.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2022
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0242",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 230,
+						"y": 207,
+						"w": 1491,
+						"h": 405
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1491,
+						"h": 405
+					}
+				},
+				{
+					"filename": "floordayanim0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 731,
+						"y": 20,
+						"w": 548,
+						"h": 219
+					},
+					"frame": {
+						"x": 1494,
+						"y": 1,
+						"w": 548,
+						"h": 219
+					}
+				},
+				{
+					"filename": "floordayanim0241",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 233,
+						"y": 206,
+						"w": 1485,
+						"h": 404
+					},
+					"frame": {
+						"x": 1,
+						"y": 408,
+						"w": 1485,
+						"h": 404
+					}
+				},
+				{
+					"filename": "floordayanim0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 725,
+						"y": 22,
+						"w": 559,
+						"h": 221
+					},
+					"frame": {
+						"x": 1488,
+						"y": 408,
+						"w": 559,
+						"h": 221
+					}
+				},
+				{
+					"filename": "floordayanim0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 728,
+						"y": 21,
+						"w": 554,
+						"h": 220
+					},
+					"frame": {
+						"x": 1488,
+						"y": 631,
+						"w": 554,
+						"h": 220
+					}
+				},
+				{
+					"filename": "floordayanim0240",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 236,
+						"y": 204,
+						"w": 1480,
+						"h": 403
+					},
+					"frame": {
+						"x": 1,
+						"y": 814,
+						"w": 1480,
+						"h": 403
+					}
+				},
+				{
+					"filename": "floordayanim0238",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 242,
+						"y": 202,
+						"w": 1469,
+						"h": 401
+					},
+					"frame": {
+						"x": 1,
+						"y": 1219,
+						"w": 1469,
+						"h": 401
+					}
+				},
+				{
+					"filename": "floordayanim0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 719,
+						"y": 25,
+						"w": 571,
+						"h": 223
+					},
+					"frame": {
+						"x": 1472,
+						"y": 1219,
+						"w": 571,
+						"h": 223
+					}
+				},
+				{
+					"filename": "floordayanim0237",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 245,
+						"y": 201,
+						"w": 1462,
+						"h": 399
+					},
+					"frame": {
+						"x": 1,
+						"y": 1622,
+						"w": 1462,
+						"h": 399
+					}
+				},
+				{
+					"filename": "floordayanim0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 713,
+						"y": 27,
+						"w": 582,
+						"h": 225
+					},
+					"frame": {
+						"x": 1465,
+						"y": 1622,
+						"w": 582,
+						"h": 225
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-21.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2043,
+				"h": 1984
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0236",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 248,
+						"y": 200,
+						"w": 1457,
+						"h": 398
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1457,
+						"h": 398
+					}
+				},
+				{
+					"filename": "floordayanim0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 716,
+						"y": 26,
+						"w": 576,
+						"h": 224
+					},
+					"frame": {
+						"x": 1460,
+						"y": 1,
+						"w": 576,
+						"h": 224
+					}
+				},
+				{
+					"filename": "floordayanim0235",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 199,
+						"w": 1451,
+						"h": 396
+					},
+					"frame": {
+						"x": 1,
+						"y": 401,
+						"w": 1451,
+						"h": 396
+					}
+				},
+				{
+					"filename": "floordayanim0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 710,
+						"y": 28,
+						"w": 588,
+						"h": 226
+					},
+					"frame": {
+						"x": 1454,
+						"y": 401,
+						"w": 588,
+						"h": 226
+					}
+				},
+				{
+					"filename": "floordayanim0234",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 198,
+						"w": 1446,
+						"h": 395
+					},
+					"frame": {
+						"x": 1,
+						"y": 799,
+						"w": 1446,
+						"h": 395
+					}
+				},
+				{
+					"filename": "floordayanim0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 707,
+						"y": 29,
+						"w": 593,
+						"h": 227
+					},
+					"frame": {
+						"x": 1449,
+						"y": 799,
+						"w": 593,
+						"h": 227
+					}
+				},
+				{
+					"filename": "floordayanim0233",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 257,
+						"y": 197,
+						"w": 1440,
+						"h": 393
+					},
+					"frame": {
+						"x": 1,
+						"y": 1196,
+						"w": 1440,
+						"h": 393
+					}
+				},
+				{
+					"filename": "floordayanim0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 704,
+						"y": 30,
+						"w": 599,
+						"h": 229
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1196,
+						"w": 599,
+						"h": 229
+					}
+				},
+				{
+					"filename": "floordayanim0232",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 260,
+						"y": 196,
+						"w": 1434,
+						"h": 392
+					},
+					"frame": {
+						"x": 1,
+						"y": 1591,
+						"w": 1434,
+						"h": 392
+					}
+				},
+				{
+					"filename": "floordayanim0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 701,
+						"y": 32,
+						"w": 605,
+						"h": 229
+					},
+					"frame": {
+						"x": 1437,
+						"y": 1591,
+						"w": 605,
+						"h": 229
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-22.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2026,
+				"h": 1952
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0231",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 263,
+						"y": 195,
+						"w": 1429,
+						"h": 390
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1429,
+						"h": 390
+					}
+				},
+				{
+					"filename": "floordayanim0230",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 266,
+						"y": 193,
+						"w": 1423,
+						"h": 390
+					},
+					"frame": {
+						"x": 1,
+						"y": 393,
+						"w": 1423,
+						"h": 390
+					}
+				},
+				{
+					"filename": "floordayanim0229",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 269,
+						"y": 192,
+						"w": 1417,
+						"h": 389
+					},
+					"frame": {
+						"x": 1,
+						"y": 785,
+						"w": 1417,
+						"h": 389
+					}
+				},
+				{
+					"filename": "floordayanim0228",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 272,
+						"y": 191,
+						"w": 1411,
+						"h": 387
+					},
+					"frame": {
+						"x": 1,
+						"y": 1176,
+						"w": 1411,
+						"h": 387
+					}
+				},
+				{
+					"filename": "floordayanim0227",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 190,
+						"w": 1406,
+						"h": 386
+					},
+					"frame": {
+						"x": 1,
+						"y": 1565,
+						"w": 1406,
+						"h": 386
+					}
+				},
+				{
+					"filename": "floordayanim0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 695,
+						"y": 34,
+						"w": 616,
+						"h": 231
+					},
+					"frame": {
+						"x": 1409,
+						"y": 1565,
+						"w": 616,
+						"h": 231
+					}
+				},
+				{
+					"filename": "floordayanim0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 698,
+						"y": 33,
+						"w": 611,
+						"h": 230
+					},
+					"frame": {
+						"x": 1414,
+						"y": 1176,
+						"w": 611,
+						"h": 230
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-23.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2045,
+				"h": 1913
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0225",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 281,
+						"y": 188,
+						"w": 1395,
+						"h": 383
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1395,
+						"h": 383
+					}
+				},
+				{
+					"filename": "floordayanim0224",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 284,
+						"y": 187,
+						"w": 1389,
+						"h": 381
+					},
+					"frame": {
+						"x": 1,
+						"y": 386,
+						"w": 1389,
+						"h": 381
+					}
+				},
+				{
+					"filename": "floordayanim0223",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 287,
+						"y": 185,
+						"w": 1383,
+						"h": 381
+					},
+					"frame": {
+						"x": 1,
+						"y": 769,
+						"w": 1383,
+						"h": 381
+					}
+				},
+				{
+					"filename": "floordayanim0222",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 290,
+						"y": 184,
+						"w": 1377,
+						"h": 380
+					},
+					"frame": {
+						"x": 1,
+						"y": 1152,
+						"w": 1377,
+						"h": 380
+					}
+				},
+				{
+					"filename": "djwall0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 649,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 649,
+						"h": 263
+					},
+					"frame": {
+						"x": 1380,
+						"y": 1152,
+						"w": 649,
+						"h": 263
+					}
+				},
+				{
+					"filename": "floordayanim0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 674,
+						"y": 42,
+						"w": 656,
+						"h": 239
+					},
+					"frame": {
+						"x": 1386,
+						"y": 769,
+						"w": 656,
+						"h": 239
+					}
+				},
+				{
+					"filename": "floordayanim0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 677,
+						"y": 41,
+						"w": 650,
+						"h": 238
+					},
+					"frame": {
+						"x": 1392,
+						"y": 386,
+						"w": 650,
+						"h": 238
+					}
+				},
+				{
+					"filename": "floordayanim0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 680,
+						"y": 40,
+						"w": 645,
+						"h": 237
+					},
+					"frame": {
+						"x": 1398,
+						"y": 1,
+						"w": 645,
+						"h": 237
+					}
+				},
+				{
+					"filename": "floordayanim0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 671,
+						"y": 43,
+						"w": 662,
+						"h": 240
+					},
+					"frame": {
+						"x": 1380,
+						"y": 1417,
+						"w": 662,
+						"h": 240
+					}
+				},
+				{
+					"filename": "floordayanim0221",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 293,
+						"y": 183,
+						"w": 1372,
+						"h": 378
+					},
+					"frame": {
+						"x": 1,
+						"y": 1534,
+						"w": 1372,
+						"h": 378
+					}
+				},
+				{
+					"filename": "floordayanim0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 667,
+						"y": 44,
+						"w": 669,
+						"h": 242
+					},
+					"frame": {
+						"x": 1375,
+						"y": 1659,
+						"w": 669,
+						"h": 242
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-24.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 1883
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0220",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 296,
+						"y": 182,
+						"w": 1366,
+						"h": 377
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1366,
+						"h": 377
+					}
+				},
+				{
+					"filename": "floordayanim0219",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 299,
+						"y": 181,
+						"w": 1361,
+						"h": 375
+					},
+					"frame": {
+						"x": 1,
+						"y": 380,
+						"w": 1361,
+						"h": 375
+					}
+				},
+				{
+					"filename": "floordayanim0218",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 302,
+						"y": 180,
+						"w": 1355,
+						"h": 374
+					},
+					"frame": {
+						"x": 1,
+						"y": 757,
+						"w": 1355,
+						"h": 374
+					}
+				},
+				{
+					"filename": "floordayanim0217",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 306,
+						"y": 178,
+						"w": 1348,
+						"h": 374
+					},
+					"frame": {
+						"x": 1,
+						"y": 1133,
+						"w": 1348,
+						"h": 374
+					}
+				},
+				{
+					"filename": "floordayanim0216",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 309,
+						"y": 177,
+						"w": 1343,
+						"h": 373
+					},
+					"frame": {
+						"x": 1,
+						"y": 1509,
+						"w": 1343,
+						"h": 373
+					}
+				},
+				{
+					"filename": "floordayanim0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 665,
+						"y": 45,
+						"w": 673,
+						"h": 243
+					},
+					"frame": {
+						"x": 1369,
+						"y": 1,
+						"w": 673,
+						"h": 243
+					}
+				},
+				{
+					"filename": "floordayanim0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 656,
+						"y": 48,
+						"w": 690,
+						"h": 247
+					},
+					"frame": {
+						"x": 1351,
+						"y": 1133,
+						"w": 690,
+						"h": 247
+					}
+				},
+				{
+					"filename": "floordayanim0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 658,
+						"y": 47,
+						"w": 686,
+						"h": 245
+					},
+					"frame": {
+						"x": 1351,
+						"y": 1382,
+						"w": 686,
+						"h": 245
+					}
+				},
+				{
+					"filename": "floordayanim0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 652,
+						"y": 50,
+						"w": 697,
+						"h": 247
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1629,
+						"w": 697,
+						"h": 247
+					}
+				},
+				{
+					"filename": "floordayanim0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 661,
+						"y": 46,
+						"w": 680,
+						"h": 244
+					},
+					"frame": {
+						"x": 1358,
+						"y": 757,
+						"w": 680,
+						"h": 244
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-25.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 1997
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0215",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 312,
+						"y": 176,
+						"w": 1337,
+						"h": 372
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1337,
+						"h": 372
+					}
+				},
+				{
+					"filename": "floordayanim0214",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 315,
+						"y": 175,
+						"w": 1332,
+						"h": 370
+					},
+					"frame": {
+						"x": 1,
+						"y": 375,
+						"w": 1332,
+						"h": 370
+					}
+				},
+				{
+					"filename": "floordayanim0213",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 318,
+						"y": 174,
+						"w": 1326,
+						"h": 369
+					},
+					"frame": {
+						"x": 1,
+						"y": 747,
+						"w": 1326,
+						"h": 369
+					}
+				},
+				{
+					"filename": "floordayanim0212",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 321,
+						"y": 173,
+						"w": 1320,
+						"h": 368
+					},
+					"frame": {
+						"x": 1,
+						"y": 1118,
+						"w": 1320,
+						"h": 368
+					}
+				},
+				{
+					"filename": "floor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 720,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 720,
+						"h": 369
+					},
+					"frame": {
+						"x": 1323,
+						"y": 1118,
+						"w": 720,
+						"h": 369
+					}
+				},
+				{
+					"filename": "floordayanim0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 643,
+						"y": 53,
+						"w": 714,
+						"h": 251
+					},
+					"frame": {
+						"x": 1329,
+						"y": 747,
+						"w": 714,
+						"h": 251
+					}
+				},
+				{
+					"filename": "floordayanim0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 646,
+						"y": 52,
+						"w": 708,
+						"h": 249
+					},
+					"frame": {
+						"x": 1335,
+						"y": 375,
+						"w": 708,
+						"h": 249
+					}
+				},
+				{
+					"filename": "floordayanim0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 649,
+						"y": 51,
+						"w": 702,
+						"h": 248
+					},
+					"frame": {
+						"x": 1340,
+						"y": 1,
+						"w": 702,
+						"h": 248
+					}
+				},
+				{
+					"filename": "floordayanim0211",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 324,
+						"y": 172,
+						"w": 1314,
+						"h": 367
+					},
+					"frame": {
+						"x": 1,
+						"y": 1488,
+						"w": 1314,
+						"h": 367
+					}
+				},
+				{
+					"filename": "floordayanim0108",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 637,
+						"y": 55,
+						"w": 725,
+						"h": 253
+					},
+					"frame": {
+						"x": 1317,
+						"y": 1489,
+						"w": 725,
+						"h": 253
+					}
+				},
+				{
+					"filename": "floordayanim0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 640,
+						"y": 54,
+						"w": 719,
+						"h": 252
+					},
+					"frame": {
+						"x": 1317,
+						"y": 1744,
+						"w": 719,
+						"h": 252
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-26.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2043,
+				"h": 1826
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0210",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 327,
+						"y": 171,
+						"w": 1308,
+						"h": 365
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1308,
+						"h": 365
+					}
+				},
+				{
+					"filename": "floordayanim0109",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 634,
+						"y": 56,
+						"w": 731,
+						"h": 254
+					},
+					"frame": {
+						"x": 1311,
+						"y": 1,
+						"w": 731,
+						"h": 254
+					}
+				},
+				{
+					"filename": "floordayanim0209",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 330,
+						"y": 170,
+						"w": 1303,
+						"h": 364
+					},
+					"frame": {
+						"x": 1,
+						"y": 368,
+						"w": 1303,
+						"h": 364
+					}
+				},
+				{
+					"filename": "floorframe",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 733,
+						"h": 375
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 733,
+						"h": 375
+					},
+					"frame": {
+						"x": 1306,
+						"y": 368,
+						"w": 733,
+						"h": 375
+					}
+				},
+				{
+					"filename": "floordayanim0208",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 333,
+						"y": 168,
+						"w": 1297,
+						"h": 364
+					},
+					"frame": {
+						"x": 1,
+						"y": 734,
+						"w": 1297,
+						"h": 364
+					}
+				},
+				{
+					"filename": "floordayanim0110",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 631,
+						"y": 57,
+						"w": 737,
+						"h": 256
+					},
+					"frame": {
+						"x": 1300,
+						"y": 745,
+						"w": 737,
+						"h": 256
+					}
+				},
+				{
+					"filename": "floordayanim0207",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 336,
+						"y": 167,
+						"w": 1292,
+						"h": 363
+					},
+					"frame": {
+						"x": 1,
+						"y": 1100,
+						"w": 1292,
+						"h": 363
+					}
+				},
+				{
+					"filename": "floordayanim0205",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 342,
+						"y": 165,
+						"w": 1280,
+						"h": 360
+					},
+					"frame": {
+						"x": 1,
+						"y": 1465,
+						"w": 1280,
+						"h": 360
+					}
+				},
+				{
+					"filename": "floordayanim0114",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 619,
+						"y": 62,
+						"w": 759,
+						"h": 259
+					},
+					"frame": {
+						"x": 1283,
+						"y": 1465,
+						"w": 759,
+						"h": 259
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-27.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 1793
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0204",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 345,
+						"y": 164,
+						"w": 1274,
+						"h": 359
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1274,
+						"h": 359
+					}
+				},
+				{
+					"filename": "floordayanim0115",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 616,
+						"y": 63,
+						"w": 765,
+						"h": 261
+					},
+					"frame": {
+						"x": 1277,
+						"y": 1,
+						"w": 765,
+						"h": 261
+					}
+				},
+				{
+					"filename": "floordayanim0203",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 348,
+						"y": 163,
+						"w": 1269,
+						"h": 358
+					},
+					"frame": {
+						"x": 1,
+						"y": 362,
+						"w": 1269,
+						"h": 358
+					}
+				},
+				{
+					"filename": "floordayanim0116",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 613,
+						"y": 64,
+						"w": 771,
+						"h": 262
+					},
+					"frame": {
+						"x": 1272,
+						"y": 362,
+						"w": 771,
+						"h": 262
+					}
+				},
+				{
+					"filename": "floordayanim0202",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 351,
+						"y": 162,
+						"w": 1263,
+						"h": 356
+					},
+					"frame": {
+						"x": 1,
+						"y": 722,
+						"w": 1263,
+						"h": 356
+					}
+				},
+				{
+					"filename": "floordayanim0117",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 610,
+						"y": 66,
+						"w": 776,
+						"h": 262
+					},
+					"frame": {
+						"x": 1266,
+						"y": 722,
+						"w": 776,
+						"h": 262
+					}
+				},
+				{
+					"filename": "floordayanim0201",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 354,
+						"y": 161,
+						"w": 1257,
+						"h": 355
+					},
+					"frame": {
+						"x": 1,
+						"y": 1080,
+						"w": 1257,
+						"h": 355
+					}
+				},
+				{
+					"filename": "floordayanim0118",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 607,
+						"y": 67,
+						"w": 782,
+						"h": 263
+					},
+					"frame": {
+						"x": 1260,
+						"y": 1080,
+						"w": 782,
+						"h": 263
+					}
+				},
+				{
+					"filename": "floordayanim0200",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 357,
+						"y": 159,
+						"w": 1252,
+						"h": 355
+					},
+					"frame": {
+						"x": 1,
+						"y": 1437,
+						"w": 1252,
+						"h": 355
+					}
+				},
+				{
+					"filename": "floordayanim0119",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 604,
+						"y": 68,
+						"w": 788,
+						"h": 265
+					},
+					"frame": {
+						"x": 1255,
+						"y": 1437,
+						"w": 788,
+						"h": 265
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-28.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2047,
+				"h": 2037
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0199",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 360,
+						"y": 158,
+						"w": 1246,
+						"h": 354
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1246,
+						"h": 354
+					}
+				},
+				{
+					"filename": "floorbg0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0039",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floordayanim0198",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 363,
+						"y": 157,
+						"w": 1240,
+						"h": 353
+					},
+					"frame": {
+						"x": 1,
+						"y": 357,
+						"w": 1240,
+						"h": 353
+					}
+				},
+				{
+					"filename": "floorbg0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1243,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1243,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1243,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1243,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1243,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1243,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0033",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1243,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0034",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1243,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0035",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1243,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0036",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1243,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0037",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1243,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0038",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1243,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floordayanim0197",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 366,
+						"y": 156,
+						"w": 1235,
+						"h": 351
+					},
+					"frame": {
+						"x": 1,
+						"y": 712,
+						"w": 1235,
+						"h": 351
+					}
+				},
+				{
+					"filename": "floorbg0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1238,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1238,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1238,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1238,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0029",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1238,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0030",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1238,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0031",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1238,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0032",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1238,
+						"y": 845,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floordayanim0196",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 369,
+						"y": 155,
+						"w": 1229,
+						"h": 350
+					},
+					"frame": {
+						"x": 1,
+						"y": 1065,
+						"w": 1229,
+						"h": 350
+					}
+				},
+				{
+					"filename": "floorbg0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1232,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1232,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1232,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1232,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1232,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1232,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0023",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1232,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1232,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0025",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1232,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0026",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1232,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0027",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1232,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0028",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1232,
+						"y": 1267,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floordayanim0195",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 372,
+						"y": 154,
+						"w": 1223,
+						"h": 349
+					},
+					"frame": {
+						"x": 1,
+						"y": 1417,
+						"w": 1223,
+						"h": 349
+					}
+				},
+				{
+					"filename": "floordayanim0123",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 591,
+						"y": 72,
+						"w": 811,
+						"h": 270
+					},
+					"frame": {
+						"x": 1226,
+						"y": 1689,
+						"w": 811,
+						"h": 270
+					}
+				},
+				{
+					"filename": "floordayanim0122",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 595,
+						"y": 71,
+						"w": 805,
+						"h": 268
+					},
+					"frame": {
+						"x": 1,
+						"y": 1768,
+						"w": 805,
+						"h": 268
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-29.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2039,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0194",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 376,
+						"y": 153,
+						"w": 1217,
+						"h": 347
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1217,
+						"h": 347
+					}
+				},
+				{
+					"filename": "floorbg0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1220,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1220,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1220,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1220,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floorbg0022",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1220,
+						"y": 1,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floordayanim0193",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 379,
+						"y": 151,
+						"w": 1211,
+						"h": 347
+					},
+					"frame": {
+						"x": 1,
+						"y": 350,
+						"w": 1211,
+						"h": 347
+					}
+				},
+				{
+					"filename": "floorday",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 797,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 797,
+						"h": 420
+					},
+					"frame": {
+						"x": 1214,
+						"y": 423,
+						"w": 797,
+						"h": 420
+					}
+				},
+				{
+					"filename": "floordayanim0192",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 381,
+						"y": 150,
+						"w": 1206,
+						"h": 346
+					},
+					"frame": {
+						"x": 1,
+						"y": 699,
+						"w": 1206,
+						"h": 346
+					}
+				},
+				{
+					"filename": "floordayanim0126",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 582,
+						"y": 76,
+						"w": 829,
+						"h": 272
+					},
+					"frame": {
+						"x": 1209,
+						"y": 845,
+						"w": 829,
+						"h": 272
+					}
+				},
+				{
+					"filename": "floordayanim0191",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 385,
+						"y": 149,
+						"w": 1199,
+						"h": 345
+					},
+					"frame": {
+						"x": 1,
+						"y": 1047,
+						"w": 1199,
+						"h": 345
+					}
+				},
+				{
+					"filename": "floordayanim0127",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 579,
+						"y": 77,
+						"w": 834,
+						"h": 274
+					},
+					"frame": {
+						"x": 1202,
+						"y": 1119,
+						"w": 834,
+						"h": 274
+					}
+				},
+				{
+					"filename": "floordayanim0190",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 388,
+						"y": 148,
+						"w": 1194,
+						"h": 343
+					},
+					"frame": {
+						"x": 1,
+						"y": 1394,
+						"w": 1194,
+						"h": 343
+					}
+				},
+				{
+					"filename": "floordayanim0158",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 485,
+						"y": 112,
+						"w": 1011,
+						"h": 308
+					},
+					"frame": {
+						"x": 1,
+						"y": 1739,
+						"w": 1011,
+						"h": 308
+					}
+				},
+				{
+					"filename": "floordayanim0128",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 576,
+						"y": 78,
+						"w": 840,
+						"h": 275
+					},
+					"frame": {
+						"x": 1197,
+						"y": 1395,
+						"w": 840,
+						"h": 275
+					}
+				},
+				{
+					"filename": "floordayanim0129",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 573,
+						"y": 79,
+						"w": 845,
+						"h": 276
+					},
+					"frame": {
+						"x": 1014,
+						"y": 1739,
+						"w": 845,
+						"h": 276
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-30.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 2044
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0188",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 394,
+						"y": 146,
+						"w": 1183,
+						"h": 341
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1183,
+						"h": 341
+					}
+				},
+				{
+					"filename": "floordayanim0131",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 567,
+						"y": 81,
+						"w": 857,
+						"h": 279
+					},
+					"frame": {
+						"x": 1186,
+						"y": 1,
+						"w": 857,
+						"h": 279
+					}
+				},
+				{
+					"filename": "floordayanim0125",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 585,
+						"y": 75,
+						"w": 823,
+						"h": 271
+					},
+					"frame": {
+						"x": 1186,
+						"y": 282,
+						"w": 823,
+						"h": 271
+					}
+				},
+				{
+					"filename": "floordayanim0187",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 397,
+						"y": 145,
+						"w": 1177,
+						"h": 340
+					},
+					"frame": {
+						"x": 1,
+						"y": 344,
+						"w": 1177,
+						"h": 340
+					}
+				},
+				{
+					"filename": "floordayanim0132",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 564,
+						"y": 82,
+						"w": 863,
+						"h": 280
+					},
+					"frame": {
+						"x": 1180,
+						"y": 555,
+						"w": 863,
+						"h": 280
+					}
+				},
+				{
+					"filename": "floordayanim0186",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 400,
+						"y": 143,
+						"w": 1171,
+						"h": 340
+					},
+					"frame": {
+						"x": 1,
+						"y": 686,
+						"w": 1171,
+						"h": 340
+					}
+				},
+				{
+					"filename": "floordayanim0121",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 597,
+						"y": 70,
+						"w": 800,
+						"h": 267
+					},
+					"frame": {
+						"x": 1174,
+						"y": 837,
+						"w": 800,
+						"h": 267
+					}
+				},
+				{
+					"filename": "floordayanim0185",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 403,
+						"y": 142,
+						"w": 1165,
+						"h": 338
+					},
+					"frame": {
+						"x": 1,
+						"y": 1028,
+						"w": 1165,
+						"h": 338
+					}
+				},
+				{
+					"filename": "floordayanim0120",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 601,
+						"y": 69,
+						"w": 793,
+						"h": 266
+					},
+					"frame": {
+						"x": 1168,
+						"y": 1106,
+						"w": 793,
+						"h": 266
+					}
+				},
+				{
+					"filename": "floordayanim0184",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 406,
+						"y": 141,
+						"w": 1160,
+						"h": 337
+					},
+					"frame": {
+						"x": 1,
+						"y": 1368,
+						"w": 1160,
+						"h": 337
+					}
+				},
+				{
+					"filename": "floordayanim0135",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 555,
+						"y": 86,
+						"w": 880,
+						"h": 282
+					},
+					"frame": {
+						"x": 1163,
+						"y": 1374,
+						"w": 880,
+						"h": 282
+					}
+				},
+				{
+					"filename": "floordayanim0183",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 409,
+						"y": 140,
+						"w": 1154,
+						"h": 336
+					},
+					"frame": {
+						"x": 1,
+						"y": 1707,
+						"w": 1154,
+						"h": 336
+					}
+				},
+				{
+					"filename": "floordayanim0136",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 552,
+						"y": 87,
+						"w": 885,
+						"h": 283
+					},
+					"frame": {
+						"x": 1157,
+						"y": 1707,
+						"w": 885,
+						"h": 283
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-31.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 2005
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0182",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 412,
+						"y": 139,
+						"w": 1148,
+						"h": 335
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1148,
+						"h": 335
+					}
+				},
+				{
+					"filename": "floordayanim0137",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 549,
+						"y": 88,
+						"w": 891,
+						"h": 285
+					},
+					"frame": {
+						"x": 1151,
+						"y": 1,
+						"w": 891,
+						"h": 285
+					}
+				},
+				{
+					"filename": "floordayanim0181",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 415,
+						"y": 138,
+						"w": 1143,
+						"h": 333
+					},
+					"frame": {
+						"x": 1,
+						"y": 338,
+						"w": 1143,
+						"h": 333
+					}
+				},
+				{
+					"filename": "floordayanim0138",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 546,
+						"y": 89,
+						"w": 897,
+						"h": 286
+					},
+					"frame": {
+						"x": 1146,
+						"y": 338,
+						"w": 897,
+						"h": 286
+					}
+				},
+				{
+					"filename": "floordayanim0180",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 418,
+						"y": 136,
+						"w": 1137,
+						"h": 333
+					},
+					"frame": {
+						"x": 1,
+						"y": 673,
+						"w": 1137,
+						"h": 333
+					}
+				},
+				{
+					"filename": "floordayanim0139",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 543,
+						"y": 90,
+						"w": 903,
+						"h": 288
+					},
+					"frame": {
+						"x": 1140,
+						"y": 673,
+						"w": 903,
+						"h": 288
+					}
+				},
+				{
+					"filename": "floordayanim0179",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 421,
+						"y": 135,
+						"w": 1132,
+						"h": 332
+					},
+					"frame": {
+						"x": 1,
+						"y": 1008,
+						"w": 1132,
+						"h": 332
+					}
+				},
+				{
+					"filename": "floordayanim0140",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 540,
+						"y": 91,
+						"w": 908,
+						"h": 289
+					},
+					"frame": {
+						"x": 1135,
+						"y": 1008,
+						"w": 908,
+						"h": 289
+					}
+				},
+				{
+					"filename": "floordayanim0178",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 424,
+						"y": 134,
+						"w": 1126,
+						"h": 331
+					},
+					"frame": {
+						"x": 1,
+						"y": 1342,
+						"w": 1126,
+						"h": 331
+					}
+				},
+				{
+					"filename": "floordayanim0141",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 537,
+						"y": 93,
+						"w": 914,
+						"h": 289
+					},
+					"frame": {
+						"x": 1129,
+						"y": 1342,
+						"w": 914,
+						"h": 289
+					}
+				},
+				{
+					"filename": "floordayanim0177",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 427,
+						"y": 133,
+						"w": 1120,
+						"h": 329
+					},
+					"frame": {
+						"x": 1,
+						"y": 1675,
+						"w": 1120,
+						"h": 329
+					}
+				},
+				{
+					"filename": "floordayanim0142",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 534,
+						"y": 94,
+						"w": 919,
+						"h": 290
+					},
+					"frame": {
+						"x": 1123,
+						"y": 1675,
+						"w": 919,
+						"h": 290
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-32.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2045,
+				"h": 1964
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0176",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 430,
+						"y": 132,
+						"w": 1115,
+						"h": 328
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1115,
+						"h": 328
+					}
+				},
+				{
+					"filename": "floordayanim0143",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 531,
+						"y": 95,
+						"w": 925,
+						"h": 291
+					},
+					"frame": {
+						"x": 1118,
+						"y": 1,
+						"w": 925,
+						"h": 291
+					}
+				},
+				{
+					"filename": "floordayanim0175",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 433,
+						"y": 131,
+						"w": 1109,
+						"h": 327
+					},
+					"frame": {
+						"x": 1,
+						"y": 331,
+						"w": 1109,
+						"h": 327
+					}
+				},
+				{
+					"filename": "floordayanim0144",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 527,
+						"y": 96,
+						"w": 932,
+						"h": 293
+					},
+					"frame": {
+						"x": 1112,
+						"y": 331,
+						"w": 932,
+						"h": 293
+					}
+				},
+				{
+					"filename": "floordayanim0174",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 436,
+						"y": 130,
+						"w": 1103,
+						"h": 326
+					},
+					"frame": {
+						"x": 1,
+						"y": 660,
+						"w": 1103,
+						"h": 326
+					}
+				},
+				{
+					"filename": "floordayanim0145",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 524,
+						"y": 97,
+						"w": 937,
+						"h": 294
+					},
+					"frame": {
+						"x": 1106,
+						"y": 660,
+						"w": 937,
+						"h": 294
+					}
+				},
+				{
+					"filename": "floordayanim0173",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 439,
+						"y": 129,
+						"w": 1097,
+						"h": 325
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 1097,
+						"h": 325
+					}
+				},
+				{
+					"filename": "floordayanim0146",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 522,
+						"y": 98,
+						"w": 942,
+						"h": 295
+					},
+					"frame": {
+						"x": 1100,
+						"y": 988,
+						"w": 942,
+						"h": 295
+					}
+				},
+				{
+					"filename": "floordayanim0172",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 443,
+						"y": 128,
+						"w": 1090,
+						"h": 323
+					},
+					"frame": {
+						"x": 1,
+						"y": 1315,
+						"w": 1090,
+						"h": 323
+					}
+				},
+				{
+					"filename": "floordayanim0147",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 518,
+						"y": 99,
+						"w": 949,
+						"h": 296
+					},
+					"frame": {
+						"x": 1093,
+						"y": 1315,
+						"w": 949,
+						"h": 296
+					}
+				},
+				{
+					"filename": "floordayanim0171",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 445,
+						"y": 126,
+						"w": 1086,
+						"h": 323
+					},
+					"frame": {
+						"x": 1,
+						"y": 1640,
+						"w": 1086,
+						"h": 323
+					}
+				},
+				{
+					"filename": "floordayanim0148",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 515,
+						"y": 100,
+						"w": 955,
+						"h": 297
+					},
+					"frame": {
+						"x": 1089,
+						"y": 1640,
+						"w": 955,
+						"h": 297
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-33.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 1924
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0170",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 448,
+						"y": 125,
+						"w": 1080,
+						"h": 322
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1080,
+						"h": 322
+					}
+				},
+				{
+					"filename": "floordayanim0149",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 512,
+						"y": 102,
+						"w": 960,
+						"h": 298
+					},
+					"frame": {
+						"x": 1083,
+						"y": 1,
+						"w": 960,
+						"h": 298
+					}
+				},
+				{
+					"filename": "floordayanim0169",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 451,
+						"y": 124,
+						"w": 1075,
+						"h": 321
+					},
+					"frame": {
+						"x": 1,
+						"y": 325,
+						"w": 1075,
+						"h": 321
+					}
+				},
+				{
+					"filename": "floordayanim0168",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 454,
+						"y": 123,
+						"w": 1069,
+						"h": 319
+					},
+					"frame": {
+						"x": 1,
+						"y": 648,
+						"w": 1069,
+						"h": 319
+					}
+				},
+				{
+					"filename": "floordayanim0167",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 458,
+						"y": 122,
+						"w": 1062,
+						"h": 318
+					},
+					"frame": {
+						"x": 1,
+						"y": 969,
+						"w": 1062,
+						"h": 318
+					}
+				},
+				{
+					"filename": "floordayanim0152",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 503,
+						"y": 105,
+						"w": 977,
+						"h": 301
+					},
+					"frame": {
+						"x": 1065,
+						"y": 969,
+						"w": 977,
+						"h": 301
+					}
+				},
+				{
+					"filename": "floordayanim0166",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 461,
+						"y": 121,
+						"w": 1056,
+						"h": 317
+					},
+					"frame": {
+						"x": 1,
+						"y": 1289,
+						"w": 1056,
+						"h": 317
+					}
+				},
+				{
+					"filename": "floordayanim0153",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 500,
+						"y": 106,
+						"w": 983,
+						"h": 303
+					},
+					"frame": {
+						"x": 1059,
+						"y": 1289,
+						"w": 983,
+						"h": 303
+					}
+				},
+				{
+					"filename": "floordayanim0165",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 464,
+						"y": 120,
+						"w": 1051,
+						"h": 315
+					},
+					"frame": {
+						"x": 1,
+						"y": 1608,
+						"w": 1051,
+						"h": 315
+					}
+				},
+				{
+					"filename": "floordayanim0154",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 497,
+						"y": 107,
+						"w": 989,
+						"h": 304
+					},
+					"frame": {
+						"x": 1054,
+						"y": 1608,
+						"w": 989,
+						"h": 304
+					}
+				}
+			]
+		},
+		{
+			"image": "fof-dance-34.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2043,
+				"h": 1573
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floordayanim0164",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 467,
+						"y": 119,
+						"w": 1045,
+						"h": 314
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1045,
+						"h": 314
+					}
+				},
+				{
+					"filename": "floordayanim0163",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 470,
+						"y": 117,
+						"w": 1040,
+						"h": 314
+					},
+					"frame": {
+						"x": 1,
+						"y": 317,
+						"w": 1040,
+						"h": 314
+					}
+				},
+				{
+					"filename": "floordayanim0162",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 473,
+						"y": 116,
+						"w": 1034,
+						"h": 313
+					},
+					"frame": {
+						"x": 1,
+						"y": 633,
+						"w": 1034,
+						"h": 313
+					}
+				},
+				{
+					"filename": "floordayanim0161",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 476,
+						"y": 115,
+						"w": 1028,
+						"h": 312
+					},
+					"frame": {
+						"x": 1,
+						"y": 948,
+						"w": 1028,
+						"h": 312
+					}
+				},
+				{
+					"filename": "floordayanim0157",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 488,
+						"y": 111,
+						"w": 1005,
+						"h": 307
+					},
+					"frame": {
+						"x": 1031,
+						"y": 948,
+						"w": 1005,
+						"h": 307
+					}
+				},
+				{
+					"filename": "floordayanim0156",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 491,
+						"y": 110,
+						"w": 1000,
+						"h": 305
+					},
+					"frame": {
+						"x": 1037,
+						"y": 633,
+						"w": 1000,
+						"h": 305
+					}
+				},
+				{
+					"filename": "floordayanim0155",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 494,
+						"y": 108,
+						"w": 994,
+						"h": 305
+					},
+					"frame": {
+						"x": 1043,
+						"y": 317,
+						"w": 994,
+						"h": 305
+					}
+				},
+				{
+					"filename": "floordayanim0160",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 479,
+						"y": 114,
+						"w": 1022,
+						"h": 310
+					},
+					"frame": {
+						"x": 1,
+						"y": 1262,
+						"w": 1022,
+						"h": 310
+					}
+				},
+				{
+					"filename": "floordayanim0159",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1923,
+						"h": 791
+					},
+					"spriteSourceSize": {
+						"x": 482,
+						"y": 113,
+						"w": 1017,
+						"h": 309
+					},
+					"frame": {
+						"x": 1025,
+						"y": 1262,
+						"w": 1017,
+						"h": 309
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:89f3a82a0a3f03b0b6a20e8579732143:04d9e4e8f6e9d41a4d118b8c3e85a080:cc3eff34adbe2b31f297881f47ff5a4a$"
+	}
+}

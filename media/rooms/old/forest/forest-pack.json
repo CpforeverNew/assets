@@ -1,0 +1,59 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/forest/ffc/ffc-forest.json",
+                "path": "assets/media/rooms/old/forest/ffc",
+                "key": "ffc-forest"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/forest/forest.json",
+                "path": "assets/media/rooms/old/forest/",
+                "key": "forest"
+            },
+            {
+                "url": "assets/media/rooms/old/forest/forest-anims.json",
+                "type": "animation",
+                "key": "forest-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/forest/forest-physics.json",
+                "type": "json",
+                "key": "forest-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/forest/mj/forestmj.json",
+                "path": "assets/media/rooms/old/forest/mj",
+                "key": "forestmj"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/forest/mj_constuction/mjc-forest.json",
+                "path": "assets/media/rooms/old/forest/mj_constuction",
+                "key": "mjc-forest"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/forest/pg/pg-forest.json",
+                "path": "assets/media/rooms/old/forest/pg",
+                "key": "pg-forest"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/forest/underwater/underwaterforest.json",
+                "path": "assets/media/rooms/old/forest/underwater",
+                "key": "underwaterforest"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

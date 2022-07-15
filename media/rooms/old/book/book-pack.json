@@ -1,0 +1,35 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/old/mtn/pg/589.png",
+                "type": "image",
+                "key": "589"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/book/book.json",
+                "path": "assets/media/rooms/old/book/",
+                "key": "book"
+            },
+            {
+                "url": "assets/media/rooms/old/book/book-physics.json",
+                "type": "json",
+                "key": "book-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/book/pg/pg-book.json",
+                "path": "assets/media/rooms/old/book/pg",
+                "key": "pg-book"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

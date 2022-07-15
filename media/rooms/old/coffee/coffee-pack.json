@@ -1,0 +1,93 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/coffee/coffee.json",
+                "path": "assets/media/rooms/old/coffee/",
+                "key": "coffee"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/coffee-anims.json",
+                "type": "animation",
+                "key": "coffee-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/coffee-physics.json",
+                "type": "json",
+                "key": "coffee-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/coffee/mj/coffeenew.json",
+                "path": "assets/media/rooms/old/coffee/mj",
+                "key": "coffeenew"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/coffee/coffeeuw.json",
+                "path": "assets/media/rooms/old/coffee",
+                "key": "coffeeuw"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/coffeeuw-anims.json",
+                "type": "animation",
+                "key": "coffeeuw-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/coffee/mj/coffemj1.json",
+                "path": "assets/media/rooms/old/coffee/mj",
+                "key": "coffemj1"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/mj/coffemj.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "eeeee"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/lil_table_thingy.png",
+                "type": "image",
+                "key": "lil_table_thingy"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/mj/mjcoffee-anims.json",
+                "type": "animation",
+                "key": "mjcoffee-anims"
+            },
+            {
+                "url": [
+                    "assets/media/music/MUS_Evergreen_KingofKingston_CoffeeShop.mp3"
+                ],
+                "type": "audio",
+                "key": "MUS_Evergreen_KingofKingston_CoffeeShop"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/coffee/pg/pg-coffee.json",
+                "path": "assets/media/rooms/old/coffee/pg",
+                "key": "pg-coffee"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/shamrock.png",
+                "type": "image",
+                "key": "shamrock"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

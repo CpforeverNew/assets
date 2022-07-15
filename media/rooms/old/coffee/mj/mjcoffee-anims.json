@@ -1,0 +1,306 @@
+{
+    "anims": [
+        {
+            "key": "coffeemj_button",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffemj1",
+                    "frame": "button0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffemj1",
+                    "frame": "button0048",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

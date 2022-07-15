@@ -1,0 +1,501 @@
+{
+    "anims": [
+        {
+            "key": "mjtown_lights",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "town1",
+                    "frame": "lights10001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "lights10069",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "mjtown_speaker",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "town1",
+                    "frame": "speaker10001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "speaker10002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "speaker10003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "speaker10004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "speaker10005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "speaker10006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "speaker10007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "speaker10008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "speaker10009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town1",
+                    "frame": "speaker10010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

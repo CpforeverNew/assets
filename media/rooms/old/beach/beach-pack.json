@@ -1,0 +1,68 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/beach/beach.json",
+                "path": "assets/media/rooms/old/beach/",
+                "key": "beach"
+            },
+            {
+                "url": "assets/media/rooms/old/beach/beach-anims.json",
+                "type": "animation",
+                "key": "beach-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/beach/beach-physics.json",
+                "type": "json",
+                "key": "beach-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/beach/mj/beachmj.json",
+                "path": "assets/media/rooms/old/beach/mj",
+                "key": "beachmj"
+            },
+            {
+                "url": "assets/media/rooms/old/beach/mj/bench45.png",
+                "type": "image",
+                "key": "bench45"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/beach/ffc/ffc-beach.json",
+                "path": "assets/media/rooms/old/beach/ffc",
+                "key": "ffc-beach"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/beach/fof/fof-beach.json",
+                "path": "assets/media/rooms/old/beach/fof",
+                "key": "fof-beach"
+            },
+            {
+                "url": "assets/media/rooms/old/beach/mj/lighthous123.png",
+                "type": "image",
+                "key": "lighthous123"
+            },
+            {
+                "url": "assets/media/rooms/old/beach/mj/mjbeach-anims.json",
+                "type": "animation",
+                "key": "mjbeach-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/beach/pg/pg-beach.json",
+                "path": "assets/media/rooms/old/beach/pg",
+                "key": "pg-beach"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

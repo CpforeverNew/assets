@@ -1,0 +1,52 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/cove/cove.json",
+                "path": "assets/media/rooms/old/cove/",
+                "key": "cove"
+            },
+            {
+                "url": "assets/media/rooms/old/cove/cove-anims.json",
+                "type": "animation",
+                "key": "cove-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/cove/cove-physics.json",
+                "type": "json",
+                "key": "cove-physics"
+            },
+            {
+                "url": "assets/media/rooms/old/cove/firework.png",
+                "type": "image",
+                "key": "firework"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/cove/mj_constuction/mjc-cove.json",
+                "path": "assets/media/rooms/old/cove/mj_constuction",
+                "key": "mjc-cove"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/cove/pg/pg-cove.json",
+                "path": "assets/media/rooms/old/cove/pg",
+                "key": "pg-cove"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/cove/underwater/underwater_cove.json",
+                "path": "assets/media/rooms/old/cove/underwater",
+                "key": "underwater_cove"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -15,6 +15,8 @@
     "plaza": "Plaza",
     "pet": "Pet Shop",
     "dojoext": "Dojo Courtyard",
+	"hotellobby": "Hotel Lobey",
+	"hotelroof": "Hotel Roof",
     "beach": "Beach",
     "dock": "Dock",
     "forts": "Snow Forts",
@@ -77,6 +79,7 @@
 	"sysdef": "System Defender",
 	"thinice": "Thin Ice",
     "treasurehunt": "Treasure Hunt",
+	
 		
 	"thiscertifiesthat": "This certifies that:",
 	"locationinfo": "will be in your igloo or backyard when you're not walking it!",

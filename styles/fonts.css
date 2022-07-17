@@ -37,6 +37,12 @@
 }
 
 @font-face {
+    font-family: 'Catseye';
+    font-weight: bold;
+    src: url('../fonts/Catseye_Bold.woff2');
+}
+
+@font-face {
     font-family: 'CCComiccrazy';
     src: url('../fonts/CCComicrazy-Roman.woff2');
 }
@@ -47,3 +53,4 @@
     font-weight: bold;
     src: url('../fonts/CCFaceFront Bold Italic.woff2');
 }
+

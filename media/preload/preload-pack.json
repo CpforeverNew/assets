@@ -29,6 +29,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/game/elevator/elevator.json",
+                "path": "assets/media/interface/game/elevator",
+                "key": "elevator"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/interface/game/main/endscreens.json",
                 "path": "assets/media/interface/game/main",
                 "key": "endscreens"

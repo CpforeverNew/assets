@@ -1,0 +1,319 @@
+{
+    "anims": [
+        {
+            "key": "hotelspa_door_open",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelspa",
+                    "frame": "door0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0011",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "hotelspa_speakersLeft",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersLeft0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersLeft0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersLeft0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersLeft0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersLeft0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersLeft0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersLeft0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersLeft0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersLeft0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersLeft0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersLeft0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersLeft0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "hotelspa_speakersRight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersRight0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersRight0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersRight0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersRight0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersRight0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersRight0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersRight0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersRight0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersRight0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersRight0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersRight0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "speakersRight0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "hotelspa_door_close",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelspa",
+                    "frame": "door0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelspa",
+                    "frame": "door0021",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

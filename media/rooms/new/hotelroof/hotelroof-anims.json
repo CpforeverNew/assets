@@ -1,457 +1,642 @@
 {
     "anims": [
         {
-            "key": "hotelroof_cannon",
+            "key": "hotelroof_cannon,hotelroof_diving,hotelroof_diving-hover,hotelroof_door_open,hotelroof_leftSpeaker-hover,hotelroof_leftSpeaker,hotelroof_rightSpeaker-hover,hotelroof_rightSpeaker,hotelroof_turntables-hover,hotelroof_turntables,hotelroof_door_closed,hotelroof_diving,hotelroof_diving-hover,hotelroof_door_open,hotelroof_leftSpeaker-hover,hotelroof_leftSpeaker,hotelroof_rightSpeaker-hover,hotelroof_rightSpeaker,hotelroof_turntables-hover,hotelroof_turntables,hotelroof_door_closed,hotelroof_diving,hotelroof_diving-hover,hotelroof_door_open,hotelroof_leftSpeaker-hover,hotelroof_leftSpeaker,hotelroof_rightSpeaker-hover,hotelroof_rightSpeaker,hotelroof_turntables-hover,hotelroof_turntables,hotelroof_door_closed",
             "type": "frame",
             "frames": [
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0021.png",
+                    "frame": "cannonBase",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0022.png",
+                    "frame": "cannon0001",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0023.png",
+                    "frame": "cannon0002",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0024.png",
+                    "frame": "cannon0003",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0025.png",
+                    "frame": "cannon0004",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0026.png",
+                    "frame": "cannon0005",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0027.png",
+                    "frame": "cannon0006",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0028.png",
+                    "frame": "cannon0007",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0029.png",
+                    "frame": "cannon0008",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0030.png",
+                    "frame": "cannon0009",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0031.png",
+                    "frame": "cannon0010",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0032.png",
+                    "frame": "cannon0011",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0033.png",
+                    "frame": "cannon0012",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0034.png",
+                    "frame": "cannon0013",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0035.png",
+                    "frame": "cannon0014",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0036.png",
+                    "frame": "cannon0015",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0037.png",
+                    "frame": "cannon0016",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0038.png",
+                    "frame": "cannon0017",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0039.png",
+                    "frame": "cannon0018",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0040.png",
+                    "frame": "cannon0019",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0041.png",
+                    "frame": "cannon0020",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0042.png",
+                    "frame": "cannon0021",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0043.png",
+                    "frame": "cannon0022",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0044.png",
+                    "frame": "cannon0023",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0045.png",
+                    "frame": "cannon0024",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0046.png",
+                    "frame": "cannon0025",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0047.png",
+                    "frame": "cannon0026",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0048.png",
+                    "frame": "cannon0027",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0049.png",
+                    "frame": "cannon0028",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0050.png",
+                    "frame": "cannon0029",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0051.png",
+                    "frame": "cannon0030",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0052.png",
+                    "frame": "cannon0031",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0053.png",
+                    "frame": "cannon0032",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0054.png",
+                    "frame": "cannon0033",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0055.png",
+                    "frame": "cannon0034",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0056.png",
+                    "frame": "cannon0035",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0057.png",
+                    "frame": "cannon0036",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0058.png",
+                    "frame": "cannon0037",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0059.png",
+                    "frame": "cannon0038",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0060.png",
+                    "frame": "cannon0039",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0061.png",
+                    "frame": "cannon0040",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0062.png",
+                    "frame": "cannon0041",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0063.png",
+                    "frame": "cannon0042",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0064.png",
+                    "frame": "cannon0043",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0065.png",
+                    "frame": "cannon0044",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0066.png",
+                    "frame": "cannon0045",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0067.png",
+                    "frame": "cannon0046",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0068.png",
+                    "frame": "cannon0047",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0069.png",
+                    "frame": "cannon0048",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0070.png",
+                    "frame": "cannon0049",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0071.png",
+                    "frame": "cannon0050",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0072.png",
+                    "frame": "cannon0051",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0073.png",
+                    "frame": "cannon0052",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0074.png",
+                    "frame": "cannon0053",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0075.png",
+                    "frame": "cannon0054",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0076.png",
+                    "frame": "cannon0055",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0077.png",
+                    "frame": "cannon0056",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0078.png",
+                    "frame": "cannon0057",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0079.png",
+                    "frame": "cannon0058",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0080.png",
+                    "frame": "cannon0059",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0081.png",
+                    "frame": "cannon0060",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0082.png",
+                    "frame": "cannon0061",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0083.png",
+                    "frame": "cannon0062",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0084.png",
+                    "frame": "cannon0063",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0085.png",
+                    "frame": "cannon0064",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0086.png",
+                    "frame": "cannon0065",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0087.png",
+                    "frame": "cannon0066",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0088.png",
+                    "frame": "cannon0067",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0089.png",
+                    "frame": "cannon0068",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0090.png",
+                    "frame": "cannon0069",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0091.png",
+                    "frame": "cannon0070",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0092.png",
+                    "frame": "cannon0071",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0093.png",
+                    "frame": "cannon0072",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "cannon0094.png",
+                    "frame": "cannon0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "cannon0104",
                     "duration": 0,
                     "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
+            "skipMissedFrames": true
         },
         {
             "key": "hotelroof_diving",
@@ -459,308 +644,433 @@
             "frames": [
                 {
                     "key": "hotelroof",
-                    "frame": "diving0021.png",
+                    "frame": "diving",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0022.png",
+                    "frame": "diving0001",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0023.png",
+                    "frame": "diving0002",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0024.png",
+                    "frame": "diving0003",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0025.png",
+                    "frame": "diving0004",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0026.png",
+                    "frame": "diving0005",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0027.png",
+                    "frame": "diving0006",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0028.png",
+                    "frame": "diving0007",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0029.png",
+                    "frame": "diving0008",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0030.png",
+                    "frame": "diving0009",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0031.png",
+                    "frame": "diving0010",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0032.png",
+                    "frame": "diving0011",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0033.png",
+                    "frame": "diving0012",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0034.png",
+                    "frame": "diving0013",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0035.png",
+                    "frame": "diving0014",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0036.png",
+                    "frame": "diving0015",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0037.png",
+                    "frame": "diving0016",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0038.png",
+                    "frame": "diving0017",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0039.png",
+                    "frame": "diving0018",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0040.png",
+                    "frame": "diving0019",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0041.png",
+                    "frame": "diving0020",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0042.png",
+                    "frame": "diving0021",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0043.png",
+                    "frame": "diving0022",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0044.png",
+                    "frame": "diving0023",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0045.png",
+                    "frame": "diving0024",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0046.png",
+                    "frame": "diving0025",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0047.png",
+                    "frame": "diving0026",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0048.png",
+                    "frame": "diving0027",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0049.png",
+                    "frame": "diving0028",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0050.png",
+                    "frame": "diving0029",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0051.png",
+                    "frame": "diving0030",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0052.png",
+                    "frame": "diving0031",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0053.png",
+                    "frame": "diving0032",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0054.png",
+                    "frame": "diving0033",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0055.png",
+                    "frame": "diving0034",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0056.png",
+                    "frame": "diving0035",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0057.png",
+                    "frame": "diving0036",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0058.png",
+                    "frame": "diving0037",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0059.png",
+                    "frame": "diving0038",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0060.png",
+                    "frame": "diving0039",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0061.png",
+                    "frame": "diving0040",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0062.png",
+                    "frame": "diving0041",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0063.png",
+                    "frame": "diving0042",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0064.png",
+                    "frame": "diving0043",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0065.png",
+                    "frame": "diving0044",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0066.png",
+                    "frame": "diving0045",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0067.png",
+                    "frame": "diving0046",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0068.png",
+                    "frame": "diving0047",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0069.png",
+                    "frame": "diving0048",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving0070.png",
+                    "frame": "diving0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving0070",
                     "duration": 0,
                     "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
+            "skipMissedFrames": true
         },
         {
             "key": "hotelroof_diving-hover",
@@ -768,2123 +1078,433 @@
             "frames": [
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0021.png",
+                    "frame": "diving-hover",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0022.png",
+                    "frame": "diving-hover0001",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0023.png",
+                    "frame": "diving-hover0002",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0024.png",
+                    "frame": "diving-hover0003",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0025.png",
+                    "frame": "diving-hover0004",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0026.png",
+                    "frame": "diving-hover0005",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0027.png",
+                    "frame": "diving-hover0006",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0028.png",
+                    "frame": "diving-hover0007",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0029.png",
+                    "frame": "diving-hover0008",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0030.png",
+                    "frame": "diving-hover0009",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0031.png",
+                    "frame": "diving-hover0010",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0032.png",
+                    "frame": "diving-hover0011",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0033.png",
+                    "frame": "diving-hover0012",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0034.png",
+                    "frame": "diving-hover0013",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0035.png",
+                    "frame": "diving-hover0014",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0036.png",
+                    "frame": "diving-hover0015",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0037.png",
+                    "frame": "diving-hover0016",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0038.png",
+                    "frame": "diving-hover0017",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0039.png",
+                    "frame": "diving-hover0018",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0040.png",
+                    "frame": "diving-hover0019",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0041.png",
+                    "frame": "diving-hover0020",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0042.png",
+                    "frame": "diving-hover0021",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0043.png",
+                    "frame": "diving-hover0022",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0044.png",
+                    "frame": "diving-hover0023",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0045.png",
+                    "frame": "diving-hover0024",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0046.png",
+                    "frame": "diving-hover0025",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0047.png",
+                    "frame": "diving-hover0026",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0048.png",
+                    "frame": "diving-hover0027",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0049.png",
+                    "frame": "diving-hover0028",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0050.png",
+                    "frame": "diving-hover0029",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0051.png",
+                    "frame": "diving-hover0030",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0052.png",
+                    "frame": "diving-hover0031",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0053.png",
+                    "frame": "diving-hover0032",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0054.png",
+                    "frame": "diving-hover0033",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0055.png",
+                    "frame": "diving-hover0034",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0056.png",
+                    "frame": "diving-hover0035",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0057.png",
+                    "frame": "diving-hover0036",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0058.png",
+                    "frame": "diving-hover0037",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0059.png",
+                    "frame": "diving-hover0038",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0060.png",
+                    "frame": "diving-hover0039",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0061.png",
+                    "frame": "diving-hover0040",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0062.png",
+                    "frame": "diving-hover0041",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0063.png",
+                    "frame": "diving-hover0042",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0064.png",
+                    "frame": "diving-hover0043",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0065.png",
+                    "frame": "diving-hover0044",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0066.png",
+                    "frame": "diving-hover0045",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0067.png",
+                    "frame": "diving-hover0046",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0068.png",
+                    "frame": "diving-hover0047",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0069.png",
+                    "frame": "diving-hover0048",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "diving-hover0070.png",
+                    "frame": "diving-hover0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "diving-hover0070",
                     "duration": 0,
                     "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
-        },
-        {
-            "key": "hotelroof_door_close",
-            "type": "frame",
-            "frames": [
-                {
-                    "key": "hotelroof",
-                    "frame": "door0011.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "door0012.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "door0013.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "door0014.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "door0015.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "door0016.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "door0017.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "door0018.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "door0019.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "door0020.png",
-                    "duration": 0,
-                    "keyframe": false
-                }
-            ],
-            "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
-        },
-        {
-            "key": "hotelroof_leftSpeaker-hover",
-            "type": "frame",
-            "frames": [
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0001.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0002.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0003.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0004.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0005.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0006.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0007.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0008.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0009.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0010.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0011.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0012.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0013.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0014.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0015.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0016.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0017.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0018.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0019.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0020.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0021.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0022.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0023.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0024.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0025.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0026.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0027.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0028.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0029.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0030.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0031.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0032.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0033.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0034.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker-hover0035.png",
-                    "duration": 0,
-                    "keyframe": false
-                }
-            ],
-            "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
-        },
-        {
-            "key": "hotelroof_leftSpeaker",
-            "type": "frame",
-            "frames": [
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0001.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0002.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0003.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0004.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0005.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0006.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0007.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0008.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0009.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0010.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0011.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0012.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0013.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0014.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0015.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0016.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0017.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0018.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0019.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0020.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0021.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0022.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0023.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0024.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0025.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0026.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0027.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0028.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0029.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0030.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0031.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0032.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0033.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0034.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "leftSpeaker0035.png",
-                    "duration": 0,
-                    "keyframe": false
-                }
-            ],
-            "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
-        },
-        {
-            "key": "hotelroof_rightSpeaker-hover",
-            "type": "frame",
-            "frames": [
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0001.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0002.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0003.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0004.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0005.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0006.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0007.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0008.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0009.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0010.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0011.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0012.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0013.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0014.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0015.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0016.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0017.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0018.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0019.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0020.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0021.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0022.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0023.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0024.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0025.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0026.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0027.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0028.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0029.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0030.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0031.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0032.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0033.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0034.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker-hover0035.png",
-                    "duration": 0,
-                    "keyframe": false
-                }
-            ],
-            "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
-        },
-        {
-            "key": "hotelroof_rightSpeaker",
-            "type": "frame",
-            "frames": [
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0001.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0002.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0003.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0004.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0005.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0006.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0007.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0008.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0009.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0010.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0011.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0012.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0013.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0014.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0015.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0016.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0017.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0018.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0019.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0020.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0021.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0022.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0023.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0024.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0025.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0026.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0027.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0028.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0029.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0030.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0031.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0032.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0033.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0034.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "rightSpeaker0035.png",
-                    "duration": 0,
-                    "keyframe": false
-                }
-            ],
-            "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
-        },
-        {
-            "key": "hotelroof_turntables-hover",
-            "type": "frame",
-            "frames": [
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0001.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0002.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0003.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0004.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0005.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0006.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0007.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0008.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0009.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0010.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0011.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0012.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0013.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0014.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0015.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0016.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0017.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0018.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0019.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0020.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0021.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0022.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0023.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0024.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0025.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0026.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0027.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0028.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0029.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0030.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0031.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0032.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0033.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0034.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0035.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0036.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0037.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0038.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0039.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0040.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0041.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0042.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0043.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0044.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0045.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0046.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0047.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0048.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0049.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0050.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0051.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0052.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0053.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0054.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0055.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0056.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0057.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0058.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0059.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0060.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0061.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0062.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0063.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0064.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0065.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0066.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0067.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0068.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0069.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0070.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables-hover0071.png",
-                    "duration": 0,
-                    "keyframe": false
-                }
-            ],
-            "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
-        },
-        {
-            "key": "hotelroof_turntables",
-            "type": "frame",
-            "frames": [
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0001.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0002.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0003.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0004.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0005.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0006.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0007.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0008.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0009.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0010.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0011.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0012.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0013.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0014.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0015.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0016.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0017.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0018.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0019.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0020.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0021.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0022.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0023.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0024.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0025.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0026.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0027.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0028.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0029.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0030.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0031.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0032.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0033.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0034.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0035.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0036.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0037.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0038.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0039.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0040.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0041.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0042.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0043.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0044.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0045.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0046.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0047.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0048.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0049.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0050.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0051.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0052.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0053.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0054.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0055.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0056.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0057.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0058.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0059.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0060.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0061.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0062.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0063.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0064.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0065.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0066.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0067.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0068.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0069.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0070.png",
-                    "duration": 0,
-                    "keyframe": false
-                },
-                {
-                    "key": "hotelroof",
-                    "frame": "turntables0071.png",
-                    "duration": 0,
-                    "keyframe": false
-                }
-            ],
-            "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
+            "skipMissedFrames": true
         },
         {
             "key": "hotelroof_door_open",
@@ -2892,68 +1512,1875 @@
             "frames": [
                 {
                     "key": "hotelroof",
-                    "frame": "door0001.png",
+                    "frame": "door0001",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "door0002.png",
+                    "frame": "door0002",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "door0003.png",
+                    "frame": "door0003",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "door0004.png",
+                    "frame": "door0004",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "door0005.png",
+                    "frame": "door0005",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "door0006.png",
+                    "frame": "door0006",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "door0007.png",
+                    "frame": "door0007",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "door0008.png",
+                    "frame": "door0008",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "door0009.png",
+                    "frame": "door0009",
                     "duration": 0,
                     "keyframe": false
                 },
                 {
                     "key": "hotelroof",
-                    "frame": "door0010.png",
+                    "frame": "door0010",
                     "duration": 0,
                     "keyframe": false
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
+            "skipMissedFrames": true
+        },
+        {
+            "key": "hotelroof_leftSpeaker-hover",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker-hover0035",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "hotelroof_leftSpeaker",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "leftSpeaker0035",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "hotelroof_rightSpeaker-hover",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker-hover0035",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "hotelroof_rightSpeaker",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "rightSpeaker0035",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "hotelroof_turntables-hover",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables-hover0071",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "hotelroof_turntables",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "turntables0071",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "hotelroof_door_close",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hotelroof",
+                    "frame": "door0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "door0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "door0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "door0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "door0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "door0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "door0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "door0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "door0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hotelroof",
+                    "frame": "door0020",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
         }
     ],
     "globalTimeScale": 1,

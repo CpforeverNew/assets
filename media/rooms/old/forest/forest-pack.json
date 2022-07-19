@@ -9,6 +9,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/rooms/old/forest/fof/fof-forest.json",
+                "path": "assets/media/rooms/old/forest/fof",
+                "key": "fof-forest"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/rooms/old/forest/forest.json",
                 "path": "assets/media/rooms/old/forest/",
                 "key": "forest"
@@ -19,7 +25,7 @@
                 "key": "forest-anims"
             },
             {
-                "url": "assets/media/rooms/old/forest/forest-physics.json",
+                "url": "assets/media/rooms/old/forest/fof/forest-physics.json",
                 "type": "json",
                 "key": "forest-physics"
             },

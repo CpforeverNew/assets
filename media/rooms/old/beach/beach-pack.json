@@ -24,9 +24,10 @@
                 "key": "beachmj"
             },
             {
-                "url": "assets/media/rooms/old/beach/mj/bench45.png",
-                "type": "image",
-                "key": "bench45"
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/beach/camp/camp-beach.json",
+                "path": "assets/media/rooms/old/beach/camp",
+                "key": "camp-beach"
             },
             {
                 "type": "multiatlas",
@@ -39,11 +40,6 @@
                 "url": "assets/media/rooms/old/beach/fof/fof-beach.json",
                 "path": "assets/media/rooms/old/beach/fof",
                 "key": "fof-beach"
-            },
-            {
-                "url": "assets/media/rooms/old/beach/mj/lighthous123.png",
-                "type": "image",
-                "key": "lighthous123"
             },
             {
                 "url": "assets/media/rooms/old/beach/mj/mjbeach-anims.json",

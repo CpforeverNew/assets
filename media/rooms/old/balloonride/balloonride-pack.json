@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/balloonride/balloonride.json",
+                "path": "assets/media/rooms/old/balloonride",
+                "key": "balloonride"
+            },
+            {
+                "url": "assets/media/rooms/old/balloonride/balloonride-anims.json",
+                "type": "animation",
+                "key": "balloonride-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

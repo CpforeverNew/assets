@@ -150,6 +150,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/game/main/pufflePopup.json",
+                "path": "assets/media/interface/game/main",
+                "key": "pufflePopup"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/interface/menus/servers/servers.json",
                 "path": "assets/media/interface/menus/servers/",
                 "key": "servers"

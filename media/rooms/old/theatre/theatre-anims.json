@@ -1,0 +1,126 @@
+{
+    "anims": [
+        {
+            "key": "speaker",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "theatre",
+                    "frame": "speaker0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "theatre",
+                    "frame": "speaker0018",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

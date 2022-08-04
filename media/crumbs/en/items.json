@@ -347,6 +347,18 @@
     "cost":0,
     "member":0
   },
+  "163":{
+    "name":"Brocks Beard",
+    "type":4,
+    "cost":0,
+    "member":0
+  },
+"164":{
+  "name":"Lucidy Cloud",
+  "type":4,
+  "cost":0,
+  "member":0
+},
   "166":{
     "name":"Green Bowtie",
     "type":4,
@@ -32138,6 +32150,18 @@
   "35034":{
     "name":"Rory's Autograph",
     "type":9,
+    "cost":0,
+    "member":0
+  },
+  "35410":{
+    "name":"Lucidy Cloud",
+    "type":6,
+    "cost":0,
+    "member":0
+  },
+  "35411":{
+    "name":"Lucidy Cloud Pin",
+    "type":8,
     "cost":0,
     "member":0
   },

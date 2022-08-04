@@ -25,7 +25,7 @@
                 "key": "forest-anims"
             },
             {
-                "url": "assets/media/rooms/old/forest/forest-physics.json",
+                "url": "assets/media/rooms/old/forest/fof/forest-physics.json",
                 "type": "json",
                 "key": "forest-physics"
             },

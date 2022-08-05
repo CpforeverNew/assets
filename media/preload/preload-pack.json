@@ -23,6 +23,12 @@
                 "key": "crumbs"
             },
             {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/daily/daily.json",
+                "path": "assets/media/interface/game/daily",
+                "key": "daily"
+            },
+            {
                 "url": "assets/media/interface/game/main/downarrow.png",
                 "type": "image",
                 "key": "downarrow"

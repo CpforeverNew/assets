@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "daily.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 744,
+				"h": 729
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 382,
+						"y": 235,
+						"w": 742,
+						"h": 474
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 742,
+						"h": 474
+					}
+				},
+				{
+					"filename": "gift",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 308,
+						"h": 251
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 308,
+						"h": 251
+					},
+					"frame": {
+						"x": 1,
+						"y": 477,
+						"w": 308,
+						"h": 251
+					}
+				},
+				{
+					"filename": "claim_button-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 233,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 233,
+						"h": 75
+					},
+					"frame": {
+						"x": 311,
+						"y": 477,
+						"w": 233,
+						"h": 75
+					}
+				},
+				{
+					"filename": "dailyrewardiconn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 156
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 156
+					},
+					"frame": {
+						"x": 546,
+						"y": 477,
+						"w": 170,
+						"h": 156
+					}
+				},
+				{
+					"filename": "claim_button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 233,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 233,
+						"h": 75
+					},
+					"frame": {
+						"x": 311,
+						"y": 554,
+						"w": 233,
+						"h": 75
+					}
+				},
+				{
+					"filename": "claim_button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 233,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 233,
+						"h": 75
+					},
+					"frame": {
+						"x": 311,
+						"y": 631,
+						"w": 233,
+						"h": 75
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2174f543edb49c8e81a71941c9100c6d:261a6ac3edea9c333efa1d0544823b9c:5f10e70bbf4019685d3540457f5cc96c$"
+	}
+}

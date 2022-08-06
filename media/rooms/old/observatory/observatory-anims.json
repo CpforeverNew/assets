@@ -1,0 +1,312 @@
+{
+    "anims": [
+        {
+            "key": "shooting_stars",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "observatory",
+                    "frame": "shooting_star0049",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

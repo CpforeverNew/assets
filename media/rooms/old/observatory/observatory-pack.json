@@ -8,6 +8,11 @@
                 "key": "observatory"
             },
             {
+                "url": "assets/media/rooms/old/observatory/observatory-anims.json",
+                "type": "animation",
+                "key": "observatory-anims"
+            },
+            {
                 "url": "assets/media/rooms/old/observatory/observatory-physics.json",
                 "type": "json",
                 "key": "observatory-physics"

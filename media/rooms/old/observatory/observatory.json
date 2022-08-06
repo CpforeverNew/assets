@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "observatory.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1980,
+				"h": 962
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				},
+				{
+					"filename": "table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 456,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 456,
+						"h": 245
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1,
+						"w": 456,
+						"h": 245
+					}
+				},
+				{
+					"filename": "blueboard",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 163,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 163,
+						"h": 264
+					},
+					"frame": {
+						"x": 1523,
+						"y": 248,
+						"w": 163,
+						"h": 264
+					}
+				},
+				{
+					"filename": "freesign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 136
+					},
+					"frame": {
+						"x": 1688,
+						"y": 248,
+						"w": 126,
+						"h": 136
+					}
+				},
+				{
+					"filename": "jetpack",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 138
+					},
+					"frame": {
+						"x": 1816,
+						"y": 248,
+						"w": 114,
+						"h": 138
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a8ef28486eb949271376722e58d2fd69:0f12bd00ad2944c8ee199bd37ee0f715:8e6c12966578eb37fecd596cb30141a1$"
+	}
+}

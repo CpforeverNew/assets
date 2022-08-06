@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/observatory/observatory.json",
+                "path": "assets/media/rooms/old/observatory",
+                "key": "observatory"
+            },
+            {
+                "url": "assets/media/rooms/old/observatory/observatory-physics.json",
+                "type": "json",
+                "key": "observatory-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

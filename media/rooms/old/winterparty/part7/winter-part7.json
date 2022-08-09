@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "winter-part7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1578,
+				"h": 2028
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1576,
+						"h": 1020
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1576,
+						"h": 1020
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1576,
+						"h": 1020
+					}
+				},
+				{
+					"filename": "fg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1564,
+						"h": 1004
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1564,
+						"h": 1004
+					},
+					"frame": {
+						"x": 1,
+						"y": 1023,
+						"w": 1564,
+						"h": 1004
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a6ad6c917f079c4e4109476d979c5cf8:1c6834699ad182152d158265679e7db2:2f25326a639efc15333c66ed94796b18$"
+	}
+}

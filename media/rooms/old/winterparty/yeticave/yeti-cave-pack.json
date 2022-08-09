@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/winterparty/yeticave/yeticave.json",
+                "path": "assets/media/rooms/old/winterparty/yeticave",
+                "key": "yeticave"
+            },
+            {
+                "url": "assets/media/rooms/old/winterparty/yeticave/yeticave-anims.json",
+                "type": "animation",
+                "key": "yeticave-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/winterparty/yeticave/yeticave-physics.json",
+                "type": "json",
+                "key": "yeticave-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

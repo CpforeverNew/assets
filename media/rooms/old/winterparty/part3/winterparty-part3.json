@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "winterparty-part3-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1582,
+				"h": 1898
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1580,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1580,
+						"h": 1080
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1580,
+						"h": 1080
+					}
+				},
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1564,
+						"h": 814
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1564,
+						"h": 814
+					},
+					"frame": {
+						"x": 1,
+						"y": 1083,
+						"w": 1564,
+						"h": 814
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f88b84830079d74c769739f1ea887f43:e17580294765f49ec580d594f47c09f7:d8a018a58ac1064b0d9e1950880f5741$"
+	}
+}

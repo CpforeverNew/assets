@@ -1,0 +1,63 @@
+{
+	"generator_info": "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+	"block": {
+		"type": "fromPhysicsEditor",
+		"label": "block",
+		"isStatic": true,
+		"density": 0.1,
+		"restitution": 0,
+		"friction": 0.1,
+		"frictionAir": 0.01,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":1523, "y":-40 }, { "x":14, "y":-12 }, { "x":1553, "y":970 } ],
+					[ { "x":-19, "y":973 }, { "x":1553, "y":970 }, { "x":282, "y":162 }, { "x":-13, "y":-4 } ],
+					[ { "x":835, "y":296 }, { "x":964, "y":296 }, { "x":834, "y":171 } ],
+					[ { "x":350, "y":330 }, { "x":282, "y":162 }, { "x":299, "y":361 } ],
+					[ { "x":964, "y":296 }, { "x":1055, "y":301 }, { "x":834, "y":171 } ],
+					[ { "x":299, "y":361 }, { "x":282, "y":162 }, { "x":247, "y":409 } ],
+					[ { "x":678, "y":171 }, { "x":834, "y":171 }, { "x":623, "y":127 } ],
+					[ { "x":1055, "y":301 }, { "x":1171, "y":320 }, { "x":834, "y":171 } ],
+					[ { "x":247, "y":409 }, { "x":282, "y":162 }, { "x":215, "y":465 } ],
+					[ { "x":1171, "y":320 }, { "x":1237, "y":340 }, { "x":834, "y":171 } ],
+					[ { "x":335, "y":152 }, { "x":397, "y":138 }, { "x":282, "y":162 } ],
+					[ { "x":215, "y":465 }, { "x":282, "y":162 }, { "x":201, "y":515 } ],
+					[ { "x":570, "y":127 }, { "x":623, "y":127 }, { "x":489, "y":127 } ]
+				]
+			}
+		]
+	},
+	"forts": {
+		"type": "fromPhysicsEditor",
+		"label": "forts",
+		"isStatic": true,
+		"density": 0.10000000149011612,
+		"restitution": 0,
+		"friction": 0.10000000149011612,
+		"frictionAir": 0.009999999776482582,
+		"frictionStatic": 0.5,
+		"collisionFilter": {
+			"group": 0,
+			"category": 1,
+			"mask": 255
+		},
+		"fixtures": [
+			{
+				"label": "",
+				"isSensor": false,
+				"vertices": [
+					[ { "x":843, "y":153 }, { "x":685, "y":153 }, { "x":683, "y":154 }, { "x":684, "y":270 }, { "x":843, "y":270 } ]
+				]
+			}
+		]
+	}
+}

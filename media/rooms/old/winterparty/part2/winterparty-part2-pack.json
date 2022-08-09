@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/old/winterparty/part2/winterpart2-physics.json",
+                "type": "json",
+                "key": "winterpart2-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/winterparty/part2/winterparty-part2.json",
+                "path": "assets/media/rooms/old/winterparty/part2",
+                "key": "winterparty-part2"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,73 @@
+{
+	"textures": [
+		{
+			"image": "winter-part6-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1642,
+				"h": 1082
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1640,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1640,
+						"h": 1080
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1640,
+						"h": 1080
+					}
+				}
+			]
+		},
+		{
+			"image": "winter-part6-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1566,
+				"h": 1006
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1564,
+						"h": 1004
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1564,
+						"h": 1004
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1564,
+						"h": 1004
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d069ea0e398458c45bbad600e6d19aab:a75b14f9be5f7620a20a592415ccd8b6:5c447cf31efa69ffa8a73d4fcac843e8$"
+	}
+}

@@ -1,0 +1,157 @@
+{
+	"textures": [
+		{
+			"image": "part1-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1574,
+				"h": 1963
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1572,
+						"h": 1016
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1572,
+						"h": 1016
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1572,
+						"h": 1016
+					}
+				},
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1564,
+						"h": 819
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1564,
+						"h": 819
+					},
+					"frame": {
+						"x": 1,
+						"y": 1019,
+						"w": 1564,
+						"h": 819
+					}
+				},
+				{
+					"filename": "right_flag",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 122
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 1840,
+						"w": 129,
+						"h": 122
+					}
+				},
+				{
+					"filename": "cave_glow0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 257,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 257,
+						"h": 121
+					},
+					"frame": {
+						"x": 132,
+						"y": 1840,
+						"w": 257,
+						"h": 121
+					}
+				},
+				{
+					"filename": "left_flag",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 119
+					},
+					"frame": {
+						"x": 391,
+						"y": 1840,
+						"w": 113,
+						"h": 119
+					}
+				}
+			]
+		},
+		{
+			"image": "part1-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1215,
+				"h": 521
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cave",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1213,
+						"h": 519
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1213,
+						"h": 519
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1213,
+						"h": 519
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0dfbcb3c104da6e3b8e06a2cbdb375f6:5064dd862094915a3fa64406cab7bdc0:006e253d590500045e20a08f2d533f8e$"
+	}
+}

@@ -1,0 +1,1020 @@
+{
+    "anims": [
+        {
+            "key": "back_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "yeticave",
+                    "frame": "back_fire0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "back_fire0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "back_fire0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "back_fire0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "back_fire0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "back_fire0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "back_fire0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "back_fire0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "back_fire0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "back_fire0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "small_fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "yeticave",
+                    "frame": "small_fire0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "small_fire0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "small_fire0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "small_fire0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "small_fire0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "small_fire0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "small_fire0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "small_fire0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "small_fire0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "small_fire0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "tv",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "yeticave",
+                    "frame": "tv0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0121",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0122",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0123",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0124",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0125",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0126",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0127",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0128",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0129",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0130",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0131",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0132",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0133",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0134",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0135",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0136",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0137",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0138",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0139",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0140",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0141",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0142",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0143",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "yeticave",
+                    "frame": "tv0144",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

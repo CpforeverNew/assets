@@ -60,9 +60,9 @@
 			}
 		]
 	},
-	"trigger1": {
+	"trigger_1": {
 		"type": "fromPhysicsEditor",
-		"label": "trigger1",
+		"label": "trigger_1",
 		"isStatic": true,
 		"density": 0.1,
 		"restitution": 0,
@@ -84,9 +84,9 @@
 			}
 		]
 	},
-	"trigger2": {
+	"trigger_2": {
 		"type": "fromPhysicsEditor",
-		"label": "trigger2",
+		"label": "trigger_2",
 		"isStatic": true,
 		"density": 0.10000000149011612,
 		"restitution": 0,
@@ -108,9 +108,9 @@
 			}
 		]
 	},
-	"trigger3": {
+	"trigger_3": {
 		"type": "fromPhysicsEditor",
-		"label": "trigger3",
+		"label": "trigger_3",
 		"isStatic": true,
 		"density": 0.10000000149011612,
 		"restitution": 0,
@@ -132,9 +132,9 @@
 			}
 		]
 	},
-	"trigger4": {
+	"trigger_4": {
 		"type": "fromPhysicsEditor",
-		"label": "trigger4",
+		"label": "trigger_4",
 		"isStatic": true,
 		"density": 0.10000000149011612,
 		"restitution": 0,

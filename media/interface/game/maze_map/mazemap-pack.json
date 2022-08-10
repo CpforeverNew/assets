@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/maze_map/maze_map.json",
+                "path": "assets/media/interface/game/maze_map",
+                "key": "maze_map"
+            },
+            {
+                "url": "assets/media/interface/game/maze_map/maze_map_anims.json",
+                "type": "animation",
+                "key": "maze_map_anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

@@ -1,0 +1,1145 @@
+{
+	"textures": [
+		{
+			"image": "maze_map-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1614,
+				"h": 2018
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0022",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1748
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1748
+					}
+				},
+				{
+					"filename": "hide_button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 268,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 268,
+						"h": 266
+					},
+					"frame": {
+						"x": 1,
+						"y": 1751,
+						"w": 268,
+						"h": 266
+					}
+				},
+				{
+					"filename": "hide_button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 268,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 268,
+						"h": 266
+					},
+					"frame": {
+						"x": 271,
+						"y": 1751,
+						"w": 268,
+						"h": 266
+					}
+				},
+				{
+					"filename": "show_button-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 268,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 268,
+						"h": 266
+					},
+					"frame": {
+						"x": 541,
+						"y": 1751,
+						"w": 268,
+						"h": 266
+					}
+				},
+				{
+					"filename": "show_button",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 268,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 268,
+						"h": 266
+					},
+					"frame": {
+						"x": 811,
+						"y": 1751,
+						"w": 268,
+						"h": 266
+					}
+				},
+				{
+					"filename": "hide_button-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 265,
+						"h": 265
+					},
+					"frame": {
+						"x": 1081,
+						"y": 1751,
+						"w": 265,
+						"h": 265
+					}
+				},
+				{
+					"filename": "show_button-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 265,
+						"h": 265
+					},
+					"frame": {
+						"x": 1348,
+						"y": 1751,
+						"w": 265,
+						"h": 265
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1750
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0023",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1748
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1748
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1749
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1747
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1747
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1747
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1745
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1745
+					}
+				},
+				{
+					"filename": "maze_map0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1745
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1745
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1747
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1745
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1745
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1745
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1743
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1743
+					}
+				},
+				{
+					"filename": "maze_map0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1743
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1743
+					}
+				},
+				{
+					"filename": "maze_map0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1743
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1743
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1610
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1608
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1608
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1603
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1601
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1601
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1482
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1480
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1480
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1475
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1473
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1473
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1369
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1367
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1367
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1363
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1361
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1361
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1271
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1269
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1269
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1266
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1264
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1264
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1189
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1187
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1187
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1184
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1182
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1182
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-16.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1121
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1119
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1119
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-17.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1116
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1114
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1114
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-18.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1068
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1066
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1066
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-19.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 1064
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1062
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1062
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-20.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 2041
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1029
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1029
+					}
+				},
+				{
+					"filename": "maze_map0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1008
+					},
+					"frame": {
+						"x": 1,
+						"y": 1032,
+						"w": 1565,
+						"h": 1008
+					}
+				},
+				{
+					"filename": "maze_map0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1008
+					},
+					"frame": {
+						"x": 1,
+						"y": 1032,
+						"w": 1565,
+						"h": 1008
+					}
+				},
+				{
+					"filename": "maze_map0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1008
+					},
+					"frame": {
+						"x": 1,
+						"y": 1032,
+						"w": 1565,
+						"h": 1008
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-21.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 2037
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1025
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1025
+					}
+				},
+				{
+					"filename": "maze_map0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1008
+					},
+					"frame": {
+						"x": 1,
+						"y": 1028,
+						"w": 1565,
+						"h": 1008
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-22.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 2020
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1008
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1008
+					}
+				},
+				{
+					"filename": "maze_map0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1008
+					},
+					"frame": {
+						"x": 1,
+						"y": 1011,
+						"w": 1565,
+						"h": 1008
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-23.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 2020
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1008
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1008
+					}
+				},
+				{
+					"filename": "maze_map0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1008
+					},
+					"frame": {
+						"x": 1,
+						"y": 1011,
+						"w": 1565,
+						"h": 1008
+					}
+				}
+			]
+		},
+		{
+			"image": "maze_map-24.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1567,
+				"h": 2020
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maze_map0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1008
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1565,
+						"h": 1008
+					}
+				},
+				{
+					"filename": "maze_map0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1565,
+						"h": 1748
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1565,
+						"h": 1008
+					},
+					"frame": {
+						"x": 1,
+						"y": 1011,
+						"w": 1565,
+						"h": 1008
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d27cae234a836ca5bdba10f7bf44cc92:8342ddab4e64a5f6c536173c4496aec4:163d253031536dfa30b81a98d0413135$"
+	}
+}

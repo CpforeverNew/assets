@@ -213,7 +213,7 @@
             "skipMissedFrames": true
         },
         {
-            "key": "maze_map_box",
+            "key": "maze_map_box_hover",
             "type": "frame",
             "frames": [
                 {
@@ -389,7 +389,15 @@
                     "frame": "maze_map_box0029",
                     "duration": 0,
                     "keyframe": false
-                },
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "maze_map_box_unhover",
+            "type": "frame",
+            "frames": [
                 {
                     "key": "village-winter",
                     "frame": "maze_map_box0030",
@@ -458,8 +466,7 @@
                 }
             ],
             "frameRate": 24,
-            "skipMissedFrames": true,
-            "repeat": -1
+            "skipMissedFrames": true
         }
     ],
     "globalTimeScale": 1,

@@ -48,6 +48,11 @@
                 "key": "village-anims"
             },
             {
+                "url": "assets/media/rooms/old/village/village-physics.json",
+                "type": "json",
+                "key": "village-physics"
+            },
+            {
                 "type": "multiatlas",
                 "url": "assets/media/rooms/old/village/village-underwater.json",
                 "path": "assets/media/rooms/old/village",

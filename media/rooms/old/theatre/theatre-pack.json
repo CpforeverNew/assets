@@ -13,6 +13,11 @@
                 "key": "theatre-anims"
             },
             {
+                "url": "assets/media/rooms/old/theatre/popcorn.png",
+                "type": "image",
+                "key": "popcorn"
+            },
+            {
                 "url": "assets/media/rooms/old/theatre/theatre-physics.json",
                 "type": "json",
                 "key": "theatre-physics"

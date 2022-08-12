@@ -2032,5 +2032,11 @@
       "groupid": 6,
       "difficulty": 3,
       "description": "Be in the same room as Rory"
+    },
+    "497": {
+      "name": "Dori",
+      "groupid": 6,
+      "difficulty": 3,
+      "description": "Be in the same room as Dori"
     }
 }

@@ -32159,6 +32159,12 @@
     "cost":0,
     "member":0
   },
+  "35038":{
+    "name":"Dori's Theatre Background",
+    "type":9,
+    "cost":0,
+    "member":1
+  },
   "35410":{
     "name":"Lucidy Cloud",
     "type":6,
@@ -32173,6 +32179,24 @@
   },
   "35412":{
     "name":"Verified Pin",
+    "type":8,
+    "cost":0,
+    "member":0
+  },
+  "35413":{
+    "name":"Drama Pin",
+    "type":8,
+    "cost":0,
+    "member":0
+  },
+  "35415":{
+    "name":"Prankster Pin",
+    "type":8,
+    "cost":0,
+    "member":0
+  },
+  "35416":{
+    "name":"Golden Palette Pin",
     "type":8,
     "cost":0,
     "member":0

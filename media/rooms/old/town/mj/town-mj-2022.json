@@ -94,6 +94,27 @@
 					}
 				},
 				{
+					"filename": "door.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 101,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 101,
+						"h": 100
+					},
+					"frame": {
+						"x": 1569,
+						"y": 780,
+						"w": 101,
+						"h": 100
+					}
+				},
+				{
 					"filename": "boombox.png",
 					"rotated": false,
 					"trimmed": false,
@@ -109,7 +130,7 @@
 					},
 					"frame": {
 						"x": 1569,
-						"y": 780,
+						"y": 882,
 						"w": 101,
 						"h": 95
 					}
@@ -130,7 +151,7 @@
 					},
 					"frame": {
 						"x": 1569,
-						"y": 877,
+						"y": 979,
 						"w": 89,
 						"h": 79
 					}
@@ -151,7 +172,7 @@
 					},
 					"frame": {
 						"x": 1569,
-						"y": 958,
+						"y": 1060,
 						"w": 85,
 						"h": 112
 					}
@@ -172,7 +193,7 @@
 					},
 					"frame": {
 						"x": 1569,
-						"y": 1072,
+						"y": 1174,
 						"w": 81,
 						"h": 92
 					}
@@ -193,7 +214,7 @@
 					},
 					"frame": {
 						"x": 1652,
-						"y": 1072,
+						"y": 1174,
 						"w": 73,
 						"h": 83
 					}
@@ -214,7 +235,7 @@
 					},
 					"frame": {
 						"x": 1569,
-						"y": 1166,
+						"y": 1268,
 						"w": 81,
 						"h": 67
 					}
@@ -257,6 +278,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:61626661b5ce8dfe296900c7704187a8:c3f481bf5d8b7b4375f480ea255e9885:1213fd0d5496255ff007a88b6814a3a3$"
+		"smartupdate": "$TexturePacker:SmartUpdate:5be9b8a6cf8dad35c278828e50775693:69b588b870d2d68a852bf5b024e37903:1213fd0d5496255ff007a88b6814a3a3$"
 	}
 }

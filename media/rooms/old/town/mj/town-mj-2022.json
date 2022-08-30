@@ -1,0 +1,262 @@
+{
+	"textures": [
+		{
+			"image": "town-mj-2022-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1726,
+				"h": 1551
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1724,
+						"h": 561
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1724,
+						"h": 561
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1724,
+						"h": 561
+					}
+				},
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1566,
+						"h": 986
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1566,
+						"h": 986
+					},
+					"frame": {
+						"x": 1,
+						"y": 564,
+						"w": 1566,
+						"h": 986
+					}
+				},
+				{
+					"filename": "table1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 117,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 117,
+						"h": 106
+					},
+					"frame": {
+						"x": 1569,
+						"y": 564,
+						"w": 117,
+						"h": 106
+					}
+				},
+				{
+					"filename": "table2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 117,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 117,
+						"h": 106
+					},
+					"frame": {
+						"x": 1569,
+						"y": 672,
+						"w": 117,
+						"h": 106
+					}
+				},
+				{
+					"filename": "boombox.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 101,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 101,
+						"h": 95
+					},
+					"frame": {
+						"x": 1569,
+						"y": 780,
+						"w": 101,
+						"h": 95
+					}
+				},
+				{
+					"filename": "box2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 89,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 89,
+						"h": 79
+					},
+					"frame": {
+						"x": 1569,
+						"y": 877,
+						"w": 89,
+						"h": 79
+					}
+				},
+				{
+					"filename": "chair.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 112
+					},
+					"frame": {
+						"x": 1569,
+						"y": 958,
+						"w": 85,
+						"h": 112
+					}
+				},
+				{
+					"filename": "right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 92
+					},
+					"frame": {
+						"x": 1569,
+						"y": 1072,
+						"w": 81,
+						"h": 92
+					}
+				},
+				{
+					"filename": "left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 83
+					},
+					"frame": {
+						"x": 1652,
+						"y": 1072,
+						"w": 73,
+						"h": 83
+					}
+				},
+				{
+					"filename": "box1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 67
+					},
+					"frame": {
+						"x": 1569,
+						"y": 1166,
+						"w": 81,
+						"h": 67
+					}
+				}
+			]
+		},
+		{
+			"image": "town-mj-2022-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1522,
+				"h": 962
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "its_a_sky_lol.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 960
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 960
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1520,
+						"h": 960
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:61626661b5ce8dfe296900c7704187a8:c3f481bf5d8b7b4375f480ea255e9885:1213fd0d5496255ff007a88b6814a3a3$"
+	}
+}

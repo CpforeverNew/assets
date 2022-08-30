@@ -1,0 +1,34 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/stafftheatre/stafftheatre.json",
+                "path": "assets/media/rooms/old/stafftheatre",
+                "key": "stafftheatre"
+            },
+            {
+                "url": "assets/media/rooms/old/stafftheatre/stafftheatre-anims.json",
+                "type": "animation",
+                "key": "stafftheatre-anims"
+            },
+            {
+                "url": "assets/media/rooms/old/stafftheatre/popcorn.png",
+                "type": "image",
+                "key": "popcorn"
+            },
+            {
+                "url": "assets/media/rooms/old/stafftheatre/stafftheatre-physics.json",
+                "type": "json",
+                "key": "stafftheatre-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

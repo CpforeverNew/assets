@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "dance-mj.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1690,
+				"h": 1000
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1560,
+						"h": 998
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1560,
+						"h": 998
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1560,
+						"h": 998
+					}
+				},
+				{
+					"filename": "glow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 126,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 126,
+						"h": 121
+					},
+					"frame": {
+						"x": 1563,
+						"y": 1,
+						"w": 126,
+						"h": 121
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8b5ae1fa8ffb630372c8a7580b2e4629:4380e6560424adb4a8cda274653afacf:0c37bf03ecaa694ad62de0b8ca681ec3$"
+	}
+}

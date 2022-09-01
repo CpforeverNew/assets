@@ -48,7 +48,7 @@
                 "key": "village-anims"
             },
             {
-                "url": "assets/media/rooms/old/village/village-physics.json",
+                "url": "assets/media/rooms/old/village/mj/village-physics.json",
                 "type": "json",
                 "key": "village-physics"
             },

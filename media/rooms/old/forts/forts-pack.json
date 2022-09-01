@@ -19,6 +19,12 @@
                 "key": "forts-anims"
             },
             {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/forts/mj/forts-mj.json",
+                "path": "assets/media/rooms/old/forts/mj",
+                "key": "forts-mj"
+            },
+            {
                 "url": "assets/media/rooms/old/forts/forts-physics.json",
                 "type": "json",
                 "key": "forts-physics"

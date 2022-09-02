@@ -3,9 +3,21 @@
         "files": [
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/clothing092022/clothing092022.json",
+                "path": "assets/media/interface/catalogs/clothing092022",
+                "key": "clothing092022"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/interface/catalogs/clothing/clothingcatalog.json",
                 "path": "assets/media/interface/catalogs/clothing/",
                 "key": "clothingcatalog"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/photos092022/photos-092022.json",
+                "path": "assets/media/interface/catalogs/photos092022",
+                "key": "photos-092022"
             }
         ]
     },
@@ -13,6 +25,7 @@
         "app": "Phaser Editor 2D - Asset Pack Editor",
         "contentType": "phasereditor2d.pack.core.AssetContentType",
         "url": "https://phasereditor2d.com",
-        "version": 2
+        "version": 2,
+        "showAllFilesInBlocks": false
     }
 }

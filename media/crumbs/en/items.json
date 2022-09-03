@@ -32225,6 +32225,84 @@
     "cost":0,
     "member":0
   },
+  "35416":{
+    "name":"Golden Palette Pin",
+    "type":8,
+    "cost":0,
+    "member":0
+  },
+  "35417":{
+    "name":"Music Jam Influencer Pin",
+    "type":8,
+    "cost":0,
+    "member":0
+  },
+  "35418":{
+    "name":"Taro Boba Pin",
+    "type":8,
+    "cost":0,
+    "member":0
+  },
+  "35419":{
+    "name":"Love Music Pin",
+    "type":8,
+    "cost":0,
+    "member":0
+  },
+  "35420":{
+    "name":"Music Jam Maracas Pin",
+    "type":8,
+    "cost":0,
+    "member":0
+  },
+  "35600":{
+    "name":"The Graduated",
+    "type":5,
+    "cost":0,
+    "member":1
+  },
+  "35601":{
+    "name":"The Low End",
+    "type":5,
+    "cost":0,
+    "member":1
+  },
+  "35602":{
+    "name":"The Pepper Guard (Orange)",
+    "type":5,
+    "cost":0,
+    "member":1
+  },
+  "35603":{
+    "name":"The Pepper Guard (Yellow)",
+    "type":5,
+    "cost":0,
+    "member":1
+  },
+  "35604":{
+    "name":"The Pepper Guard (Blue)",
+    "type":5,
+    "cost":0,
+    "member":1
+  },
+  "35605":{
+    "name":"The Pepper Guard (Maroon)",
+    "type":5,
+    "cost":0,
+    "member":1
+  },
+  "35606":{
+    "name":"The Major",
+    "type":5,
+    "cost":0,
+    "member":1
+  },
+  "35607":{
+    "name":"The Dropout",
+    "type":5,
+    "cost":0,
+    "member":1
+  },
   "37373":{
     "name":"Sahmyool Background",
     "type":9,

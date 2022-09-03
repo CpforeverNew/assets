@@ -8,6 +8,11 @@
                 "key": "beach-mj"
             },
             {
+                "url": "assets/media/rooms/old/beach/mj/beach-mj-anims.json",
+                "type": "animation",
+                "key": "beach-mj-anims"
+            },
+            {
                 "url": "src/scenes/rooms/old/beach/mj/beach-physics.json",
                 "type": "json",
                 "key": "beach-physics"

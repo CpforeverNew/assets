@@ -19,6 +19,12 @@
                 "key": "mtn-anims"
             },
             {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/mtn/mj/mtn-mj.json",
+                "path": "assets/media/rooms/old/mtn/mj",
+                "key": "mtn-mj"
+            },
+            {
                 "url": "assets/media/rooms/old/mtn/mtn-physics.json",
                 "type": "json",
                 "key": "mtn-physics"

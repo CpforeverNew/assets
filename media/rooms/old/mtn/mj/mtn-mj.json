@@ -1,0 +1,556 @@
+{
+	"textures": [
+		{
+			"image": "mtn-mj-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1831,
+				"h": 1965
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Sky1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1579,
+						"h": 657
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1579,
+						"h": 657
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1579,
+						"h": 657
+					}
+				},
+				{
+					"filename": "Lodge1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 214,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 214,
+						"h": 329
+					},
+					"frame": {
+						"x": 1582,
+						"y": 1,
+						"w": 214,
+						"h": 329
+					}
+				},
+				{
+					"filename": "Snow2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 209,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 209,
+						"h": 84
+					},
+					"frame": {
+						"x": 1582,
+						"y": 332,
+						"w": 209,
+						"h": 84
+					}
+				},
+				{
+					"filename": "Tree1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 215
+					},
+					"frame": {
+						"x": 1582,
+						"y": 418,
+						"w": 165,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Shop3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 111
+					},
+					"frame": {
+						"x": 1749,
+						"y": 418,
+						"w": 76,
+						"h": 111
+					}
+				},
+				{
+					"filename": "Tree2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 239
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 239
+					},
+					"frame": {
+						"x": 1749,
+						"y": 531,
+						"w": 63,
+						"h": 239
+					}
+				},
+				{
+					"filename": "Tree3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 219
+					},
+					"frame": {
+						"x": 1582,
+						"y": 635,
+						"w": 164,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Note1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 53,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 85
+					},
+					"frame": {
+						"x": 1748,
+						"y": 772,
+						"w": 53,
+						"h": 85
+					}
+				},
+				{
+					"filename": "Water1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1505,
+						"h": 551
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1505,
+						"h": 551
+					},
+					"frame": {
+						"x": 1,
+						"y": 660,
+						"w": 1505,
+						"h": 551
+					}
+				},
+				{
+					"filename": "Hill1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1493,
+						"h": 751
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1493,
+						"h": 751
+					},
+					"frame": {
+						"x": 1,
+						"y": 1213,
+						"w": 1493,
+						"h": 751
+					}
+				},
+				{
+					"filename": "Note3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 53,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 85
+					},
+					"frame": {
+						"x": 1508,
+						"y": 660,
+						"w": 53,
+						"h": 85
+					}
+				},
+				{
+					"filename": "Shop2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 544,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 493,
+						"y": 205,
+						"w": 51,
+						"h": 47
+					},
+					"frame": {
+						"x": 1508,
+						"y": 747,
+						"w": 51,
+						"h": 47
+					}
+				},
+				{
+					"filename": "Note5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 88
+					},
+					"frame": {
+						"x": 1508,
+						"y": 796,
+						"w": 47,
+						"h": 88
+					}
+				},
+				{
+					"filename": "Mount1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 270,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 270,
+						"h": 177
+					},
+					"frame": {
+						"x": 1557,
+						"y": 859,
+						"w": 270,
+						"h": 177
+					}
+				},
+				{
+					"filename": "Statue1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 266,
+						"h": 451
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 266,
+						"h": 451
+					},
+					"frame": {
+						"x": 1508,
+						"y": 1038,
+						"w": 266,
+						"h": 451
+					}
+				},
+				{
+					"filename": "Sign10001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 120
+					},
+					"frame": {
+						"x": 1496,
+						"y": 1491,
+						"w": 142,
+						"h": 120
+					}
+				},
+				{
+					"filename": "Sign30001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 133,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 133,
+						"h": 123
+					},
+					"frame": {
+						"x": 1640,
+						"y": 1491,
+						"w": 133,
+						"h": 123
+					}
+				},
+				{
+					"filename": "Tree4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 152
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 152
+					},
+					"frame": {
+						"x": 1496,
+						"y": 1613,
+						"w": 128,
+						"h": 152
+					}
+				},
+				{
+					"filename": "Sign40001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 136
+					},
+					"frame": {
+						"x": 1496,
+						"y": 1767,
+						"w": 114,
+						"h": 136
+					}
+				},
+				{
+					"filename": "Shop1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1500,
+						"h": 957
+					},
+					"spriteSourceSize": {
+						"x": 1379,
+						"y": 853,
+						"w": 117,
+						"h": 101
+					},
+					"frame": {
+						"x": 1626,
+						"y": 1616,
+						"w": 117,
+						"h": 101
+					}
+				},
+				{
+					"filename": "Sign20001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 93
+					},
+					"frame": {
+						"x": 1626,
+						"y": 1719,
+						"w": 114,
+						"h": 93
+					}
+				},
+				{
+					"filename": "Note4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 88,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 88,
+						"h": 90
+					},
+					"frame": {
+						"x": 1742,
+						"y": 1719,
+						"w": 88,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Note6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 104,
+						"h": 109
+					},
+					"frame": {
+						"x": 1612,
+						"y": 1814,
+						"w": 104,
+						"h": 109
+					}
+				},
+				{
+					"filename": "Note2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 91
+					},
+					"frame": {
+						"x": 1718,
+						"y": 1814,
+						"w": 93,
+						"h": 91
+					}
+				}
+			]
+		},
+		{
+			"image": "mtn-mj-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 739,
+				"h": 174
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Snow1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 737,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 737,
+						"h": 172
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 737,
+						"h": 172
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ab10eb32cd56e1affc248bad497858b1:37c12bdbfed1b18f27d5a416bcf7e900:eddacd9a427882a17ea0e63d1b660afc$"
+	}
+}

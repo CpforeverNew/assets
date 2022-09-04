@@ -8,6 +8,11 @@
                 "key": "cove-mj"
             },
             {
+                "url": "assets/media/rooms/old/cove/maracas.png",
+                "type": "image",
+                "key": "maracas"
+            },
+            {
                 "url": "assets/media/rooms/old/cove/mj/cove-physics.json",
                 "type": "json",
                 "key": "cove-physics"

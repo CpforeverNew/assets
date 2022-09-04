@@ -18,9 +18,9 @@
                 "key": "cove-physics"
             },
             {
-                "url": "assets/media/rooms/old/cove/firework.png",
+                "url": "assets/media/rooms/old/cove/maracas.png",
                 "type": "image",
-                "key": "firework"
+                "key": "maracas"
             },
             {
                 "type": "multiatlas",

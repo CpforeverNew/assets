@@ -3,7 +3,7 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/old/beacon/beacon.json",
+                "url": "assets/media/rooms/old/beacon/lighthouse-top.json",
                 "path": "assets/media/rooms/old/beacon",
                 "key": "beacon"
             },

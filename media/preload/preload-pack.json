@@ -110,6 +110,12 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/game/mj/mj-ui.json",
+                "path": "assets/media/interface/game/mj",
+                "key": "mj-ui"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/interface/game/prompt/prompt.json",
                 "path": "assets/media/interface/game/prompt",
                 "key": "party-prompt"
@@ -171,6 +177,11 @@
                 "url": "assets/media/interface/menus/start/start.json",
                 "path": "assets/media/interface/menus/start/",
                 "key": "start"
+            },
+            {
+                "url": "assets/media/interface/game/mj/uimusicjam.png",
+                "type": "image",
+                "key": "uimusicjam"
             }
         ]
     },

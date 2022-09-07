@@ -6,11 +6,6 @@
                 "url": "assets/media/rooms/old/town/mj/town-mj-2022.json",
                 "path": "assets/media/rooms/old/town/mj",
                 "key": "town-mj-2022"
-            },
-            {
-                "url": "assets/media/rooms/old/town/mj/town-physics.json",
-                "type": "json",
-                "key": "town-physics"
             }
         ]
     },

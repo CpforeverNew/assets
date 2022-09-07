@@ -32,6 +32,11 @@
                 "key": "stadium6"
             },
             {
+                "url": "assets/media/rooms/old/town/mj/town-physics.json",
+                "type": "json",
+                "key": "town-physics"
+            },
+            {
                 "type": "multiatlas",
                 "url": "assets/media/rooms/old/town/mj/town1.json",
                 "path": "assets/media/rooms/old/town/mj",
@@ -42,6 +47,12 @@
                 "url": "assets/media/rooms/old/town/mj/town.json",
                 "path": "assets/media/rooms/old/town/mj",
                 "key": "town2"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/town/mj/town3.json",
+                "path": "assets/media/rooms/old/town/mj",
+                "key": "town3"
             }
         ]
     },

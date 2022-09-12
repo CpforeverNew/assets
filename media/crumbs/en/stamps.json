@@ -2038,5 +2038,11 @@
       "groupid": 6,
       "difficulty": 3,
       "description": "Be in the same room as Dori"
+    },
+    "498": {
+      "name": "DJ Maxx",
+      "groupid": 6,
+      "difficulty": 3,
+      "description": "Be in the same room as DJ Maxx"
     }
 }

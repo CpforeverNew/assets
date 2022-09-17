@@ -32183,12 +32183,6 @@
     "cost":0,
     "member":0
   },
-  "35037":{
-    "name":"DJ Maxx Headphones",
-    "type":2,
-    "cost":0,
-    "member":0
-  },
   "35038":{
     "name":"Dori's Theatre Background",
     "type":9,
@@ -32316,13 +32310,19 @@
     "member":1
   },
   "37374":{
-    "name":"Gary Festival of Flight 2022 Background",
+    "name":"Gary Festival of Flight Background",
     "type":9,
     "cost":0,
     "member":1
   },
   "37375":{
-    "name":"DJ Maxx Music Jam 2022 Background",
+    "name":"DJ Maxx Music Jam",
+    "type":9,
+    "cost":0,
+    "member":1
+  },
+  "37376":{
+    "name":"Cadence and Penguin Band Music Jam",
     "type":9,
     "cost":0,
     "member":1

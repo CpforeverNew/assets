@@ -2,6 +2,11 @@
     "section1": {
         "files": [
             {
+                "url": "assets/media/interface/menus/start/Camp_Penguin_login.png",
+                "type": "image",
+                "key": "Camp_Penguin_login"
+            },
+            {
                 "type": "multiatlas",
                 "url": "assets/media/interface/game/main/chatbar.json",
                 "path": "assets/media/interface/game/main",

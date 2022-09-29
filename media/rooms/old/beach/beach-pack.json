@@ -24,6 +24,11 @@
                 "key": "beachmj"
             },
             {
+                "url": "assets/media/rooms/old/beach/camp/bonfire.png",
+                "type": "image",
+                "key": "bonfire"
+            },
+            {
                 "type": "multiatlas",
                 "url": "assets/media/rooms/old/beach/camp/camp-beach.json",
                 "path": "assets/media/rooms/old/beach/camp",

@@ -184,6 +184,12 @@
                 "key": "start"
             },
             {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/fair/tickets.json",
+                "path": "assets/media/interface/game/fair",
+                "key": "tickets"
+            },
+            {
                 "url": "assets/media/interface/game/mj/uimusicjam.png",
                 "type": "image",
                 "key": "uimusicjam"

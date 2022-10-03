@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "tickets.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 435,
+				"h": 87
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tickets-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 87
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tickets-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 87
+					},
+					"frame": {
+						"x": 145,
+						"y": 0,
+						"w": 145,
+						"h": 87
+					}
+				},
+				{
+					"filename": "tickets",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 87
+					},
+					"frame": {
+						"x": 290,
+						"y": 0,
+						"w": 145,
+						"h": 87
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:719a1fa2f09999e433cc97fdc9ecb97b:8e7c89a86a69046b57bd0daea22b37f6:89a7d5897822e4d0a94af0a1887241a0$"
+	}
+}

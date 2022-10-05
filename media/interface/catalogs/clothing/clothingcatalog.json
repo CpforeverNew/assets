@@ -710,6 +710,81 @@
 					}
 				},
 				{
+					"filename": "buy3-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 53
+					},
+					"frame": {
+						"x": 1797,
+						"y": 1504,
+						"w": 95,
+						"h": 53
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "buy3-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 53
+					},
+					"frame": {
+						"x": 1797,
+						"y": 1448,
+						"w": 95,
+						"h": 53
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "buy3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 53
+					},
+					"frame": {
+						"x": 1797,
+						"y": 1560,
+						"w": 95,
+						"h": 53
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
 					"filename": "buy2-active",
 					"rotated": false,
 					"trimmed": false,
@@ -1406,6 +1481,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:5c61c5ac5ef7e3a6e524063db7676499:5c7165b777bab12f5eb1e015b97d0f77:4e716995ea5fc3381e263d11fce7f990$"
+		"smartupdate": "$TexturePacker:SmartUpdate:747fff5b1f12a597df3f404e0b48a3d5:5c7165b777bab12f5eb1e015b97d0f77:4e716995ea5fc3381e263d11fce7f990$"
 	}
 }

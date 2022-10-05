@@ -3,12 +3,6 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/interface/catalogs/furn092022/furncatalog092022.json",
-                "path": "assets/media/interface/catalogs/furn092022",
-                "key": "furncatalog092022"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/interface/catalogs/furniture/furniturecatalog.json",
                 "path": "assets/media/interface/catalogs/furniture/",
                 "key": "furniturecatalog"
@@ -19,7 +13,6 @@
         "app": "Phaser Editor 2D - Asset Pack Editor",
         "contentType": "phasereditor2d.pack.core.AssetContentType",
         "url": "https://phasereditor2d.com",
-        "version": 2,
-        "showAllFilesInBlocks": false
+        "version": 2
     }
 }

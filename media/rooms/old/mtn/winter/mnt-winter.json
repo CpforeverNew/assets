@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "mnt-winter.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 514,
+				"h": 514
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "right_ballons",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 129,
+						"h": 424
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 129,
+						"h": 424
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 129,
+						"h": 424
+					}
+				},
+				{
+					"filename": "left_ballons",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 152,
+						"h": 363
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 152,
+						"h": 363
+					},
+					"frame": {
+						"x": 132,
+						"y": 1,
+						"w": 152,
+						"h": 363
+					}
+				},
+				{
+					"filename": "blue_hat_crate",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 227,
+						"h": 163
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 227,
+						"h": 163
+					},
+					"frame": {
+						"x": 286,
+						"y": 1,
+						"w": 227,
+						"h": 163
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a49059fd1167e744de3d016379a0adfd:7335deff614bd231135227dbf12426bc:a2f25820f463773d1a80a2c32702b0aa$"
+	}
+}

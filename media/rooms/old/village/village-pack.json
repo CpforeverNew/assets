@@ -3,24 +3,6 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/old/village/camp/camp-village.json",
-                "path": "assets/media/rooms/old/village/camp",
-                "key": "camp-village"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/village/fof/fof-village.json",
-                "path": "assets/media/rooms/old/village/fof",
-                "key": "fof-village"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/village/pg/pg-village.json",
-                "path": "assets/media/rooms/old/village/pg",
-                "key": "pg-village"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/rooms/old/village/ski.json",
                 "path": "assets/media/rooms/old/village/",
                 "key": "ski-lift"
@@ -29,12 +11,6 @@
                 "url": "assets/media/rooms/old/village/ski-lift-animation.json",
                 "type": "animation",
                 "key": "ski-lift-animation"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/village/mj/ski1.json",
-                "path": "assets/media/rooms/old/village/mj",
-                "key": "skimj"
             },
             {
                 "type": "multiatlas",
@@ -51,12 +27,6 @@
                 "url": "assets/media/rooms/old/village/village-physics.json",
                 "type": "json",
                 "key": "village-physics"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/village/village-underwater.json",
-                "path": "assets/media/rooms/old/village",
-                "key": "village-underwater"
             }
         ]
     },

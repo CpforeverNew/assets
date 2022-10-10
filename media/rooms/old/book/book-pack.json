@@ -2,11 +2,6 @@
     "section1": {
         "files": [
             {
-                "url": "assets/media/rooms/old/mtn/pg/589.png",
-                "type": "image",
-                "key": "589"
-            },
-            {
                 "type": "multiatlas",
                 "url": "assets/media/rooms/old/book/book.json",
                 "path": "assets/media/rooms/old/book/",
@@ -16,12 +11,6 @@
                 "url": "assets/media/rooms/old/book/book-physics.json",
                 "type": "json",
                 "key": "book-physics"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/book/pg/pg-book.json",
-                "path": "assets/media/rooms/old/book/pg",
-                "key": "pg-book"
             }
         ]
     },

@@ -3,12 +3,6 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/old/forts/fof/fof-forts.json",
-                "path": "assets/media/rooms/old/forts/fof",
-                "key": "fof-forts"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/rooms/old/forts/forts.json",
                 "path": "assets/media/rooms/old/forts",
                 "key": "forts"
@@ -19,32 +13,9 @@
                 "key": "forts-anims"
             },
             {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/forts/mj/forts-mj.json",
-                "path": "assets/media/rooms/old/forts/mj",
-                "key": "forts-mj"
-            },
-            {
                 "url": "assets/media/rooms/old/forts/forts-physics.json",
                 "type": "json",
                 "key": "forts-physics"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/forts/fortsuw.json",
-                "path": "assets/media/rooms/old/forts",
-                "key": "fortsuw"
-            },
-            {
-                "url": "assets/media/rooms/old/forts/fortsuw-anims.json",
-                "type": "animation",
-                "key": "fortsuw-anims"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/forts/mj_constuction/mjc-forts.json",
-                "path": "assets/media/rooms/old/forts/mj_constuction",
-                "key": "mjc-forts"
             }
         ]
     },

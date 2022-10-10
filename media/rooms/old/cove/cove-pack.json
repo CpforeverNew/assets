@@ -3,12 +3,6 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/old/cove/camp/camp-cove.json",
-                "path": "assets/media/rooms/old/cove/camp",
-                "key": "camp-cove"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/rooms/old/cove/cove.json",
                 "path": "assets/media/rooms/old/cove/",
                 "key": "cove"
@@ -24,33 +18,9 @@
                 "key": "cove-physics"
             },
             {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/cove/fof/fof-cove.json",
-                "path": "assets/media/rooms/old/cove/fof",
-                "key": "fof-cove"
-            },
-            {
                 "url": "assets/media/rooms/old/cove/maracas.png",
                 "type": "image",
                 "key": "maracas"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/cove/mj_constuction/mjc-cove.json",
-                "path": "assets/media/rooms/old/cove/mj_constuction",
-                "key": "mjc-cove"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/cove/pg/pg-cove.json",
-                "path": "assets/media/rooms/old/cove/pg",
-                "key": "pg-cove"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/cove/underwater/underwater_cove.json",
-                "path": "assets/media/rooms/old/cove/underwater",
-                "key": "underwater_cove"
             }
         ]
     },

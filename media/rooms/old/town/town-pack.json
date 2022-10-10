@@ -3,24 +3,6 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/old/town/camp/camp-town.json",
-                "path": "assets/media/rooms/old/town/camp",
-                "key": "camp-town"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/town/ffc/ffc-town.json",
-                "path": "assets/media/rooms/old/town/ffc",
-                "key": "ffc-town"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/town/fof/fof-town.json",
-                "path": "assets/media/rooms/old/town/fof",
-                "key": "fof-town"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/rooms/old/town/town.json",
                 "path": "assets/media/rooms/old/town/",
                 "key": "town"
@@ -34,12 +16,6 @@
                 "url": "assets/media/rooms/old/town/town-physics.json",
                 "type": "json",
                 "key": "town-physics"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/town/underwater/town-underwater.json",
-                "path": "assets/media/rooms/old/town/underwater",
-                "key": "town-underwater"
             }
         ]
     },

@@ -16,46 +16,6 @@
                 "url": "assets/media/rooms/old/beach/beach-physics.json",
                 "type": "json",
                 "key": "beach-physics"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/beach/mj/beachmj.json",
-                "path": "assets/media/rooms/old/beach/mj",
-                "key": "beachmj"
-            },
-            {
-                "url": "assets/media/rooms/old/beach/camp/bonfire.png",
-                "type": "image",
-                "key": "bonfire"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/beach/camp/camp-beach.json",
-                "path": "assets/media/rooms/old/beach/camp",
-                "key": "camp-beach"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/beach/ffc/ffc-beach.json",
-                "path": "assets/media/rooms/old/beach/ffc",
-                "key": "ffc-beach"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/beach/fof/fof-beach.json",
-                "path": "assets/media/rooms/old/beach/fof",
-                "key": "fof-beach"
-            },
-            {
-                "url": "assets/media/rooms/old/beach/mj/mjbeach-anims.json",
-                "type": "animation",
-                "key": "mjbeach-anims"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/beach/pg/pg-beach.json",
-                "path": "assets/media/rooms/old/beach/pg",
-                "key": "pg-beach"
             }
         ]
     },

@@ -3,12 +3,6 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/old/mtn/camp/camp-mtn.json",
-                "path": "assets/media/rooms/old/mtn/camp",
-                "key": "camp-mtn"
-            },
-            {
-                "type": "multiatlas",
                 "url": "assets/media/rooms/old/mtn/mtn.json",
                 "path": "assets/media/rooms/old/mtn/",
                 "key": "mtn"
@@ -19,21 +13,9 @@
                 "key": "mtn-anims"
             },
             {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/mtn/mj/mtn-mj.json",
-                "path": "assets/media/rooms/old/mtn/mj",
-                "key": "mtn-mj"
-            },
-            {
                 "url": "assets/media/rooms/old/mtn/mtn-physics.json",
                 "type": "json",
                 "key": "mtn-physics"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/rooms/old/mtn/pg/pg-mtn.json",
-                "path": "assets/media/rooms/old/mtn/pg",
-                "key": "pg-mtn"
             }
         ]
     },

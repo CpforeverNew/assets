@@ -1,0 +1,477 @@
+{
+    "anims": [
+        {
+            "key": "snow_man",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "snow_man0034",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "maze_map_box_hover",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0029",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "maze_map_box_unhover",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village-winter",
+                    "frame": "maze_map_box0040",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

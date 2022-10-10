@@ -80,6 +80,11 @@
                 "url": "assets/media/rooms/old/coffee/shamrock.png",
                 "type": "image",
                 "key": "shamrock"
+            },
+            {
+                "url": "assets/media/rooms/old/coffee/spice.png",
+                "type": "image",
+                "key": "spice"
             }
         ]
     },

@@ -2,11 +2,6 @@
     "section1": {
         "files": [
             {
-                "url": "assets/media/interface/menus/start/Camp_Penguin_login.png",
-                "type": "image",
-                "key": "Camp_Penguin_login"
-            },
-            {
                 "type": "multiatlas",
                 "url": "assets/media/interface/game/main/chatbar.json",
                 "path": "assets/media/interface/game/main",
@@ -37,12 +32,6 @@
                 "url": "assets/media/interface/game/main/downarrow.png",
                 "type": "image",
                 "key": "downarrow"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/interface/game/elevator/elevator.json",
-                "path": "assets/media/interface/game/elevator",
-                "key": "elevator"
             },
             {
                 "type": "multiatlas",
@@ -80,11 +69,6 @@
                 "key": "login"
             },
             {
-                "url": "assets/media/interface/menus/start/logosplash.png",
-                "type": "image",
-                "key": "logosplash"
-            },
-            {
                 "type": "multiatlas",
                 "url": "assets/media/interface/game/main/main.json",
                 "path": "assets/media/interface/game/main/",
@@ -106,18 +90,6 @@
                 "url": "assets/media/interface/game/map/map-for-igloo.json",
                 "path": "assets/media/interface/game/map",
                 "key": "map-for-igloo"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/interface/game/map/map-new.json",
-                "path": "assets/media/interface/game/map",
-                "key": "map-new"
-            },
-            {
-                "type": "multiatlas",
-                "url": "assets/media/interface/game/mj/mj-ui.json",
-                "path": "assets/media/interface/game/mj",
-                "key": "mj-ui"
             },
             {
                 "type": "multiatlas",
@@ -200,11 +172,6 @@
                 "url": "assets/media/interface/game/fair/tickets.json",
                 "path": "assets/media/interface/game/fair",
                 "key": "tickets"
-            },
-            {
-                "url": "assets/media/interface/game/mj/uimusicjam.png",
-                "type": "image",
-                "key": "uimusicjam"
             }
         ]
     },

@@ -121,6 +121,18 @@
             },
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/newspaper.json",
+                "path": "assets/media/interface/game/newspaper",
+                "key": "newspaper"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/newspaper/newspaper-btns.json",
+                "path": "assets/media/interface/game/newspaper",
+                "key": "newspaper-btns"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/interface/game/prompt/prompt.json",
                 "path": "assets/media/interface/game/prompt",
                 "key": "party-prompt"

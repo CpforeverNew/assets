@@ -13,7 +13,7 @@
                 "key": "dock-anims"
             },
             {
-                "url": "assets/media/rooms/old/dock/fof/dock-physics.json",
+                "url": "assets/media/rooms/old/dock/dock-physics.json",
                 "type": "json",
                 "key": "dock-physics"
             }

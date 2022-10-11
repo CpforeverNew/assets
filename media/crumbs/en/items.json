@@ -32357,6 +32357,36 @@
     "cost":0,
     "member":1
   },
+  "37382":{
+    "name":"Discord Booster Pin",
+    "type":8,
+    "cost":0,
+    "member":1
+  },
+  "37383":{
+    "name":"Spooky Puffle Pin",
+    "type":8,
+    "cost":0,
+    "member":1
+  },
+  "37384":{
+    "name":"Food of Champions Pin",
+    "type":8,
+    "cost":0,
+    "member":1
+  },
+  "37385":{
+    "name":"Modern Pumpkin Pin",
+    "type":8,
+    "cost":0,
+    "member":1
+  },
+  "37386":{
+    "name":"Zero Pin",
+    "type":8,
+    "cost":0,
+    "member":1
+  },
   "90000":{
     "name":"Elsa's Braid",
     "type":2,

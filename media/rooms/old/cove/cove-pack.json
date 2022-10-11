@@ -13,7 +13,7 @@
                 "key": "cove-anims"
             },
             {
-                "url": "assets/media/rooms/old/cove/fof/cove-physics.json",
+                "url": "assets/media/rooms/old/cove/cove-physics.json",
                 "type": "json",
                 "key": "cove-physics"
             },

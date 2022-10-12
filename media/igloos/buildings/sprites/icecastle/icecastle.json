@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "icecastle.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1457,
+				"h": 916
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1278,
+						"h": 914
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1278,
+						"h": 914
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1278,
+						"h": 914
+					}
+				},
+				{
+					"filename": "door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 195
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 8,
+						"w": 175,
+						"h": 187
+					},
+					"frame": {
+						"x": 1281,
+						"y": 1,
+						"w": 175,
+						"h": 187
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:26d38f9578427635e4b803312479895b:87bccbea560f6c3076bd4aaa258d007f:4ed6184f8de222a5cb59b85a4a46f259$"
+	}
+}

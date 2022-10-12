@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "jackolantern.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1402,
+				"h": 1048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pumkin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1400,
+						"h": 1046
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1400,
+						"h": 1046
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1400,
+						"h": 1046
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:22cccdbf1cadff95650395bdb09b39ef:68e1f6319d35eb90beb488c117cdef03:8276c667920731dba71286af36ded936$"
+	}
+}

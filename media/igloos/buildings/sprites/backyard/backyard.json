@@ -115,6 +115,27 @@
 					}
 				},
 				{
+					"filename": "stairs_top",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 236,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 236,
+						"h": 139
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1,
+						"w": 236,
+						"h": 139
+					}
+				},
+				{
 					"filename": "door-active",
 					"rotated": false,
 					"trimmed": false,
@@ -129,8 +150,8 @@
 						"h": 208
 					},
 					"frame": {
-						"x": 1532,
-						"y": 1,
+						"x": 1444,
+						"y": 556,
 						"w": 147,
 						"h": 208
 					}
@@ -150,8 +171,8 @@
 						"h": 208
 					},
 					"frame": {
-						"x": 1532,
-						"y": 1,
+						"x": 1444,
+						"y": 556,
 						"w": 147,
 						"h": 208
 					}
@@ -171,8 +192,8 @@
 						"h": 208
 					},
 					"frame": {
-						"x": 1681,
-						"y": 1,
+						"x": 1593,
+						"y": 556,
 						"w": 147,
 						"h": 208
 					}
@@ -183,6 +204,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:d407f50559c5f1f47138bb1c74ad3f9e:8da12221695f21bdde8e0b6d67ef4f09:f53f8d446b57d869996f47174d920a9d$"
+		"smartupdate": "$TexturePacker:SmartUpdate:9ee76b3b384db764a93b18a91f7d4580:40b60bc2be5707cace8bdd1ba05a0fb5:f53f8d446b57d869996f47174d920a9d$"
 	}
 }

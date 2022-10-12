@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/igloos/buildings/sprites/theatre/theatre_iggy.json",
+                "path": "assets/media/igloos/buildings/sprites/theatre",
+                "key": "theatre_iggy"
+            },
+            {
+                "url": "assets/media/igloos/buildings/sprites/theatre/theatreigloo-physics.json",
+                "type": "json",
+                "key": "theatreigloo-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

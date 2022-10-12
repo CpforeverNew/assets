@@ -1,0 +1,146 @@
+{
+	"textures": [
+		{
+			"image": "theatre_iggy.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1688,
+				"h": 1471
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "walls",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1366,
+						"h": 830
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1366,
+						"h": 830
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1366,
+						"h": 830
+					}
+				},
+				{
+					"filename": "door",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 241
+					},
+					"frame": {
+						"x": 1369,
+						"y": 1,
+						"w": 119,
+						"h": 241
+					}
+				},
+				{
+					"filename": "floor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1332,
+						"h": 386
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1332,
+						"h": 386
+					},
+					"frame": {
+						"x": 1,
+						"y": 833,
+						"w": 1332,
+						"h": 386
+					}
+				},
+				{
+					"filename": "stage",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 791,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 791,
+						"h": 249
+					},
+					"frame": {
+						"x": 1,
+						"y": 1221,
+						"w": 791,
+						"h": 249
+					}
+				},
+				{
+					"filename": "puffles",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 352,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 352,
+						"h": 348
+					},
+					"frame": {
+						"x": 1335,
+						"y": 833,
+						"w": 352,
+						"h": 348
+					}
+				},
+				{
+					"filename": "curtan",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 508,
+						"h": 227
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 508,
+						"h": 227
+					},
+					"frame": {
+						"x": 794,
+						"y": 1221,
+						"w": 508,
+						"h": 227
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b57c4c199a102cc504cc081b9611b1f1:8282801e6f8287f3043872bc0dd4c77f:7eead0b7e233bbe3b1d18729931cf197$"
+	}
+}

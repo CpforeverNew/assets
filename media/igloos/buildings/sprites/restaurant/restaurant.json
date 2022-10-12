@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "restaurant.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1715,
+				"h": 1200
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "walls",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1510,
+						"h": 891
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1510,
+						"h": 891
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1510,
+						"h": 891
+					}
+				},
+				{
+					"filename": "door0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 201,
+						"h": 381
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 201,
+						"h": 381
+					},
+					"frame": {
+						"x": 1513,
+						"y": 1,
+						"w": 201,
+						"h": 381
+					}
+				},
+				{
+					"filename": "floor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1414,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1414,
+						"h": 305
+					},
+					"frame": {
+						"x": 1,
+						"y": 894,
+						"w": 1414,
+						"h": 305
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:50ef26afed7f28bcb68d1d8e00a115a1:8cf750385d7766d0b821c05ab849e413:e87684321ff1a4316527ea9eb1de47b0$"
+	}
+}

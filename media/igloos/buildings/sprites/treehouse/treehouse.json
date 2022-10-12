@@ -1,0 +1,136 @@
+{
+	"textures": [
+		{
+			"image": "treehouse-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1562,
+				"h": 2026
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "outline",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1560,
+						"h": 704
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1560,
+						"h": 704
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1560,
+						"h": 704
+					}
+				},
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1509,
+						"h": 974
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1509,
+						"h": 974
+					},
+					"frame": {
+						"x": 1,
+						"y": 707,
+						"w": 1509,
+						"h": 974
+					}
+				},
+				{
+					"filename": "shadow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1440,
+						"h": 342
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1440,
+						"h": 342
+					},
+					"frame": {
+						"x": 1,
+						"y": 1683,
+						"w": 1440,
+						"h": 342
+					}
+				}
+			]
+		},
+		{
+			"image": "treehouse-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1406,
+				"h": 800
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "walls",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1344,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1344,
+						"h": 482
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1344,
+						"h": 482
+					}
+				},
+				{
+					"filename": "floor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1404,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1404,
+						"h": 314
+					},
+					"frame": {
+						"x": 1,
+						"y": 485,
+						"w": 1404,
+						"h": 314
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:96feba5938e18869909196447089cebb:c8504d842408bf30abba21fdc29495b1:28195678372cfd9c49713f0072f2e4b0$"
+	}
+}

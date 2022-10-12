@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "backyard.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1906,
+				"h": 1603
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "walls",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1441,
+						"h": 947
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1441,
+						"h": 947
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1441,
+						"h": 947
+					}
+				},
+				{
+					"filename": "main_floor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1006,
+						"h": 652
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1006,
+						"h": 652
+					},
+					"frame": {
+						"x": 1,
+						"y": 950,
+						"w": 1006,
+						"h": 652
+					}
+				},
+				{
+					"filename": "grass_floor",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 896,
+						"h": 606
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 896,
+						"h": 606
+					},
+					"frame": {
+						"x": 1009,
+						"y": 950,
+						"w": 896,
+						"h": 606
+					}
+				},
+				{
+					"filename": "bottomwall",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 86,
+						"h": 329
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 86,
+						"h": 329
+					},
+					"frame": {
+						"x": 1444,
+						"y": 1,
+						"w": 86,
+						"h": 329
+					}
+				},
+				{
+					"filename": "stairs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 284,
+						"h": 222
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 284,
+						"h": 222
+					},
+					"frame": {
+						"x": 1444,
+						"y": 332,
+						"w": 284,
+						"h": 222
+					}
+				},
+				{
+					"filename": "door-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 208
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 208
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1,
+						"w": 147,
+						"h": 208
+					}
+				},
+				{
+					"filename": "door-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 208
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 208
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1,
+						"w": 147,
+						"h": 208
+					}
+				},
+				{
+					"filename": "door",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 208
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 208
+					},
+					"frame": {
+						"x": 1681,
+						"y": 1,
+						"w": 147,
+						"h": 208
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d407f50559c5f1f47138bb1c74ad3f9e:8da12221695f21bdde8e0b6d67ef4f09:f53f8d446b57d869996f47174d920a9d$"
+	}
+}

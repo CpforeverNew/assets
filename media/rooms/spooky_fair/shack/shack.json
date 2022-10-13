@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "shack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1991,
+				"h": 1556
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1563,
+						"h": 952
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1563,
+						"h": 952
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1563,
+						"h": 952
+					}
+				},
+				{
+					"filename": "bottom left tree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 424,
+						"h": 679
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 424,
+						"h": 679
+					},
+					"frame": {
+						"x": 1566,
+						"y": 1,
+						"w": 424,
+						"h": 679
+					}
+				},
+				{
+					"filename": "right tree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 361,
+						"h": 625
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 361,
+						"h": 625
+					},
+					"frame": {
+						"x": 1566,
+						"y": 682,
+						"w": 361,
+						"h": 625
+					}
+				},
+				{
+					"filename": "shack",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 590,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 590,
+						"h": 600
+					},
+					"frame": {
+						"x": 1,
+						"y": 955,
+						"w": 590,
+						"h": 600
+					}
+				},
+				{
+					"filename": "download (4)",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 689
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 119,
+						"w": 394,
+						"h": 451
+					},
+					"frame": {
+						"x": 593,
+						"y": 955,
+						"w": 394,
+						"h": 451
+					}
+				},
+				{
+					"filename": "topleft tree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 308,
+						"h": 381
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 308,
+						"h": 381
+					},
+					"frame": {
+						"x": 989,
+						"y": 955,
+						"w": 308,
+						"h": 381
+					}
+				},
+				{
+					"filename": "track",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 377,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 377,
+						"h": 172
+					},
+					"frame": {
+						"x": 1299,
+						"y": 1309,
+						"w": 377,
+						"h": 172
+					}
+				},
+				{
+					"filename": "carts",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 152
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 152
+					},
+					"frame": {
+						"x": 989,
+						"y": 1338,
+						"w": 231,
+						"h": 152
+					}
+				},
+				{
+					"filename": "barrel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 85
+					},
+					"frame": {
+						"x": 1222,
+						"y": 1338,
+						"w": 62,
+						"h": 85
+					}
+				},
+				{
+					"filename": "pumpkin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 75,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 75
+					},
+					"frame": {
+						"x": 1222,
+						"y": 1425,
+						"w": 75,
+						"h": 75
+					}
+				},
+				{
+					"filename": "left ash",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 172,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 172,
+						"h": 85
+					},
+					"frame": {
+						"x": 1678,
+						"y": 1309,
+						"w": 172,
+						"h": 85
+					}
+				},
+				{
+					"filename": "right ash",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 69
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 69
+					},
+					"frame": {
+						"x": 1678,
+						"y": 1396,
+						"w": 157,
+						"h": 69
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8bb5dad3c6b53daac4590b2ce5b89cbd:72a5ace4b60670ed4a249bcc7e5f43cd:f3fea6f0996b1ca02b352c07f7020249$"
+	}
+}

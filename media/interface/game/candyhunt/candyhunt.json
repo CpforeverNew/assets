@@ -1,0 +1,671 @@
+{
+	"textures": [
+		{
+			"image": "candyhunt.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 979,
+				"h": 953
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 864,
+						"h": 540
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 864,
+						"h": 540
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 864,
+						"h": 540
+					}
+				},
+				{
+					"filename": "logo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 939,
+						"h": 287
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 561,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 543,
+						"w": 561,
+						"h": 31
+					}
+				},
+				{
+					"filename": "huntbtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 170
+					},
+					"frame": {
+						"x": 564,
+						"y": 543,
+						"w": 160,
+						"h": 170
+					}
+				},
+				{
+					"filename": "huntbtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 170
+					},
+					"frame": {
+						"x": 726,
+						"y": 543,
+						"w": 160,
+						"h": 170
+					}
+				},
+				{
+					"filename": "clmbtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 558,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 558,
+						"h": 81
+					},
+					"frame": {
+						"x": 1,
+						"y": 576,
+						"w": 558,
+						"h": 81
+					}
+				},
+				{
+					"filename": "clmbtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 558,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 558,
+						"h": 81
+					},
+					"frame": {
+						"x": 1,
+						"y": 576,
+						"w": 558,
+						"h": 81
+					}
+				},
+				{
+					"filename": "clmbtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 558,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 558,
+						"h": 81
+					},
+					"frame": {
+						"x": 1,
+						"y": 659,
+						"w": 558,
+						"h": 81
+					}
+				},
+				{
+					"filename": "huntbtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 170
+					},
+					"frame": {
+						"x": 561,
+						"y": 715,
+						"w": 160,
+						"h": 170
+					}
+				},
+				{
+					"filename": "ctnbtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 558,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 558,
+						"h": 81
+					},
+					"frame": {
+						"x": 1,
+						"y": 742,
+						"w": 558,
+						"h": 81
+					}
+				},
+				{
+					"filename": "ctnbtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 558,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 558,
+						"h": 81
+					},
+					"frame": {
+						"x": 1,
+						"y": 742,
+						"w": 558,
+						"h": 81
+					}
+				},
+				{
+					"filename": "ctnbtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 558,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 558,
+						"h": 81
+					},
+					"frame": {
+						"x": 1,
+						"y": 825,
+						"w": 558,
+						"h": 81
+					}
+				},
+				{
+					"filename": "candy/7-got",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 101
+					},
+					"frame": {
+						"x": 723,
+						"y": 715,
+						"w": 94,
+						"h": 101
+					}
+				},
+				{
+					"filename": "candy/8-got",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 102
+					},
+					"frame": {
+						"x": 819,
+						"y": 715,
+						"w": 47,
+						"h": 102
+					}
+				},
+				{
+					"filename": "candy/7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 101
+					},
+					"frame": {
+						"x": 723,
+						"y": 818,
+						"w": 94,
+						"h": 101
+					}
+				},
+				{
+					"filename": "candy/4-got",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 101,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 101,
+						"h": 48
+					},
+					"frame": {
+						"x": 561,
+						"y": 887,
+						"w": 101,
+						"h": 48
+					}
+				},
+				{
+					"filename": "closebtn-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 664,
+						"y": 887,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "candy/2-got",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 74
+					},
+					"frame": {
+						"x": 819,
+						"y": 819,
+						"w": 82,
+						"h": 74
+					}
+				},
+				{
+					"filename": "candy/2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 82,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 82,
+						"h": 74
+					},
+					"frame": {
+						"x": 868,
+						"y": 715,
+						"w": 82,
+						"h": 74
+					}
+				},
+				{
+					"filename": "candy/4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 101,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 101,
+						"h": 48
+					},
+					"frame": {
+						"x": 819,
+						"y": 895,
+						"w": 101,
+						"h": 48
+					}
+				},
+				{
+					"filename": "candy/1-got",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 71,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 88
+					},
+					"frame": {
+						"x": 903,
+						"y": 791,
+						"w": 70,
+						"h": 88
+					}
+				},
+				{
+					"filename": "closebtn-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 922,
+						"y": 881,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "logo2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 476,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 467,
+						"h": 44
+					},
+					"frame": {
+						"x": 1,
+						"y": 908,
+						"w": 467,
+						"h": 44
+					}
+				},
+				{
+					"filename": "candy/8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 102
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 102
+					},
+					"frame": {
+						"x": 867,
+						"y": 1,
+						"w": 47,
+						"h": 102
+					}
+				},
+				{
+					"filename": "candy/6-got",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 61,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 97
+					},
+					"frame": {
+						"x": 867,
+						"y": 105,
+						"w": 61,
+						"h": 97
+					}
+				},
+				{
+					"filename": "candy/6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 61,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 97
+					},
+					"frame": {
+						"x": 916,
+						"y": 1,
+						"w": 61,
+						"h": 97
+					}
+				},
+				{
+					"filename": "candy/3-got",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 89
+					},
+					"frame": {
+						"x": 867,
+						"y": 204,
+						"w": 66,
+						"h": 89
+					}
+				},
+				{
+					"filename": "candy/3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 89
+					},
+					"frame": {
+						"x": 867,
+						"y": 295,
+						"w": 66,
+						"h": 89
+					}
+				},
+				{
+					"filename": "candy/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 71,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 88
+					},
+					"frame": {
+						"x": 867,
+						"y": 386,
+						"w": 70,
+						"h": 88
+					}
+				},
+				{
+					"filename": "closebtn",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 56
+					},
+					"frame": {
+						"x": 867,
+						"y": 476,
+						"w": 56,
+						"h": 56
+					}
+				},
+				{
+					"filename": "candy/5-got",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 81
+					},
+					"frame": {
+						"x": 888,
+						"y": 534,
+						"w": 81,
+						"h": 81
+					}
+				},
+				{
+					"filename": "candy/5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 81
+					},
+					"frame": {
+						"x": 888,
+						"y": 617,
+						"w": 81,
+						"h": 81
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:60e3a4c444eed472f752a8ba1b5186b8:32860a586cfdf743c5e0b39a11c67bad:eb4dc0f77d6f94c12bd5298d10afdede$"
+	}
+}

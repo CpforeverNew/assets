@@ -3,6 +3,12 @@
         "files": [
             {
                 "type": "multiatlas",
+                "url": "assets/media/interface/game/candyhunt/candyhunt.json",
+                "path": "assets/media/interface/game/candyhunt",
+                "key": "candyhunt"
+            },
+            {
+                "type": "multiatlas",
                 "url": "assets/media/interface/game/main/chatbar.json",
                 "path": "assets/media/interface/game/main",
                 "key": "chatbar"

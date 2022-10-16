@@ -1,0 +1,283 @@
+{
+	"textures": [
+		{
+			"image": "beacon_halloween-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1973,
+				"h": 2045
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "ocean",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1920,
+						"h": 798
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1920,
+						"h": 798
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1920,
+						"h": 798
+					}
+				},
+				{
+					"filename": "bottom",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1364,
+						"h": 493
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1364,
+						"h": 492
+					},
+					"frame": {
+						"x": 1,
+						"y": 801,
+						"w": 1364,
+						"h": 492
+					}
+				},
+				{
+					"filename": "topbarrier",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1210,
+						"h": 450
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1210,
+						"h": 450
+					},
+					"frame": {
+						"x": 1,
+						"y": 1295,
+						"w": 1210,
+						"h": 450
+					}
+				},
+				{
+					"filename": "jetpack",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 466
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 0,
+						"w": 374,
+						"h": 466
+					},
+					"frame": {
+						"x": 1367,
+						"y": 801,
+						"w": 374,
+						"h": 466
+					}
+				},
+				{
+					"filename": "pumpkin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 759,
+						"h": 749
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 759,
+						"h": 749
+					},
+					"frame": {
+						"x": 1213,
+						"y": 1295,
+						"w": 759,
+						"h": 749
+					}
+				},
+				{
+					"filename": "landing-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 205
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 205
+					},
+					"frame": {
+						"x": 1,
+						"y": 1747,
+						"w": 300,
+						"h": 205
+					}
+				},
+				{
+					"filename": "landing-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 300,
+						"h": 205
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 205
+					},
+					"frame": {
+						"x": 1,
+						"y": 1747,
+						"w": 300,
+						"h": 205
+					}
+				},
+				{
+					"filename": "landing",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 205
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 34,
+						"w": 300,
+						"h": 171
+					},
+					"frame": {
+						"x": 303,
+						"y": 1747,
+						"w": 300,
+						"h": 171
+					}
+				},
+				{
+					"filename": "stairtop",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 219
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 219
+					},
+					"frame": {
+						"x": 1743,
+						"y": 801,
+						"w": 157,
+						"h": 219
+					}
+				},
+				{
+					"filename": "telescope",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 189
+					},
+					"frame": {
+						"x": 1743,
+						"y": 1022,
+						"w": 174,
+						"h": 189
+					}
+				},
+				{
+					"filename": "box",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 94
+					},
+					"frame": {
+						"x": 605,
+						"y": 1747,
+						"w": 142,
+						"h": 94
+					}
+				}
+			]
+		},
+		{
+			"image": "beacon_halloween-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1356,
+				"h": 735
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1354,
+						"h": 733
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1354,
+						"h": 733
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1354,
+						"h": 733
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e5420af1308d7ded9f560320af9dae31:b4f1246cff62107a75476c6d6d0ee808:91263fa90812d19c458fd2fa1f4ac05c$"
+	}
+}

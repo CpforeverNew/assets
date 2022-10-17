@@ -1,0 +1,381 @@
+{
+    "anims": [
+        {
+            "key": "book",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "book0016",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cashregover",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0022",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cashregout",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "pizza_halloween",
+                    "frame": "register0042",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

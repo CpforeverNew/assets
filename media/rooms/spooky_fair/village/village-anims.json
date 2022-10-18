@@ -1,0 +1,1338 @@
+{
+    "anims": [
+        {
+            "key": "eyes",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0121",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0122",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0123",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0124",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0125",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0126",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "eyes0127",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "showOnStart": true
+        },
+        {
+            "key": "ghost",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "ghost0060",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "fredbob",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "village_halloween",
+                    "frame": "fredbob0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

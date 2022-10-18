@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "dojoext.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1719,
+				"h": 1419
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dojo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1577,
+						"h": 980
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 1576,
+						"h": 980
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1576,
+						"h": 980
+					}
+				},
+				{
+					"filename": "front",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1540,
+						"h": 435
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1540,
+						"h": 435
+					},
+					"frame": {
+						"x": 1,
+						"y": 983,
+						"w": 1540,
+						"h": 435
+					}
+				},
+				{
+					"filename": "woodblock",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 175,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 175,
+						"h": 24
+					},
+					"frame": {
+						"x": 1543,
+						"y": 983,
+						"w": 175,
+						"h": 24
+					}
+				},
+				{
+					"filename": "door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 7,
+						"w": 167,
+						"h": 161
+					},
+					"frame": {
+						"x": 1543,
+						"y": 1009,
+						"w": 167,
+						"h": 161
+					}
+				},
+				{
+					"filename": "door-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 23,
+						"w": 167,
+						"h": 145
+					},
+					"frame": {
+						"x": 1543,
+						"y": 1172,
+						"w": 167,
+						"h": 145
+					}
+				},
+				{
+					"filename": "door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 23,
+						"w": 167,
+						"h": 145
+					},
+					"frame": {
+						"x": 1543,
+						"y": 1172,
+						"w": 167,
+						"h": 145
+					}
+				},
+				{
+					"filename": "pumpkin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 107,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 107,
+						"h": 119
+					},
+					"frame": {
+						"x": 1579,
+						"y": 1,
+						"w": 107,
+						"h": 119
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7818213348d94ce6299bb0951d9dc467:7d1c08e7e29e7bbe6a8df09a8dd642af:7342357fc8b534c4b32fba1d1e809dfa$"
+	}
+}

@@ -1,0 +1,5964 @@
+{
+	"textures": [
+		{
+			"image": "sky-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2425,
+				"h": 3838
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sky0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2423,
+						"h": 951
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 2423,
+						"h": 951
+					}
+				},
+				{
+					"filename": "sky0053",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2423,
+						"h": 951
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 2423,
+						"h": 951
+					}
+				},
+				{
+					"filename": "sky0109",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2423,
+						"h": 951
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 2423,
+						"h": 951
+					}
+				},
+				{
+					"filename": "sky0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2423,
+						"h": 951
+					},
+					"frame": {
+						"x": 1,
+						"y": 954,
+						"w": 2423,
+						"h": 951
+					}
+				},
+				{
+					"filename": "sky0054",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2423,
+						"h": 951
+					},
+					"frame": {
+						"x": 1,
+						"y": 954,
+						"w": 2423,
+						"h": 951
+					}
+				},
+				{
+					"filename": "sky0110",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2423,
+						"h": 951
+					},
+					"frame": {
+						"x": 1,
+						"y": 954,
+						"w": 2423,
+						"h": 951
+					}
+				},
+				{
+					"filename": "sky0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0111",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0112",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0113",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0114",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0115",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0116",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0117",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0118",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0119",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0120",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0121",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0122",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0123",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0124",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0125",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0126",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0127",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0128",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0129",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0130",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0131",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0132",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0133",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0134",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0135",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0136",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0137",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0138",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0139",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0140",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0141",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0142",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0143",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0144",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0145",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0146",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0147",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0148",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0149",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0150",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0151",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0152",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0153",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0154",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0155",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0156",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0157",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0158",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0159",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0160",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0161",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0162",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0163",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0164",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0165",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0166",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0167",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0168",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0169",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0170",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0171",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0172",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0173",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0174",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0175",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0176",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0177",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0178",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0179",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0180",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0181",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0182",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0183",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0184",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0185",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0186",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0187",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0188",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0189",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0190",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0191",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0192",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0193",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0194",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0195",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0196",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0197",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0198",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0199",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0200",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0201",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0202",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0203",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0204",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0205",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0206",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0207",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0208",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0209",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0210",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0211",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0212",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0213",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0214",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0215",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0216",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0217",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0218",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0219",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0220",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0221",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0222",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0223",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0224",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0225",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0226",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0227",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0228",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0229",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0230",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0231",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0232",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0233",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0234",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0235",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0236",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0237",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0238",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0239",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0240",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0241",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0242",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0243",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0244",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0245",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0246",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0247",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0248",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0249",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0250",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0251",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0252",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0253",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0254",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0255",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0256",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0257",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0258",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0259",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0260",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0261",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0262",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0263",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0264",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0265",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0266",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0267",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0268",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0269",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0270",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0271",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0272",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0273",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0274",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0275",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0276",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0277",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0278",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0279",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0280",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0281",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0282",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1907,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 2551,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 3195,
+						"w": 2423,
+						"h": 642
+					}
+				}
+			]
+		},
+		{
+			"image": "sky-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2425,
+				"h": 3864
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sky0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 645,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1289,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1933,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 2577,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 3221,
+						"w": 2423,
+						"h": 642
+					}
+				}
+			]
+		},
+		{
+			"image": "sky-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2425,
+				"h": 2576
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sky0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 645,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1289,
+						"w": 2423,
+						"h": 642
+					}
+				},
+				{
+					"filename": "sky0108",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 2423,
+						"h": 951
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 266,
+						"w": 2423,
+						"h": 642
+					},
+					"frame": {
+						"x": 1,
+						"y": 1933,
+						"w": 2423,
+						"h": 642
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8e10e1dfd6647f55980ed2396c2400f7:af497a1ec7eb207c2fe11975941fe05a:6741162cb4e77f182cfb7330fec140cb$"
+	}
+}

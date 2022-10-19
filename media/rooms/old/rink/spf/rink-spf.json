@@ -1,0 +1,650 @@
+{
+	"textures": [
+		{
+			"image": "rink-spf.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1981,
+				"h": 2024
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1652,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1652,
+						"h": 512
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1652,
+						"h": 512
+					}
+				},
+				{
+					"filename": "stand_middle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 316,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 316,
+						"h": 134
+					},
+					"frame": {
+						"x": 1655,
+						"y": 1,
+						"w": 316,
+						"h": 134
+					}
+				},
+				{
+					"filename": "left_bleachers",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 243,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 243,
+						"h": 369
+					},
+					"frame": {
+						"x": 1655,
+						"y": 137,
+						"w": 243,
+						"h": 369
+					}
+				},
+				{
+					"filename": "sports_door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 80,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 67
+					},
+					"frame": {
+						"x": 1900,
+						"y": 137,
+						"w": 72,
+						"h": 67
+					}
+				},
+				{
+					"filename": "goal_back",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 176
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 176
+					},
+					"frame": {
+						"x": 1900,
+						"y": 206,
+						"w": 71,
+						"h": 176
+					}
+				},
+				{
+					"filename": "goal_back_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 176
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 176
+					},
+					"frame": {
+						"x": 1900,
+						"y": 384,
+						"w": 71,
+						"h": 176
+					}
+				},
+				{
+					"filename": "right_bleachers",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 243,
+						"h": 369
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 243,
+						"h": 369
+					},
+					"frame": {
+						"x": 1655,
+						"y": 508,
+						"w": 243,
+						"h": 369
+					}
+				},
+				{
+					"filename": "goal_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 70,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 70,
+						"h": 124
+					},
+					"frame": {
+						"x": 1900,
+						"y": 562,
+						"w": 70,
+						"h": 124
+					}
+				},
+				{
+					"filename": "sports_door-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 65,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 65,
+						"h": 71
+					},
+					"frame": {
+						"x": 1900,
+						"y": 688,
+						"w": 65,
+						"h": 71
+					}
+				},
+				{
+					"filename": "sports_door-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 65,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 65,
+						"h": 71
+					},
+					"frame": {
+						"x": 1900,
+						"y": 688,
+						"w": 65,
+						"h": 71
+					}
+				},
+				{
+					"filename": "rink_border",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1625,
+						"h": 504
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1625,
+						"h": 504
+					},
+					"frame": {
+						"x": 1,
+						"y": 515,
+						"w": 1625,
+						"h": 504
+					}
+				},
+				{
+					"filename": "drink",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 24,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 24,
+						"h": 49
+					},
+					"frame": {
+						"x": 1628,
+						"y": 515,
+						"w": 24,
+						"h": 49
+					}
+				},
+				{
+					"filename": "snacks_door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 44,
+						"h": 138
+					},
+					"frame": {
+						"x": 1900,
+						"y": 761,
+						"w": 44,
+						"h": 138
+					}
+				},
+				{
+					"filename": "trash",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 34,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 34,
+						"h": 56
+					},
+					"frame": {
+						"x": 1946,
+						"y": 761,
+						"w": 34,
+						"h": 56
+					}
+				},
+				{
+					"filename": "bleachers_rail",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 242,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 242,
+						"h": 221
+					},
+					"frame": {
+						"x": 1628,
+						"y": 879,
+						"w": 242,
+						"h": 221
+					}
+				},
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1571,
+						"h": 744
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1571,
+						"h": 744
+					},
+					"frame": {
+						"x": 1,
+						"y": 1021,
+						"w": 1571,
+						"h": 744
+					}
+				},
+				{
+					"filename": "snacks",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 412,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 406,
+						"h": 302
+					},
+					"frame": {
+						"x": 1574,
+						"y": 1102,
+						"w": 406,
+						"h": 302
+					}
+				},
+				{
+					"filename": "stand_base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 505,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 505,
+						"h": 256
+					},
+					"frame": {
+						"x": 1,
+						"y": 1767,
+						"w": 505,
+						"h": 256
+					}
+				},
+				{
+					"filename": "goal",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 140,
+						"h": 247
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 140,
+						"h": 247
+					},
+					"frame": {
+						"x": 508,
+						"y": 1767,
+						"w": 140,
+						"h": 247
+					}
+				},
+				{
+					"filename": "bleachers_rail_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 242,
+						"h": 221
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 242,
+						"h": 221
+					},
+					"frame": {
+						"x": 650,
+						"y": 1767,
+						"w": 242,
+						"h": 221
+					}
+				},
+				{
+					"filename": "snacks_door-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 43,
+						"h": 110
+					},
+					"frame": {
+						"x": 1872,
+						"y": 901,
+						"w": 43,
+						"h": 110
+					}
+				},
+				{
+					"filename": "snacks_door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 47,
+						"h": 142
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 43,
+						"h": 110
+					},
+					"frame": {
+						"x": 1872,
+						"y": 901,
+						"w": 43,
+						"h": 110
+					}
+				},
+				{
+					"filename": "fish_dogs",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 184
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 184
+					},
+					"frame": {
+						"x": 894,
+						"y": 1767,
+						"w": 134,
+						"h": 184
+					}
+				},
+				{
+					"filename": "catalog0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 115
+					},
+					"frame": {
+						"x": 1030,
+						"y": 1767,
+						"w": 153,
+						"h": 115
+					}
+				},
+				{
+					"filename": "catalog0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 115
+					},
+					"frame": {
+						"x": 1030,
+						"y": 1767,
+						"w": 153,
+						"h": 115
+					}
+				},
+				{
+					"filename": "catalog0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 115
+					},
+					"frame": {
+						"x": 1030,
+						"y": 1767,
+						"w": 153,
+						"h": 115
+					}
+				},
+				{
+					"filename": "catalog0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 115
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 0,
+						"w": 113,
+						"h": 113
+					},
+					"frame": {
+						"x": 1030,
+						"y": 1884,
+						"w": 113,
+						"h": 113
+					}
+				},
+				{
+					"filename": "light",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 168,
+						"h": 117
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 159,
+						"h": 112
+					},
+					"frame": {
+						"x": 1145,
+						"y": 1884,
+						"w": 159,
+						"h": 112
+					}
+				},
+				{
+					"filename": "stand_top",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 83
+					},
+					"frame": {
+						"x": 1185,
+						"y": 1767,
+						"w": 425,
+						"h": 83
+					}
+				},
+				{
+					"filename": "sports",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 236,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 236,
+						"h": 267
+					},
+					"frame": {
+						"x": 1574,
+						"y": 1406,
+						"w": 236,
+						"h": 267
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:985cd98d0aca9c7966abf44246525c7b:b11174718a70a898e0e8cbbae10d385f:c6dfa6f90b8a57b348161eff13d0b326$"
+	}
+}

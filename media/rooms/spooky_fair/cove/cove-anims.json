@@ -1,0 +1,42 @@
+{
+    "anims": [
+        {
+            "key": "antennae",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cove-spooky",
+                    "frame": "cageantennae0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "cageantennae0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "cageantennae0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "cageantennae0004.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

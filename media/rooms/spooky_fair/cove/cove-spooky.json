@@ -1,0 +1,797 @@
+{
+	"textures": [
+		{
+			"image": "cove-spooky-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1989,
+				"h": 2008
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1715,
+						"h": 1229
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1715,
+						"h": 1229
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1715,
+						"h": 1229
+					}
+				},
+				{
+					"filename": "fg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1559,
+						"h": 593
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1559,
+						"h": 593
+					},
+					"frame": {
+						"x": 1,
+						"y": 1232,
+						"w": 1559,
+						"h": 593
+					}
+				},
+				{
+					"filename": "feedapuffle.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 426,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 426,
+						"h": 482
+					},
+					"frame": {
+						"x": 1562,
+						"y": 1232,
+						"w": 426,
+						"h": 482
+					}
+				},
+				{
+					"filename": "feedapuffle.png-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 426,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 426,
+						"h": 482
+					},
+					"frame": {
+						"x": 1562,
+						"y": 1232,
+						"w": 426,
+						"h": 482
+					}
+				},
+				{
+					"filename": "roofnbeams.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 342,
+						"h": 217
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 342,
+						"h": 217
+					},
+					"frame": {
+						"x": 1562,
+						"y": 1716,
+						"w": 342,
+						"h": 217
+					}
+				},
+				{
+					"filename": "orangethingy.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 53,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 53,
+						"h": 92
+					},
+					"frame": {
+						"x": 1906,
+						"y": 1716,
+						"w": 53,
+						"h": 92
+					}
+				},
+				{
+					"filename": "binoculars0002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 76,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 81
+					},
+					"frame": {
+						"x": 1906,
+						"y": 1810,
+						"w": 76,
+						"h": 81
+					}
+				},
+				{
+					"filename": "jol.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 79
+					},
+					"frame": {
+						"x": 1906,
+						"y": 1893,
+						"w": 81,
+						"h": 79
+					}
+				},
+				{
+					"filename": "surfboards.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 221,
+						"h": 276
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 221,
+						"h": 276
+					},
+					"frame": {
+						"x": 1718,
+						"y": 1,
+						"w": 221,
+						"h": 276
+					}
+				},
+				{
+					"filename": "hutrightwall.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 209,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 209,
+						"h": 262
+					},
+					"frame": {
+						"x": 1718,
+						"y": 279,
+						"w": 209,
+						"h": 262
+					}
+				},
+				{
+					"filename": "beegcage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 217,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 217,
+						"h": 220
+					},
+					"frame": {
+						"x": 1718,
+						"y": 543,
+						"w": 217,
+						"h": 220
+					}
+				},
+				{
+					"filename": "cageantennae0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 55,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 55,
+						"h": 77
+					},
+					"frame": {
+						"x": 1929,
+						"y": 279,
+						"w": 55,
+						"h": 77
+					}
+				},
+				{
+					"filename": "cageantennae0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 55,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 55,
+						"h": 77
+					},
+					"frame": {
+						"x": 1929,
+						"y": 358,
+						"w": 55,
+						"h": 77
+					}
+				},
+				{
+					"filename": "cageantennae0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 55,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 55,
+						"h": 77
+					},
+					"frame": {
+						"x": 1929,
+						"y": 437,
+						"w": 55,
+						"h": 77
+					}
+				},
+				{
+					"filename": "fire0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 8,
+						"w": 43,
+						"h": 70
+					},
+					"frame": {
+						"x": 1941,
+						"y": 1,
+						"w": 43,
+						"h": 70
+					}
+				},
+				{
+					"filename": "fire0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 9,
+						"w": 42,
+						"h": 68
+					},
+					"frame": {
+						"x": 1941,
+						"y": 73,
+						"w": 42,
+						"h": 68
+					}
+				},
+				{
+					"filename": "fire0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 10,
+						"w": 45,
+						"h": 67
+					},
+					"frame": {
+						"x": 1941,
+						"y": 143,
+						"w": 45,
+						"h": 67
+					}
+				},
+				{
+					"filename": "fire0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 17,
+						"w": 43,
+						"h": 61
+					},
+					"frame": {
+						"x": 1941,
+						"y": 212,
+						"w": 43,
+						"h": 61
+					}
+				},
+				{
+					"filename": "hutinterior.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 260,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 260,
+						"h": 200
+					},
+					"frame": {
+						"x": 1718,
+						"y": 765,
+						"w": 260,
+						"h": 200
+					}
+				},
+{
+					"filename": "hutinterior.png-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 260,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 260,
+						"h": 200
+					},
+					"frame": {
+						"x": 1718,
+						"y": 765,
+						"w": 260,
+						"h": 200
+					}
+				},
+				{
+					"filename": "buoys.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 230,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 230,
+						"h": 168
+					},
+					"frame": {
+						"x": 1718,
+						"y": 967,
+						"w": 230,
+						"h": 168
+					}
+				},
+				{
+					"filename": "jolhut.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 91,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 91
+					},
+					"frame": {
+						"x": 1718,
+						"y": 1137,
+						"w": 91,
+						"h": 91
+					}
+				},
+				{
+					"filename": "binoculars0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 74,
+						"h": 79
+					},
+					"frame": {
+						"x": 1811,
+						"y": 1137,
+						"w": 74,
+						"h": 79
+					}
+				},
+				{
+					"filename": "cageantennae0004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 55,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 55,
+						"h": 77
+					},
+					"frame": {
+						"x": 1887,
+						"y": 1137,
+						"w": 55,
+						"h": 77
+					}
+				},
+				{
+					"filename": "fire0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 15,
+						"w": 34,
+						"h": 63
+					},
+					"frame": {
+						"x": 1944,
+						"y": 1137,
+						"w": 34,
+						"h": 63
+					}
+				},
+				{
+					"filename": "fire0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 18,
+						"w": 35,
+						"h": 59
+					},
+					"frame": {
+						"x": 1950,
+						"y": 967,
+						"w": 35,
+						"h": 59
+					}
+				},
+				{
+					"filename": "chairnear.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 48,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 48,
+						"h": 57
+					},
+					"frame": {
+						"x": 1937,
+						"y": 516,
+						"w": 48,
+						"h": 57
+					}
+				},
+				{
+					"filename": "chairfar.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 49
+					},
+					"frame": {
+						"x": 1937,
+						"y": 575,
+						"w": 42,
+						"h": 49
+					}
+				},
+				{
+					"filename": "cat.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 49,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 49,
+						"h": 43
+					},
+					"frame": {
+						"x": 1937,
+						"y": 626,
+						"w": 49,
+						"h": 43
+					}
+				},
+				{
+					"filename": "fire0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 35,
+						"w": 40,
+						"h": 43
+					},
+					"frame": {
+						"x": 1937,
+						"y": 671,
+						"w": 40,
+						"h": 43
+					}
+				},
+				{
+					"filename": "fire0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 40,
+						"w": 39,
+						"h": 37
+					},
+					"frame": {
+						"x": 1937,
+						"y": 716,
+						"w": 39,
+						"h": 37
+					}
+				},
+				{
+					"filename": "hutroof.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 354,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 354,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 1827,
+						"w": 354,
+						"h": 180
+					}
+				},
+				{
+					"filename": "bushtop.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 94
+					},
+					"frame": {
+						"x": 357,
+						"y": 1827,
+						"w": 256,
+						"h": 94
+					}
+				},
+				{
+					"filename": "fire0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 103
+					},
+					"frame": {
+						"x": 615,
+						"y": 1827,
+						"w": 147,
+						"h": 103
+					}
+				},
+				{
+					"filename": "pcdesk.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 127
+					},
+					"frame": {
+						"x": 764,
+						"y": 1827,
+						"w": 134,
+						"h": 127
+					}
+				},
+				{
+					"filename": "caticon.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 117,
+						"h": 101
+					},
+					"frame": {
+						"x": 900,
+						"y": 1827,
+						"w": 117,
+						"h": 101
+					}
+				},
+				{
+					"filename": "cage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 157
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 157
+					},
+					"frame": {
+						"x": 1019,
+						"y": 1827,
+						"w": 100,
+						"h": 157
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f0df8d83af7061445b2131cd9d6d7f7d:9b2c526e4e7a9303807e5faecacaf7c6:abded904b577f05d403541bcbdb21314$"
+	}
+}

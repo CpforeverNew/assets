@@ -1,0 +1,3044 @@
+{
+    "anims": [
+        {
+            "key": "aqua_lights_float",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0121",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0122",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0123",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0124",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0125",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0126",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0127",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0128",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0129",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0130",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0131",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0132",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0133",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0134",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0135",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0136",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0137",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0138",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0139",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0140",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0141",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0142",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0143",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0144",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0145",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0146",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0147",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0148",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0149",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0150",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0151",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0152",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0153",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0154",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0155",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0156",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0157",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0158",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0159",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0160",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0161",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0162",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0163",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0164",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0165",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0166",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0167",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0168",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0169",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0170",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0171",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0172",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0173",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0174",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0175",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0176",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0177",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0178",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0179",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0180",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "aqua_open",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0181",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0182",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0183",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0184",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0185",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0186",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0187",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0188",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0189",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0190",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0191",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0192",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0193",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0194",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0195",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0196",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0197",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0198",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0199",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0200",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0201",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0202",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0203",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0204",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0205",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0206",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0207",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0208",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0209",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0210",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0211",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0212",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0213",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0214",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0215",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0216",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0217",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0218",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0219",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0220",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0221",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0222",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0223",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0224",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0225",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0226",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0227",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0228",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0229",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0230",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0231",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0232",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0233",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0234",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0235",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0236",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0237",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0238",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0239",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0240",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0241",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0242",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0243",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0244",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0245",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0246",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0247",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0248",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0249",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0250",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0251",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0252",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0253",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0254",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0255",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0256",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0257",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0258",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0259",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0260",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0261",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0262",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0263",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0264",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0265",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0266",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0267",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0268",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0269",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0270",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0271",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0272",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0273",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0274",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0275",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0276",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0277",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0278",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0279",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0280",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0281",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0282",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0283",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0284",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0285",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0286",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0287",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0288",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0289",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0290",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0291",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0292",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0293",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0294",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0295",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0296",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0297",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0298",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0299",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0300",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0301",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0302",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0303",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0304",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0305",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0306",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0307",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0308",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0309",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0310",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0311",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0312",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0313",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0314",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0315",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0316",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0317",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0318",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0319",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0320",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0321",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0322",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0323",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0324",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0325",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0326",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0327",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0328",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0329",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0330",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0331",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0332",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0333",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0334",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0335",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0336",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0337",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0338",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0339",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0340",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0341",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0342",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0343",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0344",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0345",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0346",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0347",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0348",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0349",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0350",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0351",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0352",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0353",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0354",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0355",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0356",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0357",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0358",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0359",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0360",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0361",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0362",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0363",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0364",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0365",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0366",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0367",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0368",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0369",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0370",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0371",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0372",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0373",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0374",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0375",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0376",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0377",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0378",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0379",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0380",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0381",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0382",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0383",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0384",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0385",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0386",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0387",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0388",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0389",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0390",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0391",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0392",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0393",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0394",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0395",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0396",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0397",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0398",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0399",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0400",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0401",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0402",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0403",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0404",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0405",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0406",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0407",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0408",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0409",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0410",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0411",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0412",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0413",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0414",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0415",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0416",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0417",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0418",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0419",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0420",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0421",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0422",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0423",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0424",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0425",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0426",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0427",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0428",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0429",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0430",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0431",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0432",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0433",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0434",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0435",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0436",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0437",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0438",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0439",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0440",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0441",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0442",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0443",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0444",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0445",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0446",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0447",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0448",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0449",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0450",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0451",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0452",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0453",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0454",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0455",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0456",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0457",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0458",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0459",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0460",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0461",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0462",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0463",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0464",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0465",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0466",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0467",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0468",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0469",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0470",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0471",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0472",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0473",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0474",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0475",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0476",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0477",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0478",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0479",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0480",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0481",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0482",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0483",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0484",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0485",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0486",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0487",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0488",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0489",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0490",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0491",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0492",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0493",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0494",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0495",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0496",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0497",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0498",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0499",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0500",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0501",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "aqua_float",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0080",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "aqua_lights_on",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "berg_halloween",
+                    "frame": "aqua grabber0094",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

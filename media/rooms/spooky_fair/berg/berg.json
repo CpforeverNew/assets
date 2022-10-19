@@ -1,0 +1,11676 @@
+{
+	"textures": [
+		{
+			"image": "berg-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2046,
+				"h": 2033
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "water",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1536,
+						"h": 788
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1536,
+						"h": 788
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1536,
+						"h": 788
+					}
+				},
+				{
+					"filename": "pumpkin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1211,
+						"h": 696
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1211,
+						"h": 696
+					},
+					"frame": {
+						"x": 1,
+						"y": 791,
+						"w": 1211,
+						"h": 696
+					}
+				},
+				{
+					"filename": "waterbublle0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 1153,
+						"h": 229
+					},
+					"frame": {
+						"x": 1,
+						"y": 1489,
+						"w": 1153,
+						"h": 229
+					}
+				},
+				{
+					"filename": "waterbublle0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 1153,
+						"h": 229
+					},
+					"frame": {
+						"x": 1,
+						"y": 1489,
+						"w": 1153,
+						"h": 229
+					}
+				},
+				{
+					"filename": "cpi",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 546,
+						"h": 135
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 546,
+						"h": 135
+					},
+					"frame": {
+						"x": 1,
+						"y": 1720,
+						"w": 546,
+						"h": 135
+					}
+				},
+				{
+					"filename": "aqua grabber0198",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 279
+					},
+					"frame": {
+						"x": 1539,
+						"y": 1,
+						"w": 318,
+						"h": 279
+					}
+				},
+				{
+					"filename": "aqua grabber0350",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 279
+					},
+					"frame": {
+						"x": 1539,
+						"y": 1,
+						"w": 318,
+						"h": 279
+					}
+				},
+				{
+					"filename": "aqua grabber0199",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 279
+					},
+					"frame": {
+						"x": 1214,
+						"y": 791,
+						"w": 318,
+						"h": 279
+					}
+				},
+				{
+					"filename": "aqua grabber0349",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 279
+					},
+					"frame": {
+						"x": 1214,
+						"y": 791,
+						"w": 318,
+						"h": 279
+					}
+				},
+				{
+					"filename": "aqua grabber0197",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 316,
+						"h": 277
+					},
+					"frame": {
+						"x": 1539,
+						"y": 282,
+						"w": 316,
+						"h": 277
+					}
+				},
+				{
+					"filename": "aqua grabber0351",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 316,
+						"h": 277
+					},
+					"frame": {
+						"x": 1539,
+						"y": 282,
+						"w": 316,
+						"h": 277
+					}
+				},
+				{
+					"filename": "aqua grabber0200",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0201",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0202",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0203",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0204",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0205",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0206",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0207",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0248",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0249",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0250",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0251",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0252",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0253",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0254",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0255",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0256",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0257",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0258",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0259",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0260",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0261",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0262",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0263",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0264",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0265",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0266",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0267",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0268",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0269",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0270",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0271",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0272",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0273",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0274",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0275",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0276",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0277",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0278",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0279",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0280",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0281",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0282",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0283",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0284",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0285",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0286",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0287",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0328",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0329",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0330",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0331",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0332",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0333",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0334",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0335",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0336",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0337",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0338",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0339",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0340",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0341",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0342",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0343",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0344",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0345",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0346",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0347",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "aqua grabber0348",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 314,
+						"h": 275
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1072,
+						"w": 314,
+						"h": 275
+					}
+				},
+				{
+					"filename": "cloudleft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 403,
+						"h": 175
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 403,
+						"h": 175
+					},
+					"frame": {
+						"x": 1,
+						"y": 1857,
+						"w": 403,
+						"h": 175
+					}
+				},
+				{
+					"filename": "aqua grabber0208",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0209",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0210",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0211",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0212",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0213",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0214",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0215",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0216",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0217",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0218",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0219",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0220",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0221",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0222",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0223",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0224",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0225",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0226",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0227",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0228",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0229",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0230",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0231",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0232",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0233",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0234",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0235",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0236",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0237",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0238",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0239",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0240",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0241",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0242",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0243",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0244",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0245",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0246",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0247",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1539,
+						"y": 561,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0288",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0289",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0290",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0291",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0292",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0293",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0294",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0295",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0296",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0297",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0298",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0299",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0300",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0301",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0302",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0303",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0304",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0305",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0306",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0307",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0308",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0309",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0310",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0311",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0312",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0313",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0314",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0315",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0316",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0317",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0318",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0319",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0320",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0321",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0322",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0323",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0324",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0325",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0326",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0327",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 314,
+						"h": 274
+					},
+					"frame": {
+						"x": 1534,
+						"y": 837,
+						"w": 314,
+						"h": 274
+					}
+				},
+				{
+					"filename": "aqua grabber0196",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 267
+					},
+					"frame": {
+						"x": 1530,
+						"y": 1113,
+						"w": 310,
+						"h": 267
+					}
+				},
+				{
+					"filename": "clouds",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 349,
+						"h": 209
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 349,
+						"h": 209
+					},
+					"frame": {
+						"x": 549,
+						"y": 1720,
+						"w": 349,
+						"h": 209
+					}
+				},
+				{
+					"filename": "aqua grabber0352",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 266
+					},
+					"frame": {
+						"x": 900,
+						"y": 1720,
+						"w": 310,
+						"h": 266
+					}
+				},
+				{
+					"filename": "aqua grabber0195",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 250
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1349,
+						"w": 310,
+						"h": 250
+					}
+				},
+				{
+					"filename": "aqua grabber0353",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 250
+					},
+					"frame": {
+						"x": 1214,
+						"y": 1349,
+						"w": 310,
+						"h": 250
+					}
+				},
+				{
+					"filename": "aqua grabber0194",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1526,
+						"y": 1382,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0354",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1526,
+						"y": 1382,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0407",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0408",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0409",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0410",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0411",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0412",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0413",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0414",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0415",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0416",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0417",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0418",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0419",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0420",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0421",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0422",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0423",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0424",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0425",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0426",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0427",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0428",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0429",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0430",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0431",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0432",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0433",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0434",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0435",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0436",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0437",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0438",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0439",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0440",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0441",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0442",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0443",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0444",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0445",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0446",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0487",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1601,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "smile10004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 282
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 126,
+						"w": 241,
+						"h": 156
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1827,
+						"w": 241,
+						"h": 156
+					}
+				},
+				{
+					"filename": "smile10005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 282
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 126,
+						"w": 241,
+						"h": 156
+					},
+					"frame": {
+						"x": 1524,
+						"y": 1609,
+						"w": 241,
+						"h": 156
+					}
+				},
+				{
+					"filename": "nose0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 153
+					},
+					"frame": {
+						"x": 1859,
+						"y": 1,
+						"w": 166,
+						"h": 153
+					}
+				},
+				{
+					"filename": "smile10003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 282
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 131,
+						"w": 239,
+						"h": 150
+					},
+					"frame": {
+						"x": 1524,
+						"y": 1767,
+						"w": 239,
+						"h": 150
+					}
+				},
+				{
+					"filename": "nose0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 153
+					},
+					"frame": {
+						"x": 1859,
+						"y": 156,
+						"w": 166,
+						"h": 153
+					}
+				},
+				{
+					"filename": "nose0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 153
+					},
+					"frame": {
+						"x": 1857,
+						"y": 311,
+						"w": 166,
+						"h": 153
+					}
+				},
+				{
+					"filename": "lefteye0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 167,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 167,
+						"h": 149
+					},
+					"frame": {
+						"x": 1857,
+						"y": 466,
+						"w": 167,
+						"h": 149
+					}
+				},
+				{
+					"filename": "3smile0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 578,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 387,
+						"y": 102,
+						"w": 189,
+						"h": 148
+					},
+					"frame": {
+						"x": 1855,
+						"y": 617,
+						"w": 189,
+						"h": 148
+					}
+				},
+				{
+					"filename": "3smile0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 578,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 388,
+						"y": 115,
+						"w": 185,
+						"h": 133
+					},
+					"frame": {
+						"x": 1855,
+						"y": 767,
+						"w": 185,
+						"h": 133
+					}
+				},
+				{
+					"filename": "2smile0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 576,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 191,
+						"y": 179,
+						"w": 195,
+						"h": 115
+					},
+					"frame": {
+						"x": 1850,
+						"y": 902,
+						"w": 195,
+						"h": 115
+					}
+				},
+				{
+					"filename": "3smile0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 578,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 386,
+						"y": 92,
+						"w": 192,
+						"h": 164
+					},
+					"frame": {
+						"x": 1850,
+						"y": 1019,
+						"w": 192,
+						"h": 164
+					}
+				},
+				{
+					"filename": "3smile0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 578,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 380,
+						"y": 92,
+						"w": 198,
+						"h": 164
+					},
+					"frame": {
+						"x": 1842,
+						"y": 1185,
+						"w": 198,
+						"h": 164
+					}
+				},
+				{
+					"filename": "lefteye0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 167,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 167,
+						"h": 149
+					},
+					"frame": {
+						"x": 1767,
+						"y": 1609,
+						"w": 167,
+						"h": 149
+					}
+				},
+				{
+					"filename": "righteye",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 99
+					},
+					"frame": {
+						"x": 1842,
+						"y": 1351,
+						"w": 184,
+						"h": 99
+					}
+				},
+				{
+					"filename": "lefteye0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 167,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 167,
+						"h": 149
+					},
+					"frame": {
+						"x": 1838,
+						"y": 1452,
+						"w": 167,
+						"h": 149
+					}
+				},
+				{
+					"filename": "righteye0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 99
+					},
+					"frame": {
+						"x": 1455,
+						"y": 1919,
+						"w": 184,
+						"h": 99
+					}
+				},
+				{
+					"filename": "righteye0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 99
+					},
+					"frame": {
+						"x": 1641,
+						"y": 1919,
+						"w": 184,
+						"h": 99
+					}
+				},
+				{
+					"filename": "2smile0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 576,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 185,
+						"y": 173,
+						"w": 209,
+						"h": 125
+					},
+					"frame": {
+						"x": 1767,
+						"y": 1760,
+						"w": 209,
+						"h": 125
+					}
+				},
+				{
+					"filename": "smile10002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 282
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 133,
+						"w": 212,
+						"h": 138
+					},
+					"frame": {
+						"x": 1827,
+						"y": 1887,
+						"w": 212,
+						"h": 138
+					}
+				},
+				{
+					"filename": "righteye0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 99
+					},
+					"frame": {
+						"x": 406,
+						"y": 1931,
+						"w": 184,
+						"h": 99
+					}
+				},
+				{
+					"filename": "righteye0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 184,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 183,
+						"h": 97
+					},
+					"frame": {
+						"x": 592,
+						"y": 1931,
+						"w": 183,
+						"h": 97
+					}
+				}
+			]
+		},
+		{
+			"image": "berg-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1928,
+				"h": 2043
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "waterbublle0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1155,
+						"h": 227
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1155,
+						"h": 227
+					}
+				},
+				{
+					"filename": "waterbublle0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1155,
+						"h": 227
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1155,
+						"h": 227
+					}
+				},
+				{
+					"filename": "waterbublle0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 1149,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 230,
+						"w": 1149,
+						"h": 222
+					}
+				},
+				{
+					"filename": "waterbublle0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 1149,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 230,
+						"w": 1149,
+						"h": 222
+					}
+				},
+				{
+					"filename": "waterbublle0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 1143,
+						"h": 226
+					},
+					"frame": {
+						"x": 1,
+						"y": 454,
+						"w": 1143,
+						"h": 226
+					}
+				},
+				{
+					"filename": "waterbublle0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 5,
+						"w": 1143,
+						"h": 226
+					},
+					"frame": {
+						"x": 1,
+						"y": 454,
+						"w": 1143,
+						"h": 226
+					}
+				},
+				{
+					"filename": "2smile0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 576,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 576,
+						"h": 298
+					},
+					"frame": {
+						"x": 1,
+						"y": 682,
+						"w": 576,
+						"h": 298
+					}
+				},
+				{
+					"filename": "3smile0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 578,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 578,
+						"h": 256
+					},
+					"frame": {
+						"x": 1,
+						"y": 982,
+						"w": 578,
+						"h": 256
+					}
+				},
+				{
+					"filename": "aqua grabber0368",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1158,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0369",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1158,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0370",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1,
+						"y": 1240,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0371",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 579,
+						"y": 682,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0372",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1470,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0373",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1,
+						"y": 1467,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0374",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1,
+						"y": 1694,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "smile10006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 241,
+						"h": 282
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 241,
+						"h": 282
+					},
+					"frame": {
+						"x": 313,
+						"y": 1240,
+						"w": 241,
+						"h": 282
+					}
+				},
+				{
+					"filename": "aqua grabber0375",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 891,
+						"y": 682,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0376",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 313,
+						"y": 1524,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0377",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 313,
+						"y": 1751,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0378",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 581,
+						"y": 909,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0379",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 893,
+						"y": 909,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0380",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 581,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0381",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 893,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0382",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 625,
+						"y": 1363,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0383",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 625,
+						"y": 1590,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0384",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1363,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0385",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1590,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0386",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 625,
+						"y": 1817,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0387",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 937,
+						"y": 1817,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0388",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1158,
+						"y": 228,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0389",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1146,
+						"y": 455,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0390",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1470,
+						"y": 228,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0391",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1458,
+						"y": 455,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0392",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1203,
+						"y": 682,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0393",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1205,
+						"y": 909,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0394",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1205,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0395",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1363,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0396",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1590,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0397",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1817,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0398",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1515,
+						"y": 682,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0399",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 909,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0400",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0401",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0402",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0403",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0404",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0405",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0406",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0447",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0448",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0449",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0450",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0451",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0452",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0453",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0454",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0455",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0456",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0457",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0458",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0459",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0460",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0461",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0462",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0463",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0464",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0465",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0466",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0467",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0468",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0469",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0470",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0471",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0472",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0473",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0474",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0475",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0476",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0477",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0478",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0479",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0480",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0481",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0482",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0483",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0484",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0485",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0486",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 225
+					},
+					"frame": {
+						"x": 1517,
+						"y": 1136,
+						"w": 310,
+						"h": 225
+					}
+				},
+				{
+					"filename": "aqua grabber0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1363,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "2smile0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 576,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 179,
+						"y": 169,
+						"w": 217,
+						"h": 129
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1589,
+						"w": 217,
+						"h": 129
+					}
+				},
+				{
+					"filename": "2smile0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 576,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 169,
+						"w": 215,
+						"h": 129
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1720,
+						"w": 215,
+						"h": 129
+					}
+				},
+				{
+					"filename": "nose0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 166,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 162,
+						"h": 151
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1851,
+						"w": 162,
+						"h": 151
+					}
+				},
+				{
+					"filename": "lefteye0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 6,
+						"w": 149,
+						"h": 134
+					},
+					"frame": {
+						"x": 1778,
+						"y": 1720,
+						"w": 149,
+						"h": 134
+					}
+				},
+				{
+					"filename": "4smile0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 169
+					},
+					"frame": {
+						"x": 1782,
+						"y": 1,
+						"w": 94,
+						"h": 169
+					}
+				},
+				{
+					"filename": "4smile0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 169
+					},
+					"frame": {
+						"x": 1782,
+						"y": 172,
+						"w": 94,
+						"h": 169
+					}
+				},
+				{
+					"filename": "nose0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 166,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 13,
+						"w": 138,
+						"h": 115
+					},
+					"frame": {
+						"x": 1,
+						"y": 1921,
+						"w": 138,
+						"h": 115
+					}
+				},
+				{
+					"filename": "lefteye0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 167,
+						"h": 149
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 1,
+						"w": 159,
+						"h": 145
+					},
+					"frame": {
+						"x": 1725,
+						"y": 1856,
+						"w": 159,
+						"h": 145
+					}
+				},
+				{
+					"filename": "righteye0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 184,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 5,
+						"w": 162,
+						"h": 83
+					},
+					"frame": {
+						"x": 141,
+						"y": 1921,
+						"w": 162,
+						"h": 83
+					}
+				},
+				{
+					"filename": "4smile0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 92,
+						"h": 169
+					},
+					"frame": {
+						"x": 1782,
+						"y": 343,
+						"w": 92,
+						"h": 169
+					}
+				},
+				{
+					"filename": "4smile0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 7,
+						"w": 81,
+						"h": 158
+					},
+					"frame": {
+						"x": 1770,
+						"y": 514,
+						"w": 81,
+						"h": 158
+					}
+				},
+				{
+					"filename": "4smile0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 169
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 12,
+						"w": 73,
+						"h": 150
+					},
+					"frame": {
+						"x": 1853,
+						"y": 514,
+						"w": 73,
+						"h": 150
+					}
+				}
+			]
+		},
+		{
+			"image": "berg-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1872,
+				"h": 1577
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "waterbublle0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 1153,
+						"h": 221
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1153,
+						"h": 221
+					}
+				},
+				{
+					"filename": "waterbublle0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 7,
+						"w": 1153,
+						"h": 221
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1153,
+						"h": 221
+					}
+				},
+				{
+					"filename": "aqua grabber0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1156,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1156,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1156,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1468,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1468,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "waterbublle0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 1146,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 224,
+						"w": 1146,
+						"h": 222
+					}
+				},
+				{
+					"filename": "waterbublle0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1156,
+						"h": 231
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 1146,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 224,
+						"w": 1146,
+						"h": 222
+					}
+				},
+				{
+					"filename": "aqua grabber0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0093",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0094",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0095",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0096",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0097",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0098",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0099",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0108",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0109",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0110",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0111",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0112",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0113",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0114",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0115",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0116",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0117",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0118",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0119",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0120",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0121",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0122",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0123",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0124",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0125",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0126",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0127",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0128",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0129",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0130",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0131",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0132",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0133",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0134",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0135",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0136",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0137",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0138",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0139",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0366",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0367",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0490",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0499",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0500",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0501",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1149,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0088",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1461,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0494",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1461,
+						"y": 227,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0089",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 448,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0495",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 448,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0090",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 448,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0496",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 448,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0091",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 448,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0497",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 448,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0092",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0498",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0140",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0141",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0142",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0143",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0144",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0145",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0146",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0147",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0148",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0149",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0150",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0151",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0152",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0153",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0154",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0155",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0156",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0157",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0158",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0159",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0160",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0161",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0162",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0163",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0164",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0165",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0166",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0167",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0168",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0169",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0170",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0171",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0172",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0173",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0174",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0175",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0176",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0177",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0178",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0179",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0180",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 1,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0181",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 453,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0182",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 674,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0183",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 674,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0184",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 674,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0185",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 679,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0186",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 900,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0187",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 900,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0188",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 900,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0189",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 679,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0190",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 679,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0358",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 679,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0191",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 905,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0357",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 905,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0192",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 1126,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0356",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 1126,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0193",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 1126,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0355",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 1126,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0359",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1126,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0360",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 905,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0361",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 905,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0362",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 937,
+						"y": 1131,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0363",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1,
+						"y": 1352,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0364",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 313,
+						"y": 1352,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0365",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 625,
+						"y": 1352,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0488",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1131,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0492",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1131,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0493",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1249,
+						"y": 1131,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0489",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1131,
+						"w": 310,
+						"h": 224
+					}
+				},
+				{
+					"filename": "aqua grabber0491",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 318,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 310,
+						"h": 224
+					},
+					"frame": {
+						"x": 1561,
+						"y": 1131,
+						"w": 310,
+						"h": 224
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1eae2e3260ea9b1c099f45e9939b174d:57a5d506a75207c76689b88d463acfa0:3c2da3081aa9cb788a682ea6f688a72e$"
+	}
+}

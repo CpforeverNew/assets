@@ -1,0 +1,346 @@
+{
+	"textures": [
+		{
+			"image": "circusext-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2005,
+				"h": 1976
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1651,
+						"h": 926
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1651,
+						"h": 926
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1651,
+						"h": 926
+					}
+				},
+				{
+					"filename": "prize",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 350,
+						"h": 388
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 350,
+						"h": 388
+					},
+					"frame": {
+						"x": 1654,
+						"y": 1,
+						"w": 350,
+						"h": 388
+					}
+				},
+				{
+					"filename": "prize_back-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 424,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 189,
+						"w": 346,
+						"h": 214
+					},
+					"frame": {
+						"x": 1654,
+						"y": 391,
+						"w": 346,
+						"h": 214
+					}
+				},
+				{
+					"filename": "prize_back-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 424,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 189,
+						"w": 346,
+						"h": 214
+					},
+					"frame": {
+						"x": 1654,
+						"y": 391,
+						"w": 346,
+						"h": 214
+					}
+				},
+				{
+					"filename": "prize_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 424,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 189,
+						"w": 346,
+						"h": 214
+					},
+					"frame": {
+						"x": 1654,
+						"y": 607,
+						"w": 346,
+						"h": 214
+					}
+				},
+				{
+					"filename": "statue",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 242,
+						"h": 282
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 242,
+						"h": 282
+					},
+					"frame": {
+						"x": 1654,
+						"y": 823,
+						"w": 242,
+						"h": 282
+					}
+				},
+				{
+					"filename": "barrel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1529,
+						"h": 532
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1529,
+						"h": 532
+					},
+					"frame": {
+						"x": 1,
+						"y": 929,
+						"w": 1529,
+						"h": 532
+					}
+				},
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1512,
+						"h": 512
+					},
+					"frame": {
+						"x": 1,
+						"y": 1463,
+						"w": 1512,
+						"h": 512
+					}
+				},
+				{
+					"filename": "pebbles",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 447,
+						"h": 385
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 447,
+						"h": 385
+					},
+					"frame": {
+						"x": 1532,
+						"y": 1107,
+						"w": 447,
+						"h": 385
+					}
+				},
+				{
+					"filename": "tent_back-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 398,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 398,
+						"h": 324
+					},
+					"frame": {
+						"x": 1515,
+						"y": 1494,
+						"w": 398,
+						"h": 324
+					}
+				},
+				{
+					"filename": "tent_back-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 398,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 398,
+						"h": 324
+					},
+					"frame": {
+						"x": 1515,
+						"y": 1494,
+						"w": 398,
+						"h": 324
+					}
+				},
+				{
+					"filename": "scary",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 121,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 121,
+						"h": 52
+					},
+					"frame": {
+						"x": 1515,
+						"y": 1820,
+						"w": 121,
+						"h": 52
+					}
+				}
+			]
+		},
+		{
+			"image": "circusext-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1518,
+				"h": 909
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tent",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1116,
+						"h": 555
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1116,
+						"h": 555
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1116,
+						"h": 555
+					}
+				},
+				{
+					"filename": "ballon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1312,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1312,
+						"h": 350
+					},
+					"frame": {
+						"x": 1,
+						"y": 558,
+						"w": 1312,
+						"h": 350
+					}
+				},
+				{
+					"filename": "tent_back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 398,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 398,
+						"h": 324
+					},
+					"frame": {
+						"x": 1119,
+						"y": 1,
+						"w": 398,
+						"h": 324
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b9a7d74e7c725b2eaa132b9103e711f7:ae52f4ff8430c302d96b0093d3391c7c:40a15b63e21e4fe18b8301154041dff7$"
+	}
+}

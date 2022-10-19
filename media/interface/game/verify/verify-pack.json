@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/verify/verify.json",
+                "path": "assets/media/interface/game/verify",
+                "key": "verify"
+            },
+            {
+                "url": "assets/media/interface/game/verify/verify-anims.json",
+                "type": "animation",
+                "key": "verify-anims"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

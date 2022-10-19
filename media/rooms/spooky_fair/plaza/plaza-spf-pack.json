@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "src/scenes/rooms/spooky_fair/plaza/plaza-physics.json",
+                "type": "json",
+                "key": "plaza-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/spooky_fair/plaza/plaza-spf.json",
+                "path": "assets/media/rooms/spooky_fair/plaza",
+                "key": "plaza-spf"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

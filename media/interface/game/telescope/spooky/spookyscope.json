@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "spookyscope.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 964,
+				"h": 846
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Symbol 1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 962,
+						"h": 844
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 962,
+						"h": 844
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 962,
+						"h": 844
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a4caf4c9bea6bf96d12caf9512cd5b87:166eb19bbb33352eaae3821cd806d244:485129a08609412923f93aa562847032$"
+	}
+}

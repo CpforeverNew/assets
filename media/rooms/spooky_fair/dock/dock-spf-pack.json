@@ -2,15 +2,15 @@
     "section1": {
         "files": [
             {
-                "url": "assets/media/rooms/spooky_fair/plaza/plaza-physics.json",
+                "url": "assets/media/rooms/spooky_fair/dock/dock-physics.json",
                 "type": "json",
-                "key": "plaza-physics"
+                "key": "dock-physics"
             },
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/spooky_fair/plaza/plaza-spf.json",
-                "path": "assets/media/rooms/spooky_fair/plaza",
-                "key": "plaza-spf"
+                "url": "assets/media/rooms/spooky_fair/dock/dock-spf.json",
+                "path": "assets/media/rooms/spooky_fair/dock",
+                "key": "dock-spf"
             }
         ]
     },

@@ -32303,6 +32303,42 @@
     "cost":0,
     "member":1
   },
+  "36100": {
+    "name": "Black Vest",
+    "type": 5,
+    "cost": 0,
+    "member": 0
+  }, 
+  "36101": {
+    "name": "Slade Mask",
+    "type": 3,
+    "cost": 0,
+    "member": 0
+  },
+  "36102": {
+    "name": "Puffle Bad Costume",
+    "type": 5,
+    "cost": 0,
+    "member": 0
+  },
+  "36103": {
+    "name": "Haunted Pumkin Basket",
+    "type": 6,
+    "cost": 0,
+    "member": 0
+  },
+  "36104": {
+    "name": "Devil Ghost Costume",
+    "type": 5,
+    "cost": 0,
+    "member": 0
+  },
+  "36105": {
+    "name": "17th Anniversary Hat",
+    "type": 2,
+    "cost": 0,
+    "member": 0
+  },
   "37373":{
     "name":"Sahmyool Background",
     "type":9,

@@ -2,6 +2,12 @@
     "section1": {
         "files": [
             {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/cove/cove.json",
+                "path": "assets/media/rooms/old/cove",
+                "key": "cove"
+            },
+            {
                 "url": "assets/media/rooms/spooky_fair/cove/cove-anims.json",
                 "type": "animation",
                 "key": "cove-anims"

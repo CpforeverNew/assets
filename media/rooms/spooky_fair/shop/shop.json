@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "shop.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2034,
+				"h": 1962
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Background.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1552,
+						"h": 1013
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1542,
+						"h": 1013
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1542,
+						"h": 1013
+					}
+				},
+				{
+					"filename": "BlockShape.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1520,
+						"h": 822
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1520,
+						"h": 822
+					},
+					"frame": {
+						"x": 1,
+						"y": 1016,
+						"w": 1520,
+						"h": 822
+					}
+				},
+				{
+					"filename": "Streamer3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 510,
+						"h": 368
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 510,
+						"h": 368
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1016,
+						"w": 510,
+						"h": 368
+					}
+				},
+				{
+					"filename": "Register.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 254,
+						"h": 291
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 254,
+						"h": 291
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1386,
+						"w": 254,
+						"h": 291
+					}
+				},
+				{
+					"filename": "Streamer1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 417,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 417,
+						"h": 245
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1679,
+						"w": 417,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Speaker0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 98,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 98,
+						"h": 258
+					},
+					"frame": {
+						"x": 1779,
+						"y": 1386,
+						"w": 98,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Pumpkin.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 123,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 123,
+						"h": 120
+					},
+					"frame": {
+						"x": 1879,
+						"y": 1386,
+						"w": 123,
+						"h": 120
+					}
+				},
+				{
+					"filename": "Shoebox.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 61,
+						"h": 109
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 109
+					},
+					"frame": {
+						"x": 1879,
+						"y": 1508,
+						"w": 61,
+						"h": 109
+					}
+				},
+				{
+					"filename": "Door0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 341
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 146,
+						"h": 294
+					},
+					"frame": {
+						"x": 1545,
+						"y": 1,
+						"w": 146,
+						"h": 294
+					}
+				},
+				{
+					"filename": "Streamer4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 434,
+						"h": 214
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 434,
+						"h": 214
+					},
+					"frame": {
+						"x": 1545,
+						"y": 297,
+						"w": 434,
+						"h": 214
+					}
+				},
+				{
+					"filename": "Streamer5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 153
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 153
+					},
+					"frame": {
+						"x": 1545,
+						"y": 513,
+						"w": 425,
+						"h": 153
+					}
+				},
+				{
+					"filename": "Streamer2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 620,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 620,
+						"h": 121
+					},
+					"frame": {
+						"x": 1,
+						"y": 1840,
+						"w": 620,
+						"h": 121
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f965bf8939c57b23451022211d102f6d:d74a2d1dd3e6f73d68c09ce0aa763faf:da608f8bfab43ed0359bba38af88f8fb$"
+	}
+}

@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "forts.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2038,
+				"h": 1297
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Pumpkin.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 75,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 76
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 75,
+						"h": 76
+					}
+				},
+				{
+					"filename": "Sign0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 61,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 61,
+						"h": 89
+					},
+					"frame": {
+						"x": 78,
+						"y": 1,
+						"w": 61,
+						"h": 89
+					}
+				},
+				{
+					"filename": "Sign0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 61,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 59,
+						"h": 101
+					},
+					"frame": {
+						"x": 141,
+						"y": 1,
+						"w": 59,
+						"h": 101
+					}
+				},
+				{
+					"filename": "Sign0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 61,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 59,
+						"h": 101
+					},
+					"frame": {
+						"x": 141,
+						"y": 1,
+						"w": 59,
+						"h": 101
+					}
+				},
+				{
+					"filename": "Sign0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 61,
+						"h": 105
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 105
+					},
+					"frame": {
+						"x": 202,
+						"y": 1,
+						"w": 58,
+						"h": 105
+					}
+				},
+				{
+					"filename": "Cobweb.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 135,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 135,
+						"h": 129
+					},
+					"frame": {
+						"x": 262,
+						"y": 1,
+						"w": 135,
+						"h": 129
+					}
+				},
+				{
+					"filename": "Fort3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 326,
+						"h": 143
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 326,
+						"h": 143
+					},
+					"frame": {
+						"x": 399,
+						"y": 1,
+						"w": 326,
+						"h": 143
+					}
+				},
+				{
+					"filename": "Fort2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 234,
+						"h": 189
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 234,
+						"h": 189
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 234,
+						"h": 189
+					}
+				},
+				{
+					"filename": "Fort1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 367,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 367,
+						"h": 215
+					},
+					"frame": {
+						"x": 963,
+						"y": 1,
+						"w": 367,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Background.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 2036,
+						"h": 1078
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 2036,
+						"h": 1078
+					},
+					"frame": {
+						"x": 1,
+						"y": 218,
+						"w": 2036,
+						"h": 1078
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:db635f6131c160c2a6f77907e33ac63b:4cdcf1c748c269eeeae3c3ae7b09eb8f:b255bffafbc7850def1dc163b194d90b$"
+	}
+}

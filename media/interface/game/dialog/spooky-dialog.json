@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "spooky-dialog.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1606,
+				"h": 760
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "conductor1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 624,
+						"h": 893
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 85,
+						"w": 583,
+						"h": 758
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 583,
+						"h": 758
+					}
+				},
+				{
+					"filename": "conductor2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 624,
+						"h": 893
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 85,
+						"w": 583,
+						"h": 758
+					},
+					"frame": {
+						"x": 586,
+						"y": 1,
+						"w": 583,
+						"h": 758
+					}
+				},
+				{
+					"filename": "slade1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 624,
+						"h": 893
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 46,
+						"w": 434,
+						"h": 746
+					},
+					"frame": {
+						"x": 1171,
+						"y": 1,
+						"w": 434,
+						"h": 746
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:38670401648710f5a87b5d78ca15fb1e:05fc3797ee01ff673deccabc96ca8a07:e6dce31e8a27e51490aa4e91610a0ebc$"
+	}
+}

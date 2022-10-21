@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "dialog.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1726,
+				"h": 250
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "SpeechBubble.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 994,
+						"h": 232
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 994,
+						"h": 232
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 994,
+						"h": 232
+					}
+				},
+				{
+					"filename": "nextbutton",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 363,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 363,
+						"h": 123
+					},
+					"frame": {
+						"x": 997,
+						"y": 1,
+						"w": 363,
+						"h": 123
+					}
+				},
+				{
+					"filename": "nextbutton-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 363,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 363,
+						"h": 123
+					},
+					"frame": {
+						"x": 997,
+						"y": 126,
+						"w": 363,
+						"h": 123
+					}
+				},
+				{
+					"filename": "nextbutton-active",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 363,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 363,
+						"h": 123
+					},
+					"frame": {
+						"x": 1362,
+						"y": 1,
+						"w": 363,
+						"h": 123
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e6f1e4e0ef8c7bb14e7577d377f64a33:5a1f852f09f1e0309d725f4d64db64bc:329b34835539abbbce6727e4ce86c85e$"
+	}
+}

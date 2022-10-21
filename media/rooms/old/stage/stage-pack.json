@@ -16,6 +16,12 @@
                 "url": "assets/media/rooms/old/stage/stage-physics.json",
                 "type": "json",
                 "key": "stage-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/stage/stage-sled/stage-sled.json",
+                "path": "assets/media/rooms/old/stage/stage-sled",
+                "key": "stage-sled"
             }
         ]
     },

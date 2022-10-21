@@ -1,0 +1,377 @@
+{
+	"textures": [
+		{
+			"image": "forest-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2044,
+				"h": 1966
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Background.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1546,
+						"h": 979
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1546,
+						"h": 979
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1546,
+						"h": 979
+					}
+				},
+				{
+					"filename": "ForegroundLeft0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 937,
+						"h": 972
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 937,
+						"h": 972
+					},
+					"frame": {
+						"x": 1,
+						"y": 982,
+						"w": 937,
+						"h": 972
+					}
+				},
+				{
+					"filename": "ForegroundRight.png.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 659,
+						"h": 966
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 442,
+						"h": 966
+					},
+					"frame": {
+						"x": 1549,
+						"y": 1,
+						"w": 442,
+						"h": 966
+					}
+				},
+				{
+					"filename": "BigTreeRight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 605,
+						"h": 432
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 605,
+						"h": 432
+					},
+					"frame": {
+						"x": 940,
+						"y": 982,
+						"w": 605,
+						"h": 432
+					}
+				},
+				{
+					"filename": "BigTreeLeftL.png.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 350,
+						"h": 351
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 350,
+						"h": 351
+					},
+					"frame": {
+						"x": 940,
+						"y": 1416,
+						"w": 350,
+						"h": 351
+					}
+				},
+				{
+					"filename": "MemoryGameBooth.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 273,
+						"h": 354
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 273,
+						"h": 354
+					},
+					"frame": {
+						"x": 1292,
+						"y": 1416,
+						"w": 273,
+						"h": 354
+					}
+				},
+				{
+					"filename": "PrizeBoothBG.png.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 280,
+						"h": 186
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 280,
+						"h": 186
+					},
+					"frame": {
+						"x": 940,
+						"y": 1769,
+						"w": 280,
+						"h": 186
+					}
+				},
+				{
+					"filename": "BigTreeLeftR.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 354
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 354
+					},
+					"frame": {
+						"x": 1547,
+						"y": 982,
+						"w": 184,
+						"h": 354
+					}
+				},
+				{
+					"filename": "PrizeBooth.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 310,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 310,
+						"h": 346
+					},
+					"frame": {
+						"x": 1733,
+						"y": 969,
+						"w": 310,
+						"h": 346
+					}
+				},
+				{
+					"filename": "PufflePaddleBooth.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 237,
+						"h": 289
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 237,
+						"h": 289
+					},
+					"frame": {
+						"x": 1567,
+						"y": 1338,
+						"w": 237,
+						"h": 289
+					}
+				},
+				{
+					"filename": "SnowDriftLeft.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 266
+					},
+					"frame": {
+						"x": 1806,
+						"y": 1317,
+						"w": 160,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Rock.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 243,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 243,
+						"h": 140
+					},
+					"frame": {
+						"x": 1567,
+						"y": 1629,
+						"w": 243,
+						"h": 140
+					}
+				},
+				{
+					"filename": "MemoryGameBoothBackground.png0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 251,
+						"h": 343
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 80,
+						"w": 190,
+						"h": 194
+					},
+					"frame": {
+						"x": 1567,
+						"y": 1771,
+						"w": 190,
+						"h": 194
+					}
+				},
+				{
+					"filename": "BigPumpkin.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 208
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 208
+					},
+					"frame": {
+						"x": 1812,
+						"y": 1585,
+						"w": 180,
+						"h": 208
+					}
+				},
+				{
+					"filename": "StaircaseRail.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 175
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 175
+					},
+					"frame": {
+						"x": 1222,
+						"y": 1772,
+						"w": 178,
+						"h": 175
+					}
+				},
+				{
+					"filename": "SmallPumpkin.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 127,
+						"h": 129
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 129
+					},
+					"frame": {
+						"x": 1402,
+						"y": 1772,
+						"w": 127,
+						"h": 129
+					}
+				},
+				{
+					"filename": "BigTreeRightBranches.png.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 157,
+						"h": 88
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 157,
+						"h": 88
+					},
+					"frame": {
+						"x": 1759,
+						"y": 1795,
+						"w": 157,
+						"h": 88
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:04fcc3f3b0b3cdc76daf42aee55b99ad:464cd814f9be50c7dd1bb3b91d263c30:cfdf0fa9293aec62ff153af3b5c0876a$"
+	}
+}

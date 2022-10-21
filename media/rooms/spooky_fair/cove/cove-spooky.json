@@ -3601,6 +3601,27 @@
 					}
 				},
 				{
+					"filename": "binoculars",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 74,
+						"h": 79
+					},
+					"frame": {
+						"x": 1562,
+						"y": 1391,
+						"w": 74,
+						"h": 79
+					}
+				},
+				{
 					"filename": "binoculars-hover",
 					"rotated": false,
 					"trimmed": false,

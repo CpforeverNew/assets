@@ -1,0 +1,1606 @@
+{
+	"textures": [
+		{
+			"image": "book-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2006,
+				"h": 2033
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1532,
+						"h": 978
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1532,
+						"h": 978
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1532,
+						"h": 978
+					}
+				},
+				{
+					"filename": "door0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 429,
+						"h": 590
+					},
+					"frame": {
+						"x": 1535,
+						"y": 1,
+						"w": 429,
+						"h": 590
+					}
+				},
+				{
+					"filename": "door0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 429,
+						"h": 590
+					},
+					"frame": {
+						"x": 1535,
+						"y": 1,
+						"w": 429,
+						"h": 590
+					}
+				},
+				{
+					"filename": "door0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 429,
+						"h": 590
+					},
+					"frame": {
+						"x": 1535,
+						"y": 593,
+						"w": 429,
+						"h": 590
+					}
+				},
+				{
+					"filename": "door0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 47,
+						"w": 429,
+						"h": 543
+					},
+					"frame": {
+						"x": 1,
+						"y": 981,
+						"w": 429,
+						"h": 543
+					}
+				},
+				{
+					"filename": "door0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 95,
+						"w": 428,
+						"h": 495
+					},
+					"frame": {
+						"x": 1,
+						"y": 1526,
+						"w": 428,
+						"h": 495
+					}
+				},
+				{
+					"filename": "door0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 143,
+						"w": 413,
+						"h": 447
+					},
+					"frame": {
+						"x": 431,
+						"y": 1526,
+						"w": 413,
+						"h": 447
+					}
+				},
+				{
+					"filename": "door0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 263,
+						"w": 377,
+						"h": 327
+					},
+					"frame": {
+						"x": 432,
+						"y": 1185,
+						"w": 377,
+						"h": 327
+					}
+				},
+				{
+					"filename": "rightcouch",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 262,
+						"h": 176
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 262,
+						"h": 176
+					},
+					"frame": {
+						"x": 432,
+						"y": 981,
+						"w": 262,
+						"h": 176
+					}
+				},
+				{
+					"filename": "chair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 227,
+						"h": 168
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 227,
+						"h": 168
+					},
+					"frame": {
+						"x": 696,
+						"y": 981,
+						"w": 227,
+						"h": 168
+					}
+				},
+				{
+					"filename": "door0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 239,
+						"w": 399,
+						"h": 351
+					},
+					"frame": {
+						"x": 811,
+						"y": 1151,
+						"w": 399,
+						"h": 351
+					}
+				},
+				{
+					"filename": "chairback",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 190,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 141
+					},
+					"frame": {
+						"x": 925,
+						"y": 981,
+						"w": 190,
+						"h": 141
+					}
+				},
+				{
+					"filename": "hat",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 66
+					},
+					"frame": {
+						"x": 1117,
+						"y": 981,
+						"w": 50,
+						"h": 66
+					}
+				},
+				{
+					"filename": "leaf",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 375
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 375
+					},
+					"frame": {
+						"x": 1212,
+						"y": 981,
+						"w": 156,
+						"h": 375
+					}
+				},
+				{
+					"filename": "door0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 191,
+						"w": 413,
+						"h": 399
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1358,
+						"w": 413,
+						"h": 399
+					}
+				},
+				{
+					"filename": "table",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 217,
+						"h": 241
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 217,
+						"h": 241
+					},
+					"frame": {
+						"x": 846,
+						"y": 1504,
+						"w": 217,
+						"h": 241
+					}
+				},
+				{
+					"filename": "door0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1185,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 183,
+						"w": 378,
+						"h": 407
+					},
+					"frame": {
+						"x": 1627,
+						"y": 1621,
+						"w": 378,
+						"h": 407
+					}
+				},
+				{
+					"filename": "door0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 317,
+						"w": 375,
+						"h": 273
+					},
+					"frame": {
+						"x": 846,
+						"y": 1759,
+						"w": 375,
+						"h": 273
+					}
+				},
+				{
+					"filename": "door0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 336,
+						"w": 390,
+						"h": 254
+					},
+					"frame": {
+						"x": 1223,
+						"y": 1759,
+						"w": 390,
+						"h": 254
+					}
+				}
+			]
+		},
+		{
+			"image": "book-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1889,
+				"h": 1985
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "door0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1,
+						"y": 437,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1,
+						"y": 873,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1,
+						"y": 1309,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 351,
+						"w": 384,
+						"h": 239
+					},
+					"frame": {
+						"x": 1,
+						"y": 1745,
+						"w": 384,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 381,
+						"y": 1,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 381,
+						"y": 437,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 381,
+						"y": 873,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 381,
+						"y": 1309,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 351,
+						"w": 372,
+						"h": 239
+					},
+					"frame": {
+						"x": 387,
+						"y": 1745,
+						"w": 372,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 761,
+						"y": 1,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 1141,
+						"y": 1,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1521,
+						"y": 1,
+						"w": 367,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1521,
+						"y": 242,
+						"w": 367,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1521,
+						"y": 242,
+						"w": 367,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1521,
+						"y": 242,
+						"w": 367,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1521,
+						"y": 242,
+						"w": 367,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1521,
+						"y": 242,
+						"w": 367,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1521,
+						"y": 242,
+						"w": 367,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 156,
+						"w": 378,
+						"h": 434
+					},
+					"frame": {
+						"x": 761,
+						"y": 437,
+						"w": 378,
+						"h": 434
+					}
+				},
+				{
+					"filename": "door0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 210,
+						"w": 378,
+						"h": 380
+					},
+					"frame": {
+						"x": 1141,
+						"y": 437,
+						"w": 378,
+						"h": 380
+					}
+				},
+				{
+					"filename": "door0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1521,
+						"y": 483,
+						"w": 367,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1521,
+						"y": 724,
+						"w": 367,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 236,
+						"w": 377,
+						"h": 354
+					},
+					"frame": {
+						"x": 1141,
+						"y": 819,
+						"w": 377,
+						"h": 354
+					}
+				},
+				{
+					"filename": "door0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1520,
+						"y": 965,
+						"w": 367,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 290,
+						"w": 377,
+						"h": 300
+					},
+					"frame": {
+						"x": 761,
+						"y": 873,
+						"w": 377,
+						"h": 300
+					}
+				},
+				{
+					"filename": "door0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 287,
+						"w": 390,
+						"h": 303
+					},
+					"frame": {
+						"x": 761,
+						"y": 1175,
+						"w": 390,
+						"h": 303
+					}
+				},
+				{
+					"filename": "door0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 344,
+						"w": 374,
+						"h": 246
+					},
+					"frame": {
+						"x": 761,
+						"y": 1480,
+						"w": 374,
+						"h": 246
+					}
+				},
+				{
+					"filename": "door0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 351,
+						"w": 372,
+						"h": 239
+					},
+					"frame": {
+						"x": 761,
+						"y": 1728,
+						"w": 372,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 351,
+						"w": 371,
+						"h": 239
+					},
+					"frame": {
+						"x": 1135,
+						"y": 1728,
+						"w": 371,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1137,
+						"y": 1480,
+						"w": 367,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1506,
+						"y": 1206,
+						"w": 367,
+						"h": 239
+					}
+				},
+				{
+					"filename": "door0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 429,
+						"h": 590
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 351,
+						"w": 367,
+						"h": 239
+					},
+					"frame": {
+						"x": 1506,
+						"y": 1447,
+						"w": 367,
+						"h": 239
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fc6ab5f87763e2513d8b4da6348f5411:2f14c7177156fd9b0fe3470d863d4f0e:7f0e6f17597a4e1bf7555c517e46566f$"
+	}
+}

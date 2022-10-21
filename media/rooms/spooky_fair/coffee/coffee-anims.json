@@ -1,0 +1,102 @@
+{
+    "anims": [
+        {
+            "key": "candle_flame",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee",
+                    "frame": "Candle1.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle14.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle2.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle3.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle4.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle5.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle6.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle7.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle8.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee",
+                    "frame": "Candle9.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 18,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

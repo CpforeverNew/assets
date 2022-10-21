@@ -1,0 +1,839 @@
+{
+	"textures": [
+		{
+			"image": "coffee.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1847,
+				"h": 1475
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Background.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1525,
+						"h": 968
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1525,
+						"h": 968
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1525,
+						"h": 968
+					}
+				},
+				{
+					"filename": "Streamers.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1627,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1627,
+						"h": 256
+					},
+					"frame": {
+						"x": 0,
+						"y": 968,
+						"w": 1627,
+						"h": 256
+					}
+				},
+				{
+					"filename": "CakeTable.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 332,
+						"h": 491
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 11,
+						"w": 322,
+						"h": 473
+					},
+					"frame": {
+						"x": 1525,
+						"y": 0,
+						"w": 322,
+						"h": 473
+					}
+				},
+				{
+					"filename": "TallCandles.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 319
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 164,
+						"h": 316
+					},
+					"frame": {
+						"x": 1525,
+						"y": 473,
+						"w": 164,
+						"h": 316
+					}
+				},
+				{
+					"filename": "RedChair.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 154
+					},
+					"frame": {
+						"x": 1525,
+						"y": 789,
+						"w": 155,
+						"h": 154
+					}
+				},
+				{
+					"filename": "ArrowSign.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 395
+					},
+					"frame": {
+						"x": 1627,
+						"y": 943,
+						"w": 125,
+						"h": 395
+					}
+				},
+				{
+					"filename": "SignTop0001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 131,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 131,
+						"h": 145
+					},
+					"frame": {
+						"x": 1680,
+						"y": 789,
+						"w": 131,
+						"h": 145
+					}
+				},
+				{
+					"filename": "door-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 104,
+						"h": 245
+					},
+					"frame": {
+						"x": 1689,
+						"y": 473,
+						"w": 104,
+						"h": 245
+					}
+				},
+				{
+					"filename": "BlueChairBottom.png.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 50
+					},
+					"frame": {
+						"x": 1689,
+						"y": 718,
+						"w": 81,
+						"h": 50
+					}
+				},
+				{
+					"filename": "RedChairBottom.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 36,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 36,
+						"h": 37
+					},
+					"frame": {
+						"x": 1770,
+						"y": 718,
+						"w": 36,
+						"h": 37
+					}
+				},
+				{
+					"filename": "Candle13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 8,
+						"h": 21
+					},
+					"frame": {
+						"x": 1770,
+						"y": 755,
+						"w": 8,
+						"h": 21
+					}
+				},
+				{
+					"filename": "Candle14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 8,
+						"h": 21
+					},
+					"frame": {
+						"x": 1778,
+						"y": 755,
+						"w": 8,
+						"h": 21
+					}
+				},
+				{
+					"filename": "Candle3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 8,
+						"h": 19
+					},
+					"frame": {
+						"x": 1786,
+						"y": 755,
+						"w": 8,
+						"h": 19
+					}
+				},
+				{
+					"filename": "Candle4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 8,
+						"h": 19
+					},
+					"frame": {
+						"x": 1794,
+						"y": 755,
+						"w": 8,
+						"h": 19
+					}
+				},
+				{
+					"filename": "Candle5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 8,
+						"h": 18
+					},
+					"frame": {
+						"x": 1802,
+						"y": 755,
+						"w": 8,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Candle6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 8,
+						"h": 18
+					},
+					"frame": {
+						"x": 1689,
+						"y": 768,
+						"w": 8,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Candle11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 7,
+						"h": 18
+					},
+					"frame": {
+						"x": 1697,
+						"y": 768,
+						"w": 7,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Candle12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 7,
+						"h": 18
+					},
+					"frame": {
+						"x": 1704,
+						"y": 768,
+						"w": 7,
+						"h": 18
+					}
+				},
+				{
+					"filename": "Candle10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 7,
+						"h": 17
+					},
+					"frame": {
+						"x": 1711,
+						"y": 768,
+						"w": 7,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Candle9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 7,
+						"h": 17
+					},
+					"frame": {
+						"x": 1718,
+						"y": 768,
+						"w": 7,
+						"h": 17
+					}
+				},
+				{
+					"filename": "Candle1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 7,
+						"h": 22
+					},
+					"frame": {
+						"x": 1525,
+						"y": 943,
+						"w": 7,
+						"h": 22
+					}
+				},
+				{
+					"filename": "Candle2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 7,
+						"h": 22
+					},
+					"frame": {
+						"x": 1532,
+						"y": 943,
+						"w": 7,
+						"h": 22
+					}
+				},
+				{
+					"filename": "Candle7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 6,
+						"h": 23
+					},
+					"frame": {
+						"x": 1539,
+						"y": 943,
+						"w": 6,
+						"h": 23
+					}
+				},
+				{
+					"filename": "Candle8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 8,
+						"h": 23
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 6,
+						"h": 23
+					},
+					"frame": {
+						"x": 1545,
+						"y": 943,
+						"w": 6,
+						"h": 23
+					}
+				},
+				{
+					"filename": "OverheadLight.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 360
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 360
+					},
+					"frame": {
+						"x": 1752,
+						"y": 934,
+						"w": 90,
+						"h": 360
+					}
+				},
+				{
+					"filename": "FireExtinguisher.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 127
+					},
+					"frame": {
+						"x": 1752,
+						"y": 1294,
+						"w": 66,
+						"h": 127
+					}
+				},
+				{
+					"filename": "CounterGoodies.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 189,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 189,
+						"h": 224
+					},
+					"frame": {
+						"x": 0,
+						"y": 1224,
+						"w": 189,
+						"h": 224
+					}
+				},
+				{
+					"filename": "CounterTop.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 184,
+						"h": 251
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 251
+					},
+					"frame": {
+						"x": 189,
+						"y": 1224,
+						"w": 184,
+						"h": 251
+					}
+				},
+				{
+					"filename": "SmallTable.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 174,
+						"h": 223
+					},
+					"frame": {
+						"x": 373,
+						"y": 1224,
+						"w": 174,
+						"h": 223
+					}
+				},
+				{
+					"filename": "BigPumpkin.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 194
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 194
+					},
+					"frame": {
+						"x": 547,
+						"y": 1224,
+						"w": 144,
+						"h": 194
+					}
+				},
+				{
+					"filename": "BlueChair.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 116
+					},
+					"frame": {
+						"x": 691,
+						"y": 1224,
+						"w": 144,
+						"h": 116
+					}
+				},
+				{
+					"filename": "CounterBack.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 141
+					},
+					"frame": {
+						"x": 835,
+						"y": 1224,
+						"w": 125,
+						"h": 141
+					}
+				},
+				{
+					"filename": "beans-hover",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 115,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 115,
+						"h": 120
+					},
+					"frame": {
+						"x": 691,
+						"y": 1340,
+						"w": 115,
+						"h": 120
+					}
+				},
+				{
+					"filename": "stairs-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 109,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 150
+					},
+					"frame": {
+						"x": 960,
+						"y": 1224,
+						"w": 109,
+						"h": 150
+					}
+				},
+				{
+					"filename": "stairs",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 109,
+						"h": 177
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 109,
+						"h": 150
+					},
+					"frame": {
+						"x": 960,
+						"y": 1224,
+						"w": 1,
+						"h": 1
+					}
+				},
+				{
+					"filename": "SmallPumpkin.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 92
+					},
+					"frame": {
+						"x": 806,
+						"y": 1365,
+						"w": 95,
+						"h": 92
+					}
+				},
+				{
+					"filename": "door",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 218
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 104,
+						"h": 218
+					},
+					"frame": {
+						"x": 1069,
+						"y": 1224,
+						"w": 104,
+						"h": 218
+					}
+				},
+				{
+					"filename": "beans",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 99,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 99,
+						"h": 112
+					},
+					"frame": {
+						"x": 1173,
+						"y": 1224,
+						"w": 99,
+						"h": 112
+					}
+				},
+				{
+					"filename": "SignBottom.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 119
+					},
+					"frame": {
+						"x": 1272,
+						"y": 1224,
+						"w": 90,
+						"h": 119
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f49f5fa0d8be3188b4fa37792c75f32d:f2c904daf7249c11485848cf559891df:44e56e15567a8132837033e725fa9585$"
+	}
+}

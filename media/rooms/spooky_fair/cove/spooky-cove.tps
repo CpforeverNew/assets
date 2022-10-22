@@ -242,7 +242,6 @@
                 <false/>
             </struct>
             <key type="filename">../../../../../../../../Downloads/spookyfairrooms/cove/cove1/binoculars-active.png</key>
-            <key type="filename">../../../../../../../../Downloads/spookyfairrooms/cove/cove1/binoculars-hover.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -332,6 +331,8 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../../../../../Downloads/spookyfairrooms/cove/cove1/fap-active.png</key>
+            <key type="filename">../../../../../../../../Downloads/spookyfairrooms/cove/cove1/fap-hover.png</key>
             <key type="filename">../../../../../../../../Downloads/spookyfairrooms/cove/cove1/fap.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -708,7 +709,6 @@
             <filename>../../../../../../../../Downloads/spookyfairrooms/cove/cove1/bigrockright0003.png</filename>
             <filename>../../../../../../../../Downloads/spookyfairrooms/cove/cove1/bigrockright0004.png</filename>
             <filename>../../../../../../../../Downloads/spookyfairrooms/cove/cove1/binoculars-active.png</filename>
-            <filename>../../../../../../../../Downloads/spookyfairrooms/cove/cove1/binoculars-hover.png</filename>
             <filename>../../../../../../../../Downloads/spookyfairrooms/cove/cove1/cautiontapeleft.png</filename>
             <filename>../../../../../../../../Downloads/spookyfairrooms/cove/cove1/cautiontapemid.png</filename>
             <filename>../../../../../../../../Downloads/spookyfairrooms/cove/cove1/cautiontaperight.png</filename>
@@ -878,6 +878,8 @@
             <filename>../../../../../../../../Downloads/spookyfairrooms/cove/cove1/tapedcat.png</filename>
             <filename>../../../../../../../../Downloads/spookyfairrooms/cove/cove1/hutleft.png</filename>
             <filename>../../../../../../../../Downloads/spookyfairrooms/cove/cove1/hutroof.png</filename>
+            <filename>../../../../../../../../Downloads/spookyfairrooms/cove/cove1/fap-active.png</filename>
+            <filename>../../../../../../../../Downloads/spookyfairrooms/cove/cove1/fap-hover.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

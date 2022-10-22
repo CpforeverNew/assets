@@ -1,0 +1,54 @@
+{
+    "anims": [
+        {
+            "key": "nextbutton",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dialog",
+                    "frame": "Button-Clicked.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "nextbutton-hover",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dialog",
+                    "frame": "Button-Hover.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "nextbutton-active",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dialog",
+                    "frame": "Button.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

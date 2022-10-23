@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "costume-sled.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1299,
+				"h": 1620
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1521,
+						"h": 961
+					},
+					"spriteSourceSize": {
+						"x": 425,
+						"y": 36,
+						"w": 647,
+						"h": 802
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 647,
+						"h": 802
+					}
+				},
+				{
+					"filename": "3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1521,
+						"h": 961
+					},
+					"spriteSourceSize": {
+						"x": 432,
+						"y": 36,
+						"w": 648,
+						"h": 806
+					},
+					"frame": {
+						"x": 650,
+						"y": 1,
+						"w": 648,
+						"h": 806
+					}
+				},
+				{
+					"filename": "2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1521,
+						"h": 961
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 36,
+						"w": 1287,
+						"h": 810
+					},
+					"frame": {
+						"x": 1,
+						"y": 809,
+						"w": 1287,
+						"h": 810
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:336573c7afbe51903e8d64136d77ef3b:e40bc040525b318d4148370b75a1fab3:1c23d99870dde5b42e2479dee103332b$"
+	}
+}

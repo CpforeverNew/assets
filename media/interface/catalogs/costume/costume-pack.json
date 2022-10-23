@@ -6,6 +6,12 @@
                 "url": "assets/media/interface/catalogs/costume/costume.json",
                 "path": "assets/media/interface/catalogs/costume",
                 "key": "costume"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/catalogs/costume/costume-sled/costume-sled.json",
+                "path": "assets/media/interface/catalogs/costume/costume-sled",
+                "key": "costume-sled"
             }
         ]
     },

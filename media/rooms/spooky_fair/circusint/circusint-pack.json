@@ -3,14 +3,14 @@
         "files": [
             {
                 "type": "multiatlas",
-                "url": "assets/media/rooms/spooky_fair/coffee/coffee.json",
-                "path": "assets/media/rooms/spooky_fair/coffee",
-                "key": "coffee_halloween"
+                "url": "assets/media/rooms/spooky_fair/circusint/circusint.json",
+                "path": "assets/media/rooms/spooky_fair/circusint",
+                "key": "circusint"
             },
             {
-                "url": "assets/media/rooms/spooky_fair/coffee/coffee-physics.json",
+                "url": "assets/media/rooms/spooky_fair/circusint/circusint-physics.json",
                 "type": "json",
-                "key": "coffee-physics"
+                "key": "circusint-physics"
             }
         ]
     },

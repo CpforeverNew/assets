@@ -5,7 +5,7 @@
                 "type": "multiatlas",
                 "url": "assets/media/rooms/spooky_fair/forest/forest.json",
                 "path": "assets/media/rooms/spooky_fair/forest",
-                "key": "spooky_forest"
+                "key": "forest_halloween"
             },
             {
                 "url": "assets/media/rooms/spooky_fair/forest/forest-physics.json",

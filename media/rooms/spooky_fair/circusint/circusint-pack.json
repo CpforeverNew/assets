@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/spooky_fair/circusint/circusint.json",
+                "path": "assets/media/rooms/spooky_fair/circusint",
+                "key": "circusint"
+            },
+            {
+                "url": "assets/media/rooms/spooky_fair/circusint/circusint-physics.json",
+                "type": "json",
+                "key": "circusint-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

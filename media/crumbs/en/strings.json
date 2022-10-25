@@ -60,6 +60,8 @@
   "winterpart10": "Winter Maze 10",
 
   "circusext": "Circus Tent",
+  "circusint": "Circus",
+  "vault": "Vault",
 
   "clothingcatalog": "Clothing Catalog",
   "furniturecatalog": "Furniture Catalog",
@@ -100,6 +102,8 @@
   "spin": "Spin To Win",
   "pufflesuffle": "Puffle Shuffle",
   "ringthebell": "Ring The Bell",
+  "feed": "Feed-A-Puffle",
+  "memory": "Memory Card Game",
 
   "thiscertifiesthat": "This certifies that:",
   "locationinfo": "will be in your igloo or backyard when you're not walking it!",

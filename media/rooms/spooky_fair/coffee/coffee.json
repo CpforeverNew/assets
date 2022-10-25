@@ -1,0 +1,2950 @@
+{
+	"textures": [
+		{
+			"image": "coffee-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2014,
+				"h": 2001
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1555,
+						"h": 1001
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1555,
+						"h": 1001
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1555,
+						"h": 1001
+					}
+				},
+				{
+					"filename": "wiring",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1627,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1627,
+						"h": 256
+					},
+					"frame": {
+						"x": 1,
+						"y": 1004,
+						"w": 1627,
+						"h": 256
+					}
+				},
+				{
+					"filename": "light",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 298,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 0,
+						"w": 252,
+						"h": 689
+					},
+					"frame": {
+						"x": 1,
+						"y": 1262,
+						"w": 252,
+						"h": 689
+					}
+				},
+				{
+					"filename": "cake",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 472
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 472
+					},
+					"frame": {
+						"x": 1558,
+						"y": 1,
+						"w": 320,
+						"h": 472
+					}
+				},
+				{
+					"filename": "tvborder",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 368,
+						"h": 249
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 368,
+						"h": 249
+					},
+					"frame": {
+						"x": 255,
+						"y": 1262,
+						"w": 368,
+						"h": 249
+					}
+				},
+				{
+					"filename": "happyhalloween",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 214,
+						"h": 392
+					},
+					"frame": {
+						"x": 1558,
+						"y": 475,
+						"w": 214,
+						"h": 392
+					}
+				},
+				{
+					"filename": "happyhalloween2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 214,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 5,
+						"w": 208,
+						"h": 383
+					},
+					"frame": {
+						"x": 255,
+						"y": 1513,
+						"w": 208,
+						"h": 383
+					}
+				},
+				{
+					"filename": "candle",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 319
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 164,
+						"h": 316
+					},
+					"frame": {
+						"x": 465,
+						"y": 1513,
+						"w": 164,
+						"h": 316
+					}
+				},
+				{
+					"filename": "redlight",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 251
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 0,
+						"w": 238,
+						"h": 214
+					},
+					"frame": {
+						"x": 625,
+						"y": 1262,
+						"w": 238,
+						"h": 214
+					}
+				},
+				{
+					"filename": "deskleft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 189,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 189,
+						"h": 305
+					},
+					"frame": {
+						"x": 631,
+						"y": 1478,
+						"w": 189,
+						"h": 305
+					}
+				},
+				{
+					"filename": "leftlight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 360
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 360
+					},
+					"frame": {
+						"x": 1880,
+						"y": 1,
+						"w": 90,
+						"h": 360
+					}
+				},
+				{
+					"filename": "sofa",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 192,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 192,
+						"h": 234
+					},
+					"frame": {
+						"x": 865,
+						"y": 1262,
+						"w": 192,
+						"h": 234
+					}
+				},
+				{
+					"filename": "lefttable",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 176,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 174,
+						"h": 223
+					},
+					"frame": {
+						"x": 1059,
+						"y": 1262,
+						"w": 174,
+						"h": 223
+					}
+				},
+				{
+					"filename": "pumpkintree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 292
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 292
+					},
+					"frame": {
+						"x": 1774,
+						"y": 475,
+						"w": 113,
+						"h": 292
+					}
+				},
+				{
+					"filename": "backbackpumpkin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 119,
+						"h": 217
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 119,
+						"h": 217
+					},
+					"frame": {
+						"x": 1235,
+						"y": 1262,
+						"w": 119,
+						"h": 217
+					}
+				},
+				{
+					"filename": "lightningdoor0001",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0002",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0003",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0004",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0005",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0006",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0009",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0010",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0041",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0042",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0043",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0044",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0045",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0046",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0047",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0048",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0049",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0050",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0051",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0052",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0053",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0054",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0055",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0090",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1356,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0011",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1471,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0024",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1471,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "door-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 109,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 85,
+						"h": 244
+					},
+					"frame": {
+						"x": 822,
+						"y": 1498,
+						"w": 85,
+						"h": 244
+					}
+				},
+				{
+					"filename": "door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 109,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 85,
+						"h": 244
+					},
+					"frame": {
+						"x": 822,
+						"y": 1498,
+						"w": 85,
+						"h": 244
+					}
+				},
+				{
+					"filename": "lightningdoor0012",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 909,
+						"y": 1498,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0013",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 631,
+						"y": 1785,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0014",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 746,
+						"y": 1785,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "bluechair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 116
+					},
+					"frame": {
+						"x": 1558,
+						"y": 869,
+						"w": 144,
+						"h": 116
+					}
+				},
+				{
+					"filename": "door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 109,
+						"h": 244
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 105,
+						"h": 220
+					},
+					"frame": {
+						"x": 1630,
+						"y": 987,
+						"w": 105,
+						"h": 220
+					}
+				},
+				{
+					"filename": "lightningdoor0015",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1586,
+						"y": 1262,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0016",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1024,
+						"y": 1498,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0063",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1024,
+						"y": 1498,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0017",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1139,
+						"y": 1487,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0018",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1254,
+						"y": 1481,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0066",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1254,
+						"y": 1481,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0019",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1369,
+						"y": 1479,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0020",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1484,
+						"y": 1479,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0069",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1484,
+						"y": 1479,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0021",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1599,
+						"y": 1479,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "redchair",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 155,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 155,
+						"h": 154
+					},
+					"frame": {
+						"x": 465,
+						"y": 1831,
+						"w": 155,
+						"h": 154
+					}
+				},
+				{
+					"filename": "lightningdoor0022",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 861,
+						"y": 1744,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0023",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 976,
+						"y": 1715,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0073",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 976,
+						"y": 1715,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0025",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1091,
+						"y": 1715,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0026",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1206,
+						"y": 1704,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0027",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1321,
+						"y": 1698,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0078",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1321,
+						"y": 1698,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0028",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1436,
+						"y": 1696,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0029",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1551,
+						"y": 1696,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0030",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1666,
+						"y": 1696,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "rightpumpkin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 159
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 159
+					},
+					"frame": {
+						"x": 1774,
+						"y": 769,
+						"w": 144,
+						"h": 159
+					}
+				},
+				{
+					"filename": "lightningdoor0031",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1737,
+						"y": 930,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0032",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1852,
+						"y": 930,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "sign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 137,
+						"h": 145
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 145
+					},
+					"frame": {
+						"x": 1737,
+						"y": 1147,
+						"w": 137,
+						"h": 145
+					}
+				},
+				{
+					"filename": "lightningdoor0033",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1876,
+						"y": 1147,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0084",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1876,
+						"y": 1147,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "deskback",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 125,
+						"h": 141
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 125,
+						"h": 141
+					},
+					"frame": {
+						"x": 1701,
+						"y": 1294,
+						"w": 125,
+						"h": 141
+					}
+				},
+				{
+					"filename": "lightningdoor0034",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1714,
+						"y": 1437,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0035",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1781,
+						"y": 1654,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "beans-active",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 117,
+						"h": 121
+					},
+					"frame": {
+						"x": 1896,
+						"y": 1364,
+						"w": 117,
+						"h": 121
+					}
+				},
+				{
+					"filename": "beans-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 117,
+						"h": 121
+					},
+					"frame": {
+						"x": 1896,
+						"y": 1364,
+						"w": 117,
+						"h": 121
+					}
+				},
+				{
+					"filename": "lightsign",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 120,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 120,
+						"h": 100
+					},
+					"frame": {
+						"x": 1880,
+						"y": 363,
+						"w": 120,
+						"h": 100
+					}
+				},
+				{
+					"filename": "lightningdoor0036",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1889,
+						"y": 465,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "backbean",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 83
+					},
+					"frame": {
+						"x": 1889,
+						"y": 682,
+						"w": 79,
+						"h": 83
+					}
+				},
+				{
+					"filename": "fire",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 127
+					},
+					"frame": {
+						"x": 1920,
+						"y": 767,
+						"w": 66,
+						"h": 127
+					}
+				},
+				{
+					"filename": "lightningdoor0037",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1896,
+						"y": 1487,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "bookroomhover0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 19,
+						"w": 113,
+						"h": 192
+					},
+					"frame": {
+						"x": 1896,
+						"y": 1704,
+						"w": 113,
+						"h": 192
+					}
+				},
+				{
+					"filename": "bookroomhover0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 142,
+						"h": 422
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 19,
+						"w": 113,
+						"h": 192
+					},
+					"frame": {
+						"x": 1896,
+						"y": 1704,
+						"w": 113,
+						"h": 192
+					}
+				},
+				{
+					"filename": "signpumpkin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 92
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 92
+					},
+					"frame": {
+						"x": 255,
+						"y": 1898,
+						"w": 95,
+						"h": 92
+					}
+				},
+				{
+					"filename": "beans",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 102,
+						"h": 114
+					},
+					"frame": {
+						"x": 1781,
+						"y": 1871,
+						"w": 102,
+						"h": 114
+					}
+				},
+				{
+					"filename": "bluechairbehind",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 50
+					},
+					"frame": {
+						"x": 1630,
+						"y": 1209,
+						"w": 81,
+						"h": 50
+					}
+				},
+				{
+					"filename": "shadow",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 38
+					},
+					"frame": {
+						"x": 1704,
+						"y": 869,
+						"w": 66,
+						"h": 38
+					}
+				},
+				{
+					"filename": "redchairbehind",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 36,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 36,
+						"h": 37
+					},
+					"frame": {
+						"x": 822,
+						"y": 1744,
+						"w": 36,
+						"h": 37
+					}
+				},
+				{
+					"filename": "fire0007",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 7,
+						"h": 22
+					},
+					"frame": {
+						"x": 622,
+						"y": 1831,
+						"w": 7,
+						"h": 22
+					}
+				},
+				{
+					"filename": "fire0008",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 7,
+						"h": 22
+					},
+					"frame": {
+						"x": 622,
+						"y": 1831,
+						"w": 7,
+						"h": 22
+					}
+				},
+				{
+					"filename": "fire0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 7,
+						"h": 21
+					},
+					"frame": {
+						"x": 622,
+						"y": 1855,
+						"w": 7,
+						"h": 21
+					}
+				},
+				{
+					"filename": "fire0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 7,
+						"h": 21
+					},
+					"frame": {
+						"x": 622,
+						"y": 1855,
+						"w": 7,
+						"h": 21
+					}
+				},
+				{
+					"filename": "fire0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 7,
+						"h": 19
+					},
+					"frame": {
+						"x": 622,
+						"y": 1878,
+						"w": 7,
+						"h": 19
+					}
+				},
+				{
+					"filename": "fire0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 3,
+						"w": 7,
+						"h": 19
+					},
+					"frame": {
+						"x": 622,
+						"y": 1878,
+						"w": 7,
+						"h": 19
+					}
+				},
+				{
+					"filename": "fire0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 7,
+						"h": 18
+					},
+					"frame": {
+						"x": 622,
+						"y": 1899,
+						"w": 7,
+						"h": 18
+					}
+				},
+				{
+					"filename": "fire0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 7,
+						"h": 18
+					},
+					"frame": {
+						"x": 622,
+						"y": 1899,
+						"w": 7,
+						"h": 18
+					}
+				},
+				{
+					"filename": "fire0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 7,
+						"h": 17
+					},
+					"frame": {
+						"x": 622,
+						"y": 1919,
+						"w": 7,
+						"h": 17
+					}
+				},
+				{
+					"filename": "fire0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 7,
+						"h": 17
+					},
+					"frame": {
+						"x": 622,
+						"y": 1919,
+						"w": 7,
+						"h": 17
+					}
+				},
+				{
+					"filename": "fire0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 7,
+						"h": 17
+					},
+					"frame": {
+						"x": 622,
+						"y": 1938,
+						"w": 7,
+						"h": 17
+					}
+				},
+				{
+					"filename": "fire0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 7,
+						"h": 17
+					},
+					"frame": {
+						"x": 622,
+						"y": 1938,
+						"w": 7,
+						"h": 17
+					}
+				},
+				{
+					"filename": "fire0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 7,
+						"h": 16
+					},
+					"frame": {
+						"x": 622,
+						"y": 1957,
+						"w": 7,
+						"h": 16
+					}
+				},
+				{
+					"filename": "fire0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 7,
+						"h": 22
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 7,
+						"h": 16
+					},
+					"frame": {
+						"x": 622,
+						"y": 1957,
+						"w": 7,
+						"h": 16
+					}
+				}
+			]
+		},
+		{
+			"image": "coffee-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1725,
+				"h": 434
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lightningdoor0038",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0088",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0039",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0040",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 116,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0056",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 116,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0057",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 231,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0058",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 231,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0059",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 346,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0060",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 346,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0061",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 461,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0062",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 461,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0064",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 576,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0065",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 576,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0067",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 691,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0068",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 691,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0070",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 806,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0071",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 806,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0072",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 921,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0074",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 921,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0075",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1036,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0076",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1036,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0077",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1151,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0079",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1151,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0080",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1266,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0081",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1266,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0082",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1381,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0083",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1381,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0085",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1496,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0086",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1496,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0087",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1611,
+						"y": 1,
+						"w": 113,
+						"h": 215
+					}
+				},
+				{
+					"filename": "lightningdoor0089",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 113,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 113,
+						"h": 215
+					},
+					"frame": {
+						"x": 1611,
+						"y": 218,
+						"w": 113,
+						"h": 215
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fc0ea803ac65643e724c1c3c7d7d742b:e7352ddcc5402a3e031a77f3a3c744c1:c69d5d6d1ff339d6468d30dc1b3581bb$"
+	}
+}

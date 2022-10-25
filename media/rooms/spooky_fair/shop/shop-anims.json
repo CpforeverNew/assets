@@ -1,0 +1,565 @@
+{
+    "anims": [
+        {
+            "key": "phone",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "phone0055",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "register",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "shop_halloween",
+                    "frame": "register0035",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

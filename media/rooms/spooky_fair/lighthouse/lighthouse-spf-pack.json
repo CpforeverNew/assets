@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/spooky_fair/lighthouse/lighthouse-anims.json",
+                "type": "animation",
+                "key": "lighthouse-anims"
+            },
+            {
+                "url": "assets/media/rooms/spooky_fair/lighthouse/lighthouse-physics.json",
+                "type": "json",
+                "key": "lighthouse-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/spooky_fair/lighthouse/lighthouse-spf.json",
+                "path": "assets/media/rooms/spooky_fair/lighthouse",
+                "key": "lighthouse-spf"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

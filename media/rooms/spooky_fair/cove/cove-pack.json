@@ -1,0 +1,35 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/old/cove/cove.json",
+                "path": "assets/media/rooms/old/cove",
+                "key": "cove"
+            },
+            {
+                "url": "assets/media/rooms/spooky_fair/cove/cove-anims.json",
+                "type": "animation",
+                "key": "cove-anims"
+            },
+            {
+                "url": "assets/media/rooms/spooky_fair/cove/cove-physics.json",
+                "type": "json",
+                "key": "cove-physics"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/spooky_fair/cove/cove-spooky.json",
+                "path": "assets/media/rooms/spooky_fair/cove",
+                "key": "cove-spooky"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

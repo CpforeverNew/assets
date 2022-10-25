@@ -1,0 +1,625 @@
+{
+    "anims": [
+        {
+            "key": "doorUnlock",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "vault",
+                    "frame": "door0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "door0079",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cds",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "vault",
+                    "frame": "cds0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "vault",
+                    "frame": "cds0021",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

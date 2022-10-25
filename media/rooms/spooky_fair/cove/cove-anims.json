@@ -1,0 +1,1032 @@
+{
+    "anims": [
+        {
+            "key": "fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cove",
+                    "frame": "fire0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove",
+                    "frame": "fire0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove",
+                    "frame": "fire0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove",
+                    "frame": "fire0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove",
+                    "frame": "fire0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove",
+                    "frame": "fire0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove",
+                    "frame": "fire0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove",
+                    "frame": "fire0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove",
+                    "frame": "fire0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove",
+                    "frame": "fire0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "antennae",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cove-spooky",
+                    "frame": "antennae0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "antennae0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "antennae0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "antennae0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "antennae0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "antennae0006",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "net",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0087",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0088",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0089",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0090",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0091",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0092",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0093",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0094",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0095",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0096",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0097",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0107",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0108",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0109",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0110",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0111",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0112",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0113",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0114",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0115",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0116",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0117",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0118",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0119",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0120",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0121",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0122",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0123",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0124",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0125",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0126",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0127",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0128",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0129",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0130",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0131",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0132",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0133",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0134",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0135",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0136",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0137",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0138",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0139",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0140",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0141",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0142",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0143",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0144",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0145",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0146",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0147",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0148",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0149",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cove-spooky",
+                    "frame": "net0150",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

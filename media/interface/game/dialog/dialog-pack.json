@@ -1,0 +1,30 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/dialog/dialog.json",
+                "path": "assets/media/interface/game/dialog",
+                "key": "dialog"
+            },
+            {
+                "url": "assets/media/interface/game/dialog/dialog-anims.json",
+                "type": "animation",
+                "key": "dialog-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/interface/game/dialog/spooky-dialog.json",
+                "path": "assets/media/interface/game/dialog",
+                "key": "spooky-dialog"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

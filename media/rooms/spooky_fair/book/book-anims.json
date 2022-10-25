@@ -1,0 +1,425 @@
+{
+    "anims": [
+        {
+            "key": "door",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "book_halloween",
+                    "frame": "door0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "book_halloween",
+                    "frame": "door0068",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

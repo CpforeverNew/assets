@@ -11,6 +11,11 @@
                 "url": "assets/media/rooms/old/rink/spf/rink-spf.json",
                 "path": "assets/media/rooms/old/rink/spf",
                 "key": "rink-spf"
+            },
+            {
+                "url": "assets/media/rooms/old/rink/spf/tombstone.png",
+                "type": "image",
+                "key": "tombstone"
             }
         ]
     },

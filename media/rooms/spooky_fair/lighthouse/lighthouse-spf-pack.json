@@ -2,6 +2,11 @@
     "section1": {
         "files": [
             {
+                "url": "assets/media/rooms/spooky_fair/lighthouse/lighthouse-anims.json",
+                "type": "animation",
+                "key": "lighthouse-anims"
+            },
+            {
                 "url": "assets/media/rooms/spooky_fair/lighthouse/lighthouse-physics.json",
                 "type": "json",
                 "key": "lighthouse-physics"

@@ -1,0 +1,34 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/holiday_party/berg/berg-anims.json",
+                "type": "animation",
+                "key": "berg-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/holiday_party/berg/berg-christmas.json",
+                "path": "assets/media/rooms/holiday_party/berg",
+                "key": "berg-christmas"
+            },
+            {
+                "url": "assets/media/rooms/holiday_party/berg/berg-physics.json",
+                "type": "json",
+                "key": "berg-physics"
+            },
+            {
+                "url": "assets/media/rooms/holiday_party/berg/img.png",
+                "type": "image",
+                "key": "img"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

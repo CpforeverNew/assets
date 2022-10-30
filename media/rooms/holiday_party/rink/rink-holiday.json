@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "rink-holiday.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1545,
+				"h": 1727
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "puck",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 36,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 36,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 36,
+						"h": 34
+					}
+				},
+				{
+					"filename": "netfront",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 42,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 75
+					},
+					"frame": {
+						"x": 39,
+						"y": 1,
+						"w": 42,
+						"h": 75
+					}
+				},
+				{
+					"filename": "door",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 90,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 87
+					},
+					"frame": {
+						"x": 83,
+						"y": 1,
+						"w": 90,
+						"h": 87
+					}
+				},
+				{
+					"filename": "door-hover",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 90,
+						"h": 114
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 114
+					},
+					"frame": {
+						"x": 175,
+						"y": 1,
+						"w": 68,
+						"h": 114
+					}
+				},
+				{
+					"filename": "netback",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 91,
+						"h": 158
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 91,
+						"h": 158
+					},
+					"frame": {
+						"x": 245,
+						"y": 1,
+						"w": 91,
+						"h": 158
+					}
+				},
+				{
+					"filename": "window",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 442,
+						"h": 173
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 442,
+						"h": 173
+					},
+					"frame": {
+						"x": 338,
+						"y": 1,
+						"w": 442,
+						"h": 173
+					}
+				},
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1513,
+						"h": 747
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1513,
+						"h": 747
+					},
+					"frame": {
+						"x": 1,
+						"y": 176,
+						"w": 1513,
+						"h": 747
+					}
+				},
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1543,
+						"h": 801
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1543,
+						"h": 801
+					},
+					"frame": {
+						"x": 1,
+						"y": 925,
+						"w": 1543,
+						"h": 801
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:64945e2528b0d26f895dd37772811a0c:5137c5100c99b660987905f0fb62044c:9d7f42e9402e6a68d1f57ca6d2fcccae$"
+	}
+}

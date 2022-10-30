@@ -1,0 +1,2302 @@
+{
+	"textures": [
+		{
+			"image": "mtn-holiday-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2040,
+				"h": 1859
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "horizon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1512,
+						"h": 665
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1512,
+						"h": 665
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1512,
+						"h": 665
+					}
+				},
+				{
+					"filename": "lift0083",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 4,
+						"w": 516,
+						"h": 434
+					},
+					"frame": {
+						"x": 1515,
+						"y": 1,
+						"w": 516,
+						"h": 434
+					}
+				},
+				{
+					"filename": "lift0082",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 8,
+						"w": 516,
+						"h": 430
+					},
+					"frame": {
+						"x": 1515,
+						"y": 437,
+						"w": 516,
+						"h": 430
+					}
+				},
+				{
+					"filename": "bg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1511,
+						"h": 751
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1511,
+						"h": 751
+					},
+					"frame": {
+						"x": 1,
+						"y": 668,
+						"w": 1511,
+						"h": 751
+					}
+				},
+				{
+					"filename": "lift0084",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 0,
+						"w": 525,
+						"h": 438
+					},
+					"frame": {
+						"x": 1514,
+						"y": 869,
+						"w": 525,
+						"h": 438
+					}
+				},
+				{
+					"filename": "lift0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 17,
+						"w": 556,
+						"h": 437
+					},
+					"frame": {
+						"x": 1,
+						"y": 1421,
+						"w": 556,
+						"h": 437
+					}
+				},
+				{
+					"filename": "lift0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 557,
+						"h": 433
+					},
+					"frame": {
+						"x": 559,
+						"y": 1421,
+						"w": 557,
+						"h": 433
+					}
+				},
+				{
+					"filename": "lift0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 17,
+						"w": 526,
+						"h": 421
+					},
+					"frame": {
+						"x": 1118,
+						"y": 1421,
+						"w": 526,
+						"h": 421
+					}
+				},
+				{
+					"filename": "tape",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 12,
+						"h": 14
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 12,
+						"h": 14
+					},
+					"frame": {
+						"x": 1118,
+						"y": 1844,
+						"w": 12,
+						"h": 14
+					}
+				},
+				{
+					"filename": "caticon",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 3,
+						"w": 117,
+						"h": 101
+					},
+					"frame": {
+						"x": 1514,
+						"y": 1309,
+						"w": 117,
+						"h": 101
+					}
+				},
+				{
+					"filename": "tube",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 101,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 101,
+						"h": 77
+					},
+					"frame": {
+						"x": 1633,
+						"y": 1309,
+						"w": 101,
+						"h": 77
+					}
+				},
+				{
+					"filename": "pole",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 245,
+						"h": 356
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 245,
+						"h": 356
+					},
+					"frame": {
+						"x": 1736,
+						"y": 1309,
+						"w": 245,
+						"h": 356
+					}
+				},
+				{
+					"filename": "mtncat0007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 54
+					},
+					"frame": {
+						"x": 1983,
+						"y": 1309,
+						"w": 56,
+						"h": 54
+					}
+				},
+				{
+					"filename": "mtncat0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 54,
+						"h": 52
+					},
+					"frame": {
+						"x": 1983,
+						"y": 1365,
+						"w": 54,
+						"h": 52
+					}
+				},
+				{
+					"filename": "mtncat0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 54,
+						"h": 52
+					},
+					"frame": {
+						"x": 1983,
+						"y": 1365,
+						"w": 54,
+						"h": 52
+					}
+				},
+				{
+					"filename": "mtncat0001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 50,
+						"h": 45
+					},
+					"frame": {
+						"x": 1983,
+						"y": 1419,
+						"w": 50,
+						"h": 45
+					}
+				},
+				{
+					"filename": "mtncat0002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 50,
+						"h": 45
+					},
+					"frame": {
+						"x": 1983,
+						"y": 1419,
+						"w": 50,
+						"h": 45
+					}
+				},
+				{
+					"filename": "toboggan",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 119
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 111
+					},
+					"frame": {
+						"x": 1646,
+						"y": 1388,
+						"w": 76,
+						"h": 111
+					}
+				},
+				{
+					"filename": "stick1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 71,
+						"h": 74
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 71,
+						"h": 74
+					},
+					"frame": {
+						"x": 1646,
+						"y": 1501,
+						"w": 71,
+						"h": 74
+					}
+				},
+				{
+					"filename": "mtncat0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 57,
+						"h": 47
+					},
+					"frame": {
+						"x": 1646,
+						"y": 1577,
+						"w": 57,
+						"h": 47
+					}
+				},
+				{
+					"filename": "mtncat0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 57,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 57,
+						"h": 47
+					},
+					"frame": {
+						"x": 1646,
+						"y": 1577,
+						"w": 57,
+						"h": 47
+					}
+				},
+				{
+					"filename": "stick2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 25,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 25,
+						"h": 67
+					},
+					"frame": {
+						"x": 1705,
+						"y": 1577,
+						"w": 25,
+						"h": 67
+					}
+				},
+				{
+					"filename": "pengrun",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 133,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 133,
+						"h": 123
+					},
+					"frame": {
+						"x": 1646,
+						"y": 1667,
+						"w": 133,
+						"h": 123
+					}
+				},
+				{
+					"filename": "express",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 142,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 142,
+						"h": 120
+					},
+					"frame": {
+						"x": 1781,
+						"y": 1667,
+						"w": 142,
+						"h": 120
+					}
+				}
+			]
+		},
+		{
+			"image": "mtn-holiday-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1620,
+				"h": 1708
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift0087",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 14,
+						"w": 551,
+						"h": 424
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 551,
+						"h": 424
+					}
+				},
+				{
+					"filename": "lift0003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 17,
+						"w": 547,
+						"h": 427
+					},
+					"frame": {
+						"x": 554,
+						"y": 1,
+						"w": 547,
+						"h": 427
+					}
+				},
+				{
+					"filename": "lift0005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 17,
+						"w": 547,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 427,
+						"w": 547,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1103,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1103,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 17,
+						"w": 546,
+						"h": 421
+					},
+					"frame": {
+						"x": 550,
+						"y": 430,
+						"w": 546,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0086",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 8,
+						"w": 543,
+						"h": 430
+					},
+					"frame": {
+						"x": 1,
+						"y": 850,
+						"w": 543,
+						"h": 430
+					}
+				},
+				{
+					"filename": "lift0006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 17,
+						"w": 536,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1282,
+						"w": 536,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 539,
+						"y": 1282,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 546,
+						"y": 853,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1098,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0085",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 1,
+						"w": 537,
+						"h": 437
+					},
+					"frame": {
+						"x": 1064,
+						"y": 1270,
+						"w": 537,
+						"h": 437
+					}
+				}
+			]
+		},
+		{
+			"image": "mtn-holiday-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1554,
+				"h": 1692
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift0013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0020",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0021",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0022",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0023",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0024",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				}
+			]
+		},
+		{
+			"image": "mtn-holiday-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1554,
+				"h": 1692
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift0025",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0026",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0027",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0028",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0029",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0030",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0031",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0032",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0033",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0034",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0035",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0036",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				}
+			]
+		},
+		{
+			"image": "mtn-holiday-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1554,
+				"h": 1692
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift0037",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0038",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0039",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0040",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0041",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0042",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0043",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0044",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0045",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0046",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0047",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0048",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				}
+			]
+		},
+		{
+			"image": "mtn-holiday-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1554,
+				"h": 1692
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift0049",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0050",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0051",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0052",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0053",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0054",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0055",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0056",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0057",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0058",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0059",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0060",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				}
+			]
+		},
+		{
+			"image": "mtn-holiday-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1554,
+				"h": 1692
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift0061",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0062",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0063",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0064",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0065",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0066",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0067",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0068",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0069",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0070",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0071",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0072",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1270,
+						"w": 516,
+						"h": 421
+					}
+				}
+			]
+		},
+		{
+			"image": "mtn-holiday-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1554,
+				"h": 1269
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lift0073",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0074",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0075",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 1,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0076",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0077",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0078",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 424,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0079",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0080",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 519,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				},
+				{
+					"filename": "lift0081",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 557,
+						"h": 454
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 17,
+						"w": 516,
+						"h": 421
+					},
+					"frame": {
+						"x": 1037,
+						"y": 847,
+						"w": 516,
+						"h": 421
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7aaee054b6a8160114c966a938e74196:5ea662d948905d4bae6c68446ea478f7:3d62fbbf6e9a4d93a49eba4ce66ee411$"
+	}
+}

@@ -1,0 +1,540 @@
+{
+    "anims": [
+        {
+            "key": "lift",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0072",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0073",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0074",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0075",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0076",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0077",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0078",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0079",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0080",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0081",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0082",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0083",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0084",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0085",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0086",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "mtn-holiday",
+                    "frame": "lift0087",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

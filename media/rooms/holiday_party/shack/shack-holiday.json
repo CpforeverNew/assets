@@ -1,0 +1,356 @@
+{
+	"textures": [
+		{
+			"image": "shack-holiday.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1565,
+				"h": 1460
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1563,
+						"h": 929
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 47,
+						"w": 1563,
+						"h": 882
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1563,
+						"h": 882
+					}
+				},
+				{
+					"filename": "left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 404,
+						"h": 574
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 404,
+						"h": 574
+					},
+					"frame": {
+						"x": 1,
+						"y": 885,
+						"w": 404,
+						"h": 574
+					}
+				},
+				{
+					"filename": "mineshack.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 463,
+						"h": 526
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 463,
+						"h": 526
+					},
+					"frame": {
+						"x": 407,
+						"y": 885,
+						"w": 463,
+						"h": 526
+					}
+				},
+				{
+					"filename": "pile bl.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 104,
+						"h": 42
+					},
+					"frame": {
+						"x": 407,
+						"y": 1413,
+						"w": 104,
+						"h": 42
+					}
+				},
+				{
+					"filename": "pile topr.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 42
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 67,
+						"h": 42
+					},
+					"frame": {
+						"x": 513,
+						"y": 1413,
+						"w": 67,
+						"h": 42
+					}
+				},
+				{
+					"filename": "top pile right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 37
+					},
+					"frame": {
+						"x": 582,
+						"y": 1413,
+						"w": 64,
+						"h": 37
+					}
+				},
+				{
+					"filename": "pile b.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 26
+					},
+					"frame": {
+						"x": 648,
+						"y": 1413,
+						"w": 44,
+						"h": 26
+					}
+				},
+				{
+					"filename": "right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 325,
+						"h": 465
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 465
+					},
+					"frame": {
+						"x": 872,
+						"y": 885,
+						"w": 325,
+						"h": 465
+					}
+				},
+				{
+					"filename": "tracks.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 365,
+						"h": 160
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 365,
+						"h": 160
+					},
+					"frame": {
+						"x": 1199,
+						"y": 885,
+						"w": 365,
+						"h": 160
+					}
+				},
+				{
+					"filename": "greenpresent.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 112,
+						"h": 91
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 112,
+						"h": 91
+					},
+					"frame": {
+						"x": 872,
+						"y": 1352,
+						"w": 112,
+						"h": 91
+					}
+				},
+				{
+					"filename": "pile barrel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 82
+					},
+					"frame": {
+						"x": 986,
+						"y": 1352,
+						"w": 68,
+						"h": 82
+					}
+				},
+				{
+					"filename": "pile topl.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 76,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 76,
+						"h": 65
+					},
+					"frame": {
+						"x": 1056,
+						"y": 1352,
+						"w": 76,
+						"h": 65
+					}
+				},
+				{
+					"filename": "pile br.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 108,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 108,
+						"h": 52
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1352,
+						"w": 108,
+						"h": 52
+					}
+				},
+				{
+					"filename": "top pile left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 103,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 103,
+						"h": 52
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1406,
+						"w": 103,
+						"h": 52
+					}
+				},
+				{
+					"filename": "backcart.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 118
+					},
+					"frame": {
+						"x": 1199,
+						"y": 1047,
+						"w": 134,
+						"h": 118
+					}
+				},
+				{
+					"filename": "frontcart.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 118
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 118
+					},
+					"frame": {
+						"x": 1199,
+						"y": 1167,
+						"w": 134,
+						"h": 118
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b6d97172fb81b50991f937320aa45172:d41bf18b2f56832053cdf124a43ee02a:98ac9fc125c5d01f5f359ca2618fe36e$"
+	}
+}

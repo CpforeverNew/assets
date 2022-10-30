@@ -1,0 +1,1374 @@
+{
+    "anims": [
+        {
+            "key": "bluelight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "town-holiday",
+                    "frame": "bluelight0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "bluelight0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "bluelight0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "bluelight0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "bluelight0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "bluelight0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "bluelight0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "bluelight0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "bluelight0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "bluelight0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "bluelight0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "bluelight0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "redlight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "town-holiday",
+                    "frame": "redlight0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redlight0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redlight0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redlight0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redlight0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redlight0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redlight0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redlight0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redlight0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redlight0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redlight0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redlight0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "purplelight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "town-holiday",
+                    "frame": "purplelight0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "purplelight0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "purplelight0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "purplelight0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "purplelight0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "purplelight0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "purplelight0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "purplelight0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "purplelight0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "purplelight0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "purplelight0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "purplelight0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "orangelight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "town-holiday",
+                    "frame": "orangelight0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "orangelight0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "orangelight0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "orangelight0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "orangelight0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "orangelight0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "orangelight0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "orangelight0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "orangelight0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "orangelight0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "orangelight0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "orangelight0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "yellowlight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "town-holiday",
+                    "frame": "yellowlight0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "yellowlight0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "yellowlight0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "yellowlight0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "yellowlight0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "yellowlight0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "yellowlight0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "yellowlight0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "yellowlight0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "yellowlight0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "yellowlight0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "yellowlight0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "greenlight",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "town-holiday",
+                    "frame": "greenlight0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "greenlight0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "greenlight0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "greenlight0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "greenlight0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "greenlight0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "greenlight0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "greenlight0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "greenlight0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "greenlight0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "greenlight0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "greenlight0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "cfc",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "cfc0040",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "trees",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0046",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0047",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0048",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0049",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0050",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0051",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0052",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0053",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0054",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0055",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0056",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0057",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0058",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0059",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0060",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0061",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0062",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0063",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0064",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0065",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0066",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0067",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0068",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0069",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0070",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0071",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "trees0072",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "redstar",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "town-holiday",
+                    "frame": "redstar0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

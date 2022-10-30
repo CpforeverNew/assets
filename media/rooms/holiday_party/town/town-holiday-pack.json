@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/media/rooms/holiday_party/town/town-anims.json",
+                "type": "animation",
+                "key": "town-anims"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/holiday_party/town/town-holiday.json",
+                "path": "assets/media/rooms/holiday_party/town",
+                "key": "town-holiday"
+            },
+            {
+                "url": "assets/media/rooms/holiday_party/town/town-physics.json",
+                "type": "json",
+                "key": "town-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

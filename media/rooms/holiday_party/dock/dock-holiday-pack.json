@@ -1,0 +1,24 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/holiday_party/dock/dock-holiday.json",
+                "path": "assets/media/rooms/holiday_party/dock",
+                "key": "dock-holiday"
+            },
+            {
+                "url": "assets/media/rooms/holiday_party/dock/dock-physics.json",
+                "type": "json",
+                "key": "dock-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
